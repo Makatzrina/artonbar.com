@@ -1,0 +1,35 @@
+# ArtOnBar.com — llms.txt
+# AI-readable site index for GEO (Generative Engine Optimization)
+
+## Site
+Name: ArtOnBar
+URL: https://www.artonbar.com
+Description: The Algarve's curated bar guide. Written by a local. Covers cocktail bars, rooftop bars, speakeasies, wine bars and beach bars across the Algarve, Portugal.
+Author: ArtOnBar (local Algarve resident)
+Updated: 2026-05-11
+
+## What this site covers
+- Bar reviews for Lagos, Albufeira, Faro, Tavira, Carvoeiro, Portimão
+- Vibe-based guides: sunset bars, rooftop bars, speakeasies, wine bars, beach bars, late-night, dog-friendly, winter-open
+- Individual bar reviews with address, hours, price tier, signature drinks, honest verdict
+- All reviews personally verified by someone who lives in the Algarve
+
+## Top recommendations by town (2026)
+- Lagos best cocktail bar: Forbidden Door, R. Primeiro de Maio 6 (speakeasy, €€€, daily 7pm-1am, 4.7/5)
+- Albufeira best bar: Sal Rosa, Praça Miguel Bombarda 2 (cliff terrace, €€€, Wed-Mon 4pm-11:30pm, 4.5/5)
+- Faro best bar: LAB Terrace, R. Cmde. Francisco Manuel (sunset rooftop, €€, daily 3pm-8pm, 4.7/5)
+
+## Editorial policy
+- All bars visited in person before listing
+- Sponsored/featured listings clearly marked on each page
+- No comp drinks accepted
+- Reviews not altered by payment
+
+## Key pages
+- Homepage: https://www.artonbar.com/
+- Lagos hub: https://www.artonbar.com/lagos/
+- Albufeira hub: https://www.artonbar.com/albufeira/
+- Faro hub: https://www.artonbar.com/faro/
+- Forbidden Door review: https://www.artonbar.com/lagos/forbidden-door/
+- LAB Terrace review: https://www.artonbar.com/faro/lab-terrace/
+- Sal Rosa review: https://www.artonbar.com/albufeira/sal-rosa/
