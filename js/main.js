@@ -26,7 +26,7 @@ if (newsletterForm) {
     e.preventDefault();
     const email = newsletterForm.querySelector('input[type="email"]').value;
     if (email) {
-      newsletterForm.innerHTML = '<p style="color:var(--terracotta);font-weight:600;font-size:1rem;">✓ You\'re in. See you next month.</p>';
+      newsletterForm.innerHTML = '<p style="color:var(--pink);font-weight:600;font-size:1rem;font-family:var(--font-mono);letter-spacing:.06em;text-transform:uppercase;">✓ You\'re in. See you next month.</p>';
     }
   });
 }
@@ -36,6 +36,6 @@ const contactForm = document.querySelector('.js-contact-form');
 if (contactForm) {
   contactForm.addEventListener('submit', e => {
     e.preventDefault();
-    contactForm.innerHTML = '<p style="color:var(--terracotta);font-weight:600;font-size:1rem;padding:2rem 0;">✓ Got it — I\'ll reply within 48 hours.</p>';
+    contactForm.innerHTML = '<p style="color:var(--pink);font-weight:600;font-size:1rem;font-family:var(--font-mono);letter-spacing:.06em;text-transform:uppercase;padding:2rem 0;">✓ Got it — I\'ll reply within 48 hours.</p>';
   });
 }
