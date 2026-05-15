@@ -80,14 +80,14 @@
       </div>
 
       <div>
-        <form class="form-grid js-contact-form" novalidate>
+        <form class="form-grid js-contact-form" data-form-subject="ArtOnBar — Bar Listing Enquiry" novalidate>
           <div class="form-field">
             <label for="bar-name">Bar name</label>
-            <input type="text" id="bar-name" placeholder="Your bar's name" required>
+            <input type="text" id="bar-name" name="bar_name" placeholder="Your bar's name" required>
           </div>
           <div class="form-field">
             <label for="town">Town</label>
-            <select id="town">
+            <select id="town" name="town">
               <option value="">Select town</option>
               <option>Lagos</option>
               <option>Albufeira</option>
@@ -101,11 +101,11 @@
           </div>
           <div class="form-field">
             <label for="owner-email">Your email</label>
-            <input type="email" id="owner-email" placeholder="you@yourbar.com" required>
+            <input type="email" id="owner-email" name="email" placeholder="you@yourbar.com" required>
           </div>
           <div class="form-field">
             <label for="message">Tell me about your bar</label>
-            <textarea id="message" placeholder="Three things people should try, best night to visit, anything else worth knowing..." rows="5"></textarea>
+            <textarea id="message" name="message" placeholder="Three things people should try, best night to visit, anything else worth knowing..." rows="5"></textarea>
           </div>
           <div>
             <button type="submit" class="btn btn--primary">Submit enquiry</button>
