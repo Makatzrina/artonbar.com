@@ -20,6 +20,20 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Per-town colour moods on the location tiles */
+    .town-grid .town-tile{position:relative;overflow:hidden;transition:transform .2s,box-shadow .2s;}
+    .town-grid .town-tile:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.35);}
+    .town-grid .town-tile:nth-child(1){background:linear-gradient(135deg,rgba(255,94,58,.16),rgba(0,0,0,0) 60%);}   /* Lagos — sunset orange */
+    .town-grid .town-tile:nth-child(2){background:linear-gradient(135deg,rgba(77,208,225,.14),rgba(0,0,0,0) 60%);}  /* Albufeira — sea cyan */
+    .town-grid .town-tile:nth-child(3){background:linear-gradient(135deg,rgba(120,144,255,.14),rgba(0,0,0,0) 60%);} /* Vilamoura — marina blue */
+    .town-grid .town-tile:nth-child(4){background:linear-gradient(135deg,rgba(255,105,180,.13),rgba(0,0,0,0) 60%);} /* Faro — flamingo pink */
+    .town-grid .town-tile:nth-child(5){background:linear-gradient(135deg,rgba(255,214,90,.13),rgba(0,0,0,0) 60%);}  /* Tavira — golden */
+    .town-grid .town-tile:nth-child(6){background:linear-gradient(135deg,rgba(190,255,120,.12),rgba(0,0,0,0) 60%);} /* Carvoeiro — lemon-lime */
+    .town-grid .town-tile:nth-child(7){background:linear-gradient(135deg,rgba(190,90,255,.13),rgba(0,0,0,0) 60%);}  /* Portimão — wine purple */
+    .town-grid .town-tile:nth-child(8){background:linear-gradient(135deg,rgba(64,224,160,.13),rgba(0,0,0,0) 60%);}  /* Quarteira — palm green */
+    .town-tile__emoji{font-size:2rem;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
+  </style>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -314,6 +328,8 @@
           <li><a href="/bar-finder/">Bar Finder</a></li>
           <li><a href="/map/">Bar Map</a></li>
           <li><a href="/best-bars-algarve/">Best Bars Algarve</a></li>
+          <li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li>
+          <li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li>
           <li><a href="/sunset-bars/">Sunset Bars</a></li>
           <li><a href="/rooftop-bars/">Rooftop Bars</a></li>
           <li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li>
