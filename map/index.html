@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Algarve Bar Map — Every Reviewed Bar on One Map</title>
+  <meta name="description" content="Interactive map of the best bars in the Algarve — speakeasies, rooftops, beach bars and cocktail bars from Lagos to Tavira, every one visited and reviewed. 2026.">
+  <link rel="canonical" href="https://www.artonbar.com/map/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../js/leaflet/leaflet.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "name": "Algarve Bar Map",
+        "description": "Interactive map of every reviewed bar in the Algarve, from Lagos to Tavira.",
+        "url": "https://www.artonbar.com/map/"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "ArtOnBar", "item": "https://www.artonbar.com/"},
+          {"@type": "ListItem", "position": 2, "name": "Bar Map", "item": "https://www.artonbar.com/map/"}
+        ]
+      }
+    ]
+  }
+  </script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K767LQ3EEK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-K767LQ3EEK');
+  </script>
+  <!-- Open Graph -->
+  <meta property="og:title" content="Algarve Bar Map — Every Reviewed Bar on One Map">
+  <meta property="og:description" content="Interactive map of the best bars in the Algarve — speakeasies, rooftops, beach bars and cocktail bars from Lagos to Tavira.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.artonbar.com/map/">
+  <meta property="og:site_name" content="ArtOnBar">
+  <style>
+    #barmap{height:70vh;min-height:420px;border-radius:12px;border:1px solid rgba(255,255,255,.15);}
+    .map-popup{font-family:Inter,sans-serif;}
+    .map-popup__name{font-weight:700;font-size:1rem;margin-bottom:2px;}
+    .map-popup__meta{font-size:.78rem;color:#666;margin-bottom:6px;}
+    .map-popup__desc{font-size:.85rem;margin:0 0 8px;}
+    .map-popup a.map-popup__btn{display:inline-block;background:#0e7c8c;color:#fff;padding:5px 12px;border-radius:6px;font-size:.8rem;text-decoration:none;}
+    .leaflet-popup-content{margin:12px 14px;}
+    .map-legend{margin-top:1.25rem;font-size:.85rem;color:var(--muted,#999);}
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container nav__inner">
+    <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
+    <ul class="nav__links" id="nav-links">
+      <li><a href="/lagos/">Lagos</a></li>
+      <li><a href="/albufeira/">Albufeira</a></li>
+      <li><a href="/vilamoura/">Vilamoura</a></li>
+      <li><a href="/faro/">Faro</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
+    </ul>
+    <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-hero">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">ArtOnBar</a><span class="breadcrumb__sep">›</span><span>Bar Map</span>
+    </nav>
+    <div class="page-hero__label">Interactive Map · Lagos to Tavira</div>
+    <h1>The Algarve Bar Map</h1>
+    <p class="page-hero__sub">Every bar we've reviewed, pinned. Click a marker for the quick verdict and the full review. Zoom into whichever town you're in tonight.</p>
+    <p style="margin-top:1rem;"><a href="/bar-finder/" style="color:var(--cyan,#4dd0e1);">🔍 Prefer filters? Use the Bar Finder →</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div id="barmap"></div>
+    <p class="map-legend">📍 Pins are placed at the bar's street address (approximate to a few metres). Map data © OpenStreetMap contributors.</p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand"><div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div><p>The Algarve's curated bar guide.</p></div>
+      <div class="footer__col"><h4>Towns</h4><ul><li><a href="/lagos/">Lagos</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/faro/">Faro</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/quarteira/">Quarteira</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li></ul></div>
+      <div class="footer__col"><h4>Site</h4><ul><li><a href="/about/">About</a></li><li><a href="/submit-a-bar/">List Your Bar</a></li></ul></div>
+    </div>
+    <div class="footer__bottom"><span>© 2026 ArtOnBar.com</span><span>No fake reviews.</span></div>
+  </div>
+</footer>
+
+<script src="../js/leaflet/leaflet.js"></script>
+<script src="../js/bars-data.js"></script>
+<script>
+(function(){
+  var map = L.map('barmap', {scrollWheelZoom:false}).setView([37.08, -8.15], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  map.on('click', function(){ map.scrollWheelZoom.enable(); });
+
+  var bounds = [];
+  window.ARTONBAR_BARS.forEach(function(b){
+    var icon = L.divIcon({
+      className: '',
+      html: '<div style="font-size:26px;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.5));">'+b.emoji+'</div>',
+      iconSize: [26,26], iconAnchor: [13,13], popupAnchor: [0,-12]
+    });
+    var m = L.marker([b.lat, b.lng], {icon: icon, title: b.name}).addTo(map);
+    m.bindPopup(
+      '<div class="map-popup">'+
+      '<div class="map-popup__name">'+b.emoji+' '+b.name+'</div>'+
+      '<div class="map-popup__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · ⭐ '+b.rating.toFixed(1)+(b.winter?' · ❄️ winter':'')+'</div>'+
+      '<p class="map-popup__desc">'+b.desc+'</p>'+
+      '<a class="map-popup__btn" href="'+b.url+'">Read the review →</a>'+
+      '</div>'
+    );
+    bounds.push([b.lat, b.lng]);
+  });
+  map.fitBounds(bounds, {padding:[30,30]});
+})();
+</script>
+<script src="../js/main.js"></script>
+</body>
+</html>

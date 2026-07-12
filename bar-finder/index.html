@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Algarve Bar Finder — Filter Every Bar We've Reviewed</title>
+  <meta name="description" content="Find your bar in the Algarve: filter every bar we've reviewed by town, vibe, price and winter opening. Speakeasies, rooftops, beach bars and more. Updated 2026.">
+  <link rel="canonical" href="https://www.artonbar.com/bar-finder/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "name": "Algarve Bar Finder",
+        "description": "Interactive tool to filter every reviewed bar in the Algarve by town, vibe, price and winter opening.",
+        "url": "https://www.artonbar.com/bar-finder/"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "ArtOnBar", "item": "https://www.artonbar.com/"},
+          {"@type": "ListItem", "position": 2, "name": "Bar Finder", "item": "https://www.artonbar.com/bar-finder/"}
+        ]
+      }
+    ]
+  }
+  </script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K767LQ3EEK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-K767LQ3EEK');
+  </script>
+  <!-- Open Graph -->
+  <meta property="og:title" content="Algarve Bar Finder — Filter Every Bar We've Reviewed">
+  <meta property="og:description" content="Filter every bar in the Algarve by town, vibe, price and winter opening. Speakeasies, rooftops, beach bars and more.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.artonbar.com/bar-finder/">
+  <meta property="og:site_name" content="ArtOnBar">
+  <style>
+    .finder-filters{margin-bottom:2rem;}
+    .finder-filters h3{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted,#999);margin:1.25rem 0 .5rem;}
+    .finder-chip{display:inline-block;padding:.45rem .9rem;margin:0 .4rem .5rem 0;border:1px solid rgba(255,255,255,.2);border-radius:999px;font-size:.85rem;cursor:pointer;user-select:none;transition:all .15s;background:transparent;color:inherit;}
+    .finder-chip:hover{border-color:var(--cyan,#4dd0e1);}
+    .finder-chip.active{background:var(--cyan,#4dd0e1);color:#111;border-color:var(--cyan,#4dd0e1);font-weight:600;}
+    .finder-count{font-size:.85rem;color:var(--muted,#999);margin:1rem 0 1.5rem;}
+    .finder-card{display:flex;gap:1rem;align-items:flex-start;padding:1.25rem;border:1px solid rgba(255,255,255,.12);border-radius:12px;margin-bottom:1rem;text-decoration:none;color:inherit;transition:border-color .15s;}
+    .finder-card:hover{border-color:var(--cyan,#4dd0e1);}
+    .finder-card__emoji{font-size:1.8rem;line-height:1;}
+    .finder-card__name{font-weight:700;font-size:1.05rem;margin-bottom:.15rem;}
+    .finder-card__meta{font-size:.8rem;color:var(--muted,#999);margin-bottom:.4rem;}
+    .finder-card__desc{font-size:.9rem;color:var(--muted,#bbb);margin:0;}
+    .finder-card__badges{margin-left:auto;text-align:right;white-space:nowrap;font-size:.85rem;}
+    .finder-empty{padding:2rem;text-align:center;color:var(--muted,#999);border:1px dashed rgba(255,255,255,.2);border-radius:12px;}
+    @media(max-width:600px){.finder-card{flex-wrap:wrap;}.finder-card__badges{margin-left:0;text-align:left;}}
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container nav__inner">
+    <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
+    <ul class="nav__links" id="nav-links">
+      <li><a href="/lagos/">Lagos</a></li>
+      <li><a href="/albufeira/">Albufeira</a></li>
+      <li><a href="/vilamoura/">Vilamoura</a></li>
+      <li><a href="/faro/">Faro</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
+    </ul>
+    <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<section class="page-hero">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">ArtOnBar</a><span class="breadcrumb__sep">›</span><span>Bar Finder</span>
+    </nav>
+    <div class="page-hero__label">Interactive · Every Bar We've Reviewed</div>
+    <h1>Algarve Bar Finder</h1>
+    <p class="page-hero__sub">Every bar on this site, one screen. Pick a town, pick a vibe, set your budget — and get the shortlist. Every bar here has been visited and reviewed in person.</p>
+    <p style="margin-top:1rem;"><a href="/map/" style="color:var(--cyan,#4dd0e1);">🗺️ Prefer a map? See all bars on the map →</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="finder-filters">
+      <h3>Town</h3>
+      <div id="f-towns"></div>
+      <h3>Vibe</h3>
+      <div id="f-vibes"></div>
+      <h3>Price</h3>
+      <div id="f-price"></div>
+      <h3>When</h3>
+      <div id="f-winter"></div>
+    </div>
+    <div class="finder-count" id="f-count"></div>
+    <div id="f-results"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand"><div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div><p>The Algarve's curated bar guide.</p></div>
+      <div class="footer__col"><h4>Towns</h4><ul><li><a href="/lagos/">Lagos</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/faro/">Faro</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/quarteira/">Quarteira</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li></ul></div>
+      <div class="footer__col"><h4>Site</h4><ul><li><a href="/about/">About</a></li><li><a href="/submit-a-bar/">List Your Bar</a></li></ul></div>
+    </div>
+    <div class="footer__bottom"><span>© 2026 ArtOnBar.com</span><span>No fake reviews.</span></div>
+  </div>
+</footer>
+
+<script src="../js/bars-data.js"></script>
+<script>
+(function(){
+  var bars = window.ARTONBAR_BARS, VIBES = window.ARTONBAR_VIBES;
+  var state = {town:null, vibe:null, price:null, winter:false};
+  var towns = []; bars.forEach(function(b){ if(towns.indexOf(b.town)<0) towns.push(b.town); }); towns.sort();
+
+  function chip(label, group, value){
+    var el = document.createElement('button');
+    el.className = 'finder-chip'; el.textContent = label;
+    el.onclick = function(){
+      state[group] = (state[group]===value) ? null : value;
+      render();
+    };
+    el.dataset.group = group; el.dataset.value = value;
+    return el;
+  }
+
+  var tEl = document.getElementById('f-towns');
+  tEl.appendChild(chip('All towns','town','__all'));
+  towns.forEach(function(t){ tEl.appendChild(chip(t,'town',t)); });
+
+  var vEl = document.getElementById('f-vibes');
+  vEl.appendChild(chip('Any vibe','vibe','__all'));
+  Object.keys(VIBES).forEach(function(k){ vEl.appendChild(chip(VIBES[k],'vibe',k)); });
+
+  var pEl = document.getElementById('f-price');
+  pEl.appendChild(chip('Any price','price','__all'));
+  [[1,'€'],[2,'€€'],[3,'€€€'],[4,'€€€€']].forEach(function(p){ pEl.appendChild(chip(p[1],'price',p[0])); });
+
+  var wEl = document.getElementById('f-winter');
+  var wChip = document.createElement('button');
+  wChip.className='finder-chip'; wChip.textContent='❄️ Open in winter';
+  wChip.onclick=function(){ state.winter=!state.winter; render(); };
+  wEl.appendChild(wChip);
+
+  function render(){
+    document.querySelectorAll('.finder-chip').forEach(function(c){
+      var g=c.dataset.group, v=c.dataset.value;
+      if(!g){ return; }
+      if(v==='__all'){ c.classList.toggle('active', state[g]===null || state[g]==='__all'); if(state[g]==='__all') state[g]=null; }
+      else { var val = (g==='price') ? String(state[g]) : state[g]; c.classList.toggle('active', val===v); }
+    });
+    wChip.classList.toggle('active', state.winter);
+
+    var out = bars.filter(function(b){
+      if(state.town && b.town!==state.town) return false;
+      if(state.vibe && b.vibes.indexOf(state.vibe)<0) return false;
+      if(state.price && b.price!==state.price) return false;
+      if(state.winter && !b.winter) return false;
+      return true;
+    }).sort(function(a,b){ return b.rating-a.rating; });
+
+    document.getElementById('f-count').textContent = out.length + ' bar' + (out.length===1?'':'s') + ' found, sorted by rating';
+    var res = document.getElementById('f-results'); res.innerHTML='';
+    if(!out.length){
+      res.innerHTML = '<div class="finder-empty">Nothing matches that combination — try removing a filter.</div>';
+      return;
+    }
+    out.forEach(function(b){
+      var a = document.createElement('a');
+      a.className='finder-card'; a.href=b.url;
+      a.innerHTML = '<div class="finder-card__emoji">'+b.emoji+'</div>'+
+        '<div><div class="finder-card__name">'+b.name+'</div>'+
+        '<div class="finder-card__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · '+(b.winter?'❄️ open in winter':'☀️ seasonal')+'</div>'+
+        '<p class="finder-card__desc">'+b.desc+'</p></div>'+
+        '<div class="finder-card__badges">⭐ '+b.rating.toFixed(1)+'</div>';
+      res.appendChild(a);
+    });
+  }
+  render();
+})();
+</script>
+<script src="../js/main.js"></script>
+</body>
+</html>
