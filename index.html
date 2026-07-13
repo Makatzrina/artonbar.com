@@ -12,6 +12,10 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.artonbar.com/">
   <meta property="og:site_name" content="ArtOnBar">
+  <meta property="og:image" content="https://www.artonbar.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:image" content="https://www.artonbar.com/og-image.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Best Bars in the Algarve 2026 — Town-by-Town Guide">
   <meta name="twitter:description" content="Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements.">
@@ -32,6 +36,8 @@
     .town-grid .town-tile:nth-child(6){background:linear-gradient(135deg,rgba(190,255,120,.12),rgba(0,0,0,0) 60%);} /* Carvoeiro — lemon-lime */
     .town-grid .town-tile:nth-child(7){background:linear-gradient(135deg,rgba(190,90,255,.13),rgba(0,0,0,0) 60%);}  /* Portimão — wine purple */
     .town-grid .town-tile:nth-child(8){background:linear-gradient(135deg,rgba(64,224,160,.13),rgba(0,0,0,0) 60%);}  /* Quarteira — palm green */
+    .town-grid .town-tile:nth-child(9){background:linear-gradient(135deg,rgba(90,180,255,.14),rgba(0,0,0,0) 60%);}  /* Sagres — atlantic blue */
+    .town-grid .town-tile:nth-child(10){background:linear-gradient(135deg,rgba(255,140,90,.13),rgba(0,0,0,0) 60%);} /* Olhão — brick orange */
     .town-tile__emoji{font-size:2rem;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
   </style>
   <script type="application/ld+json">
@@ -45,7 +51,7 @@
         "description": "The Algarve's curated bar guide. Written by a local.",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://www.artonbar.com/?q={search_term_string}",
+          "target": "https://www.artonbar.com/bar-finder/?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       },
@@ -124,6 +130,10 @@
       <a href="/bar-finder/" class="btn btn--outline">🔍 Bar Finder</a>
       <a href="/map/" class="btn btn--outline">🗺️ Map</a>
     </div>
+    <form action="/bar-finder/" method="GET" style="margin-top:1.5rem;display:flex;gap:.5rem;max-width:440px;">
+      <input type="search" name="q" placeholder="Search bars — speakeasy, rooftop, Lagos…" aria-label="Search bars" style="flex:1;padding:.7rem 1rem;border-radius:10px;border:1px solid rgba(255,255,255,.25);background:rgba(0,0,0,.25);color:inherit;font-size:.95rem;">
+      <button type="submit" class="btn btn--primary" style="white-space:nowrap;">Search</button>
+    </form>
   </div>
 </section>
 
@@ -260,6 +270,16 @@
         <div class="town-tile__name">Quarteira</div>
         <div class="town-tile__desc">Beachfront bars and local spots away from the tourist trail.</div>
       </a>
+      <a href="/sagres/" class="town-tile">
+        <div class="town-tile__emoji">🏄</div>
+        <div class="town-tile__name">Sagres</div>
+        <div class="town-tile__desc">Surf-town sundowners at the end of the world.</div>
+      </a>
+      <a href="/olhao/" class="town-tile">
+        <div class="town-tile__emoji">🐙</div>
+        <div class="town-tile__name">Olhão</div>
+        <div class="town-tile__desc">The east's coolest town. Wine bars, market halls, Ria Formosa light.</div>
+      </a>
     </div>
   </div>
 </section>
@@ -320,6 +340,8 @@
           <li><a href="/carvoeiro/">Carvoeiro</a></li>
           <li><a href="/portimao/">Portimão</a></li>
           <li><a href="/quarteira/">Quarteira</a></li>
+          <li><a href="/sagres/">Sagres</a></li>
+          <li><a href="/olhao/">Olhão</a></li>
         </ul>
       </div>
       <div class="footer__col">

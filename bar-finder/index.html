@@ -45,6 +45,10 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.artonbar.com/bar-finder/">
   <meta property="og:site_name" content="ArtOnBar">
+  <meta property="og:image" content="https://www.artonbar.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:image" content="https://www.artonbar.com/og-image.png">
   <style>
     .finder-filters{margin-bottom:2rem;}
     .finder-filters h3{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted,#999);margin:1.25rem 0 .5rem;}
@@ -97,6 +101,8 @@
 <section class="section">
   <div class="container">
     <div class="finder-filters">
+      <h3>Search</h3>
+      <input type="search" id="f-search" placeholder="Bar name, town, or vibe — e.g. speakeasy, sunset, Lagos…" style="width:100%;max-width:480px;padding:.65rem .9rem;border-radius:10px;border:1px solid rgba(255,255,255,.2);background:transparent;color:inherit;font-size:.95rem;" aria-label="Search bars">
       <h3>Town</h3>
       <div id="f-towns"></div>
       <h3>Vibe</h3>
@@ -127,7 +133,11 @@
 <script>
 (function(){
   var bars = window.ARTONBAR_BARS, VIBES = window.ARTONBAR_VIBES;
-  var state = {town:null, vibe:null, price:null, winter:false};
+  var state = {town:null, vibe:null, price:null, winter:false, q:''};
+  var searchEl = document.getElementById('f-search');
+  var urlQ = new URLSearchParams(location.search).get('q');
+  if (urlQ) { state.q = urlQ.toLowerCase(); searchEl.value = urlQ; }
+  searchEl.addEventListener('input', function(){ state.q = this.value.toLowerCase().trim(); render(); });
   var towns = []; bars.forEach(function(b){ if(towns.indexOf(b.town)<0) towns.push(b.town); }); towns.sort();
 
   function chip(label, group, value){
@@ -169,6 +179,10 @@
     wChip.classList.toggle('active', state.winter);
 
     var out = bars.filter(function(b){
+      if(state.q){
+        var hay = (b.name+' '+b.town+' '+b.desc+' '+b.vibes.join(' ')).toLowerCase();
+        if(hay.indexOf(state.q)<0) return false;
+      }
       if(state.town && b.town!==state.town) return false;
       if(state.vibe && b.vibes.indexOf(state.vibe)<0) return false;
       if(state.price && b.price!==state.price) return false;
