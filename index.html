@@ -39,6 +39,26 @@
     .town-grid .town-tile:nth-child(9){background:linear-gradient(135deg,rgba(90,180,255,.14),rgba(0,0,0,0) 60%);}  /* Sagres — atlantic blue */
     .town-grid .town-tile:nth-child(10){background:linear-gradient(135deg,rgba(255,140,90,.13),rgba(0,0,0,0) 60%);} /* Olhão — brick orange */
     .town-tile__emoji{font-size:2rem;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
+
+    /* Timely eclipse promo — 12 Aug 2026 */
+    .eclipse-banner{
+      display:flex;align-items:center;gap:1.4rem;
+      background:linear-gradient(120deg,rgba(255,201,77,.13),rgba(139,124,255,.12) 55%,rgba(0,0,0,0));
+      border:1px solid rgba(255,201,77,.35);border-radius:16px;
+      padding:1.5rem 1.75rem;transition:transform .2s,border-color .2s,box-shadow .2s;
+    }
+    .eclipse-banner:hover{transform:translateY(-3px);border-color:rgba(255,201,77,.7);box-shadow:0 14px 36px rgba(255,201,77,.14);}
+    .eclipse-banner__icon{font-size:2.8rem;line-height:1;flex-shrink:0;}
+    .eclipse-banner__text{font-size:.95rem;color:var(--cream-dim);line-height:1.6;}
+    .eclipse-banner__text strong{display:block;color:#ffc94d;font-family:var(--font-display);font-size:1.5rem;letter-spacing:.02em;margin-bottom:.25rem;}
+    .eclipse-banner__cta{
+      flex-shrink:0;font-family:var(--font-mono);font-size:.78rem;letter-spacing:.1em;
+      text-transform:uppercase;color:#ffc94d;border:1px solid rgba(255,201,77,.45);
+      border-radius:100px;padding:.6rem 1.2rem;white-space:nowrap;
+    }
+    @media (max-width:760px){
+      .eclipse-banner{flex-direction:column;text-align:center;gap:1rem;padding:1.5rem 1.25rem;}
+    }
   </style>
   <script type="application/ld+json">
   {
@@ -134,6 +154,20 @@
       <input type="search" name="q" placeholder="Search bars — speakeasy, rooftop, Lagos…" aria-label="Search bars" style="flex:1;padding:.7rem 1rem;border-radius:10px;border:1px solid rgba(255,255,255,.25);background:rgba(0,0,0,.25);color:inherit;font-size:.95rem;">
       <button type="submit" class="btn btn--primary" style="white-space:nowrap;">Search</button>
     </form>
+  </div>
+</section>
+
+<!-- ECLIPSE BANNER -->
+<section class="section--sm">
+  <div class="container">
+    <a href="/eclipse-game/" class="eclipse-banner">
+      <span class="eclipse-banner__icon" aria-hidden="true">🌒</span>
+      <span class="eclipse-banner__text">
+        <strong>Tonight: 93% of the Sun disappears over the Algarve.</strong>
+        The eclipse peaks at 19:38 and the Sun sets at 20:27, still bitten into. We built a free trivia game for kids explaining the whole thing — plus where to watch, and how to do it without wrecking your eyes.
+      </span>
+      <span class="eclipse-banner__cta">Play the quiz →</span>
+    </a>
   </div>
 </section>
 
