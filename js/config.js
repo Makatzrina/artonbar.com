@@ -13,6 +13,15 @@ window.ARTONBAR_CONFIG = {
     // Amazon Associates tag (e.g. "artonbar-21" for amazon.es/.co.uk). Only used if you add Amazon links.
     amazon_tag: ""
   },
+  // Direct sales. Create Stripe Payment Links (dashboard.stripe.com → Payment links) or PayPal.me links and paste them here.
+  // When a link is set, the matching button on /advertise/ goes straight to checkout instead of the enquiry form.
+  payment_links: {
+    "featured": "",          // €49 / month recurring
+    "featured-review": "",   // €149 one-off (set up the €49/mo as a second link or an invoice)
+    "sponsored-post": "",    // €99 one-off
+    "event": ""              // €29 one-off
+  },
+  sales_email: "makatzrina@gmail.com",
   ads: {
     // Google AdSense publisher ID, e.g. "ca-pub-1234567890123456". Empty = ad slots stay hidden (no layout shift, nothing loads).
     // Once approved: (1) set this, (2) create /ads.txt with the line AdSense gives you, (3) optionally add slot IDs below.

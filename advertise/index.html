@@ -99,6 +99,13 @@
 <p>People planning a night out in the Algarve — mostly British, Irish, German, Dutch and Portuguese visitors searching Google and asking AI assistants "best bars in Lagos", "rooftop bars Albufeira", "where to drink in Tavira". They arrive with a date and a budget. They're the customers you want on a Thursday.</p>
 <p>The site covers 19 towns from Aljezur to the Spanish border, with town guides, vibe guides (sunset, rooftop, speakeasy, wine, beach, late-night, winter) and an interactive finder and map. Every page is written for search engines and for the AI models that now answer travel questions — which is where a growing share of "where should we go tonight" decisions are made.</p>
 
+<h2>How it works</h2>
+<div class="steps">
+  <div class="step"><div class="step__num">1</div><h3>Pick a package</h3><p>Send the form below or email me. I'll confirm your town page, what the listing will say and when I can visit.</p></div>
+  <div class="step"><div class="step__num">2</div><h3>Pay by card or transfer</h3><p>Monthly packages are billed on the 1st; one-offs up front. Invoice with VAT number on request. Cancel monthly packages any time.</p></div>
+  <div class="step"><div class="step__num">3</div><h3>Live within 7 days</h3><p>Featured tag on, pinned in the finder and map, review written after my visit. You get the link to share and a monthly note on clicks.</p></div>
+</div>
+
 <h2>Options</h2>
 <div class="pricing-grid">
   <div class="pricing-card">
@@ -111,7 +118,7 @@
       <li>Link to your site, Instagram and booking page</li>
       <li>Still an honest review — see below</li>
     </ul>
-    <a href="/submit-a-bar/" class="btn btn--outline" style="justify-content:center;">Enquire</a>
+    <a href="/submit-a-bar/?package=featured" class="btn btn--outline" style="justify-content:center;" data-package="featured">Enquire</a>
   </div>
   <div class="pricing-card pricing-card--hot">
     <h3>Featured + Review</h3>
@@ -123,7 +130,7 @@
       <li>Mentioned in the next newsletter</li>
       <li>I visit and pay for my own drinks. The verdict is mine.</li>
     </ul>
-    <a href="/submit-a-bar/" class="btn btn--primary" style="justify-content:center;">Enquire</a>
+    <a href="/submit-a-bar/?package=featured-review" class="btn btn--primary" style="justify-content:center;" data-package="featured-review">Enquire</a>
   </div>
   <div class="pricing-card">
     <h3>Sponsored Post</h3>
@@ -134,7 +141,19 @@
       <li>Shared in the newsletter and on the homepage ticker for a month</li>
       <li>Written in the site's voice, approved by you before it goes live</li>
     </ul>
-    <a href="/contact/" class="btn btn--outline" style="justify-content:center;">Enquire</a>
+    <a href="/submit-a-bar/?package=sponsored-post" class="btn btn--outline" style="justify-content:center;" data-package="sponsored-post">Enquire</a>
+  </div>
+  <div class="pricing-card">
+    <h3>Event Listing</h3>
+    <div class="pricing-card__price">€29<small> per event</small></div>
+    <ul>
+      <li>Your live music night, DJ set, sunset party or launch on <a href="/whats-on/" style="color:var(--cyan);">What's On</a></li>
+      <li>Marked "Sponsored", linked to your booking page or Instagram</li>
+      <li>Listed until the event date, then archived</li>
+      <li>Recurring weekly events: €29 per month</li>
+      <li>Free for bars with a Featured Listing</li>
+    </ul>
+    <a href="/submit-a-bar/?package=event" class="btn btn--outline" style="justify-content:center;" data-package="event">Enquire</a>
   </div>
 </div>
 
@@ -148,7 +167,20 @@
 
 <h2>Other partners</h2>
 <p>Tour operators, hotels, distilleries, wineries and brands: sponsored vibe guides (e.g. "Sunset bars, presented by…"), newsletter sponsorship and tasting events are all possible. <a href="/contact/" style="color:var(--pink);">Get in touch</a> with what you have in mind.</p>
-<div class="notice">Prices are for 2026 and exclude VAT. Invoiced monthly; pay by bank transfer or card.</div>
+<h2>Terms, in short</h2>
+<ul>
+  <li>Monthly packages renew on the 1st of each month and can be cancelled with 7 days' notice. No minimum term.</li>
+  <li>One-off packages (review, sponsored post, event) are paid before publication.</li>
+  <li>The written review, rating and "Featured"/"Sponsored" labels are not negotiable; what you see in the quick-info box (hours, prices, booking link) is yours to correct at any time.</li>
+  <li>If a bar closes or changes hands, the Featured tag comes off and the remaining month is refunded.</li>
+  <li>Click numbers come from Google Analytics outbound-link events and are shared monthly on request.</li>
+</ul>
+<div class="notice">Prices are for 2026 and exclude VAT. Pay by card (link sent with the invoice) or bank transfer. Questions: <a href="/contact/" style="color:var(--cyan);">contact page</a>.</div>
+<script>
+// If a payment link is configured (payment_links in the site config), send the button straight to checkout.
+(function(){ var pl = (window.ARTONBAR_CONFIG && window.ARTONBAR_CONFIG.payment_links) || {};
+  document.querySelectorAll('[data-package]').forEach(function(a){ var k = a.getAttribute('data-package'); if (pl[k]) { a.href = pl[k]; a.textContent = 'Buy now'; a.setAttribute('rel','noopener'); a.target = '_blank'; } }); })();
+</script>
 
     </div>
   </div>
@@ -161,7 +193,7 @@
         <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink. 19 towns, 96 bars.</p>
       </div>
       <div class="footer__col footer__col--towns"><h4>Towns</h4><ul><li><a href="/aljezur/">Aljezur &amp; Arrifana</a></li><li><a href="/sagres/">Sagres</a></li><li><a href="/praia-da-luz/">Praia da Luz</a></li><li><a href="/lagos/">Lagos</a></li><li><a href="/alvor/">Alvor</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/ferragudo/">Ferragudo</a></li><li><a href="/silves/">Silves &amp; Monchique</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/armacao-de-pera/">Armação de Pêra</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/quarteira/">Quarteira</a></li><li><a href="/quinta-do-lago/">Quinta do Lago &amp; Vale do Lobo</a></li><li><a href="/loule/">Loulé</a></li><li><a href="/faro/">Faro</a></li><li><a href="/olhao/">Olhão</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/vila-real-de-santo-antonio/">Vila Real de Santo António</a></li></ul></div>
-      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li><li><a href="/beach-bars/">Beach Bars</a></li><li><a href="/wine-bars/">Wine Bars</a></li><li><a href="/late-night/">Late Night</a></li><li><a href="/open-in-winter/">Open in Winter</a></li><li><a href="/dog-friendly/">Dog-Friendly Bars</a></li><li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li><li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/whats-on/">What&#x27;s On</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li><li><a href="/beach-bars/">Beach Bars</a></li><li><a href="/wine-bars/">Wine Bars</a></li><li><a href="/late-night/">Late Night</a></li><li><a href="/open-in-winter/">Open in Winter</a></li><li><a href="/dog-friendly/">Dog-Friendly Bars</a></li><li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li><li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li></ul></div>
       <div class="footer__col"><h4>Site</h4><ul>
         <li><a href="/about/">About</a></li>
         <li><a href="/contact/">Contact</a></li>

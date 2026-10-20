@@ -27,6 +27,13 @@ Copy `/alvor/index.html`, change the title/description/canonical/H1/intro/bars/F
 4. **Direct sales** — `/advertise/` lists Featured Listing (€49/mo), Featured + Review (€149 + €49/mo) and Sponsored Post (€99). Change prices there. Enquiries arrive via the existing FormSubmit forms.
 5. **Newsletter** — the form posts to FormSubmit. For a real list, swap the form action for Mailchimp/Beehiiv in `js/main.js`.
 
+## Switching a Featured Listing on (when a bar pays)
+1. `js/bars-data.js`: set `"featured": true` on the bar's line. It is now pinned first in the Bar Finder for its town and gets a FEATURED badge on the map.
+2. The town page: add `bar-list-item--featured` to the bar's `<div class="bar-list-item">` and put `<span class="tag tag--featured">Featured</span>` after the name inside `bar-list-item__name`. Move it to position 1 if the package says so.
+3. Events: add a line to `js/events-data.js` with `"sponsored": true` for each paid event (€29) — it shows on `/whats-on/` until its date passes.
+4. Payment links: paste Stripe Payment Links / PayPal.me URLs into `payment_links` in `js/config.js` and the buttons on `/advertise/` become "Buy now".
+5. Sales material (contact list, email templates, 30-day plan) is in `_sales/` — the underscore keeps GitHub Pages from publishing it.
+
 ## Tracking what earns
 GA4 → Reports → Engagement → Events → `affiliate_click` (dimensions: `link_domain`, `page_path`). Compare with your partner dashboards monthly.
 
