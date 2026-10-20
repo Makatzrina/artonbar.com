@@ -1,16 +1,47 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <title>About ArtOnBar — The Algarve's Honest Bar Guide</title>
   <meta name="description" content="Why ArtOnBar exists, how bars get on the site, and how the guide makes money. No fluff.">
   <link rel="canonical" href="https://www.artonbar.com/about/">
+  <link rel="alternate" type="application/rss+xml" title="ArtOnBar — new bars &amp; guides" href="/feed.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "AboutPage",
+      "name": "About ArtOnBar",
+      "url": "https://www.artonbar.com/about/",
+      "description": "Why ArtOnBar exists, how bars get on the site, and how the guide makes money."
+    },
+    {
+      "@type": "Person",
+      "name": "ArtOnBar",
+      "url": "https://www.artonbar.com/about/",
+      "jobTitle": "Editor, ArtOnBar",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Algarve, Portugal"
+      },
+      "knowsAbout": [
+        "Algarve bars",
+        "Algarve nightlife",
+        "cocktail bars",
+        "wine bars"
+      ]
+    }
+  ]
+}
+  </script>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-K767LQ3EEK"></script>
   <script>
@@ -26,15 +57,15 @@
 </head>
 <body>
 
-<nav class="nav">
+<nav class="nav" role="navigation" aria-label="Main navigation">
   <div class="container nav__inner">
     <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
     <ul class="nav__links" id="nav-links">
-      <li><a href="/lagos/">Lagos</a></li>
-      <li><a href="/albufeira/">Albufeira</a></li>
-      <li><a href="/vilamoura/">Vilamoura</a></li>
-      <li><a href="/faro/">Faro</a></li>
-      <li><a href="/about/" style="color:var(--cream)">About</a></li>
+      <li><a href="/towns/">Towns</a></li>
+      <li><a href="/best-bars-algarve/">Best Bars</a></li>
+      <li><a href="/bar-finder/">Bar Finder</a></li>
+      <li><a href="/map/">Map</a></li>
+      <li><a href="/about/">About</a></li>
       <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
     </ul>
     <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
@@ -60,7 +91,7 @@
         <p>I live in the Algarve. The bar question comes up every time someone visits.</p>
         <p>"Where should we go tonight?"</p>
         <p>I'd send them to the same five spots, and they'd come back saying it was the best drink they had all trip. Meanwhile every guide online was either an SEO content mill listing 47 bars with no opinion, or a single travel blogger's two-day visit from Lisbon.</p>
-        <p>So I started this. The Algarve has a serious bar scene now. Lagos has a speakeasy that would hold its own in London. Carvoeiro has a cocktail bar that's been running 23 years. Tavira has rooftops nobody talks about because the locals would rather keep it that way.</p>
+        <p>So I started this. It now covers 19 towns from Aljezur to the Spanish border. The Algarve has a serious bar scene now. Lagos has a speakeasy that would hold its own in London. Carvoeiro has a cocktail bar that's been running 23 years. Tavira has rooftops nobody talks about because the locals would rather keep it that way.</p>
         <p>The point of ArtOnBar is to write down what I'd tell a friend.</p>
 
         <h2>How bars get on here</h2>
@@ -72,7 +103,7 @@
         </ol>
 
         <h2>How I make money</h2>
-        <p>Affiliate links to GetYourGuide and Booking.com when those make sense (cocktail classes, hotels near a bar). Featured listings as above. That's it.</p>
+        <p>Affiliate links to GetYourGuide and Booking.com when those make sense (cocktail classes, hotels near a bar). Featured listings and sponsored posts, always labelled — <a href="/advertise/" style="color:var(--cyan)">rates here</a>. Possibly display ads in marked slots. The full version is on the <a href="/disclosure/" style="color:var(--cyan)">disclosure page</a>.</p>
         <p>No comp drinks. No "we'll review you for €200." I'd rather the site stay slow and honest than fast and full of garbage.</p>
 
         <h2>Who writes this</h2>
@@ -92,14 +123,31 @@
 <footer class="footer">
   <div class="container">
     <div class="footer__grid">
-      <div class="footer__brand"><div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div><p>The Algarve's curated bar guide.</p></div>
-      <div class="footer__col"><h4>Towns</h4><ul><li><a href="/lagos/">Lagos</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/faro/">Faro</a></li></ul></div>
-      <div class="footer__col"><h4>Guides</h4><ul><li><a href="#">Best Bars Algarve</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li></ul></div>
-      <div class="footer__col"><h4>Site</h4><ul><li><a href="/about/">About</a></li><li><a href="/submit-a-bar/">List Your Bar</a></li></ul></div>
+      <div class="footer__brand">
+        <div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div>
+        <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink. 19 towns, 96 bars.</p>
+      </div>
+      <div class="footer__col footer__col--towns"><h4>Towns</h4><ul><li><a href="/aljezur/">Aljezur &amp; Arrifana</a></li><li><a href="/sagres/">Sagres</a></li><li><a href="/praia-da-luz/">Praia da Luz</a></li><li><a href="/lagos/">Lagos</a></li><li><a href="/alvor/">Alvor</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/ferragudo/">Ferragudo</a></li><li><a href="/silves/">Silves &amp; Monchique</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/armacao-de-pera/">Armação de Pêra</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/quarteira/">Quarteira</a></li><li><a href="/quinta-do-lago/">Quinta do Lago &amp; Vale do Lobo</a></li><li><a href="/loule/">Loulé</a></li><li><a href="/faro/">Faro</a></li><li><a href="/olhao/">Olhão</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/vila-real-de-santo-antonio/">Vila Real de Santo António</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li><li><a href="/beach-bars/">Beach Bars</a></li><li><a href="/wine-bars/">Wine Bars</a></li><li><a href="/late-night/">Late Night</a></li><li><a href="/open-in-winter/">Open in Winter</a></li><li><a href="/dog-friendly/">Dog-Friendly Bars</a></li><li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li><li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li></ul></div>
+      <div class="footer__col"><h4>Site</h4><ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/submit-a-bar/">List Your Bar</a></li>
+        <li><a href="/advertise/">Advertise</a></li>
+        <li><a href="/disclosure/">Affiliate Disclosure</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+        <li><a href="/feed.xml">RSS</a></li>
+        <li><a href="/llms.txt">llms.txt</a></li>
+      </ul></div>
     </div>
-    <div class="footer__bottom"><span>© 2026 ArtOnBar.com</span><span>No fake reviews.</span></div>
+    <div class="footer__bottom">
+      <span>© 2026 ArtOnBar.com · The Algarve, Portugal</span>
+      <span>Built honestly. No fake reviews. Some links are affiliate links — <a href="/disclosure/">how this site makes money</a>.</span>
+    </div>
   </div>
 </footer>
-<script src="../js/main.js"></script>
+<script src="/js/config.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/monetise.js"></script>
 </body>
 </html>

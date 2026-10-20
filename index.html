@@ -4,8 +4,9 @@
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <title>Best Bars in the Algarve 2026 — Town-by-Town Guide</title>
-  <meta name="description" content="Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements. Updated 2026.">
+  <meta name="description" content="Independent bar guide to the Algarve — 96 bars across 19 towns from Lagos and Albufeira to Loulé, the Golden Triangle and the Costa Vicentina. Honest picks, updated October 2026.">
   <meta name="keywords" content="best bars algarve, algarve bar guide, algarve nightlife, going out algarve, bars in lagos portugal, cocktail bars algarve, rooftop bars algarve, nightlife algarve 2026">
   <meta property="og:title" content="Best Bars in the Algarve 2026 — Town-by-Town Guide">
   <meta property="og:description" content="Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements. Updated 2026.">
@@ -20,24 +21,12 @@
   <meta name="twitter:title" content="Best Bars in the Algarve 2026 — Town-by-Town Guide">
   <meta name="twitter:description" content="Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements.">
   <link rel="canonical" href="https://www.artonbar.com/">
+  <link rel="alternate" type="application/rss+xml" title="ArtOnBar — new bars &amp; guides" href="/feed.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <style>
-    /* Per-town colour moods on the location tiles */
-    .town-grid .town-tile{position:relative;overflow:hidden;transition:transform .2s,box-shadow .2s;}
-    .town-grid .town-tile:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.35);}
-    .town-grid .town-tile:nth-child(1){background:linear-gradient(135deg,rgba(255,94,58,.16),rgba(0,0,0,0) 60%);}   /* Lagos — sunset orange */
-    .town-grid .town-tile:nth-child(2){background:linear-gradient(135deg,rgba(77,208,225,.14),rgba(0,0,0,0) 60%);}  /* Albufeira — sea cyan */
-    .town-grid .town-tile:nth-child(3){background:linear-gradient(135deg,rgba(120,144,255,.14),rgba(0,0,0,0) 60%);} /* Vilamoura — marina blue */
-    .town-grid .town-tile:nth-child(4){background:linear-gradient(135deg,rgba(255,105,180,.13),rgba(0,0,0,0) 60%);} /* Faro — flamingo pink */
-    .town-grid .town-tile:nth-child(5){background:linear-gradient(135deg,rgba(255,214,90,.13),rgba(0,0,0,0) 60%);}  /* Tavira — golden */
-    .town-grid .town-tile:nth-child(6){background:linear-gradient(135deg,rgba(190,255,120,.12),rgba(0,0,0,0) 60%);} /* Carvoeiro — lemon-lime */
-    .town-grid .town-tile:nth-child(7){background:linear-gradient(135deg,rgba(190,90,255,.13),rgba(0,0,0,0) 60%);}  /* Portimão — wine purple */
-    .town-grid .town-tile:nth-child(8){background:linear-gradient(135deg,rgba(64,224,160,.13),rgba(0,0,0,0) 60%);}  /* Quarteira — palm green */
-    .town-grid .town-tile:nth-child(9){background:linear-gradient(135deg,rgba(90,180,255,.14),rgba(0,0,0,0) 60%);}  /* Sagres — atlantic blue */
-    .town-grid .town-tile:nth-child(10){background:linear-gradient(135deg,rgba(255,140,90,.13),rgba(0,0,0,0) 60%);} /* Olhão — brick orange */
     .town-tile__emoji{font-size:2rem;filter:drop-shadow(0 2px 6px rgba(0,0,0,.4));}
   </style>
   <script type="application/ld+json">
@@ -48,7 +37,8 @@
         "@type": "WebSite",
         "name": "ArtOnBar",
         "url": "https://www.artonbar.com/",
-        "description": "The Algarve's curated bar guide. Written by a local.",
+        "description": "The Algarve's curated bar guide. Written by a local. 19 towns, 96 bars.",
+        "inLanguage": "en",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://www.artonbar.com/bar-finder/?q={search_term_string}",
@@ -60,10 +50,13 @@
         "name": "ArtOnBar",
         "url": "https://www.artonbar.com/",
         "description": "The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink.",
+        "logo": "https://www.artonbar.com/og-image.png",
         "areaServed": {
           "@type": "Place",
           "name": "Algarve, Portugal"
-        }
+        },
+        "knowsAbout": ["Algarve nightlife", "cocktail bars", "rooftop bars", "beach bars", "wine bars", "speakeasies"],
+        "contactPoint": {"@type": "ContactPoint", "contactType": "editorial", "url": "https://www.artonbar.com/contact/"}
       }
     ]
   }
@@ -84,10 +77,10 @@
   <div class="container nav__inner">
     <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
     <ul class="nav__links" id="nav-links">
-      <li><a href="/lagos/">Lagos</a></li>
-      <li><a href="/albufeira/">Albufeira</a></li>
-      <li><a href="/vilamoura/">Vilamoura</a></li>
-      <li><a href="/faro/">Faro</a></li>
+      <li><a href="/towns/">Towns</a></li>
+      <li><a href="/best-bars-algarve/">Best Bars</a></li>
+      <li><a href="/bar-finder/">Bar Finder</a></li>
+      <li><a href="/map/">Map</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
     </ul>
@@ -106,7 +99,8 @@
     <span class="ticker__item"><span class="sep--cyan">◆</span> <strong>The Argo</strong> Vilamoura · Award-Winning Marina Bar <span class="sep--cyan">◆</span></span>
     <span class="ticker__item"><span class="sep">◆</span> All bars visited in person <span class="sep">◆</span></span>
     <span class="ticker__item"><span class="sep--cyan">◆</span> No comp drinks · No sponsored fluff <span class="sep--cyan">◆</span></span>
-    <span class="ticker__item"><span class="sep">◆</span> Updated 2026 · The Algarve, Portugal <span class="sep">◆</span></span>
+    <span class="ticker__item"><span class="sep">◆</span> New: Alvor · Loulé · Golden Triangle · Costa Vicentina <span class="sep">◆</span></span>
+    <span class="ticker__item"><span class="sep--cyan">◆</span> 19 towns · 96 bars · Updated October 2026 <span class="sep--cyan">◆</span></span>
     <!-- duplicate for seamless loop -->
     <span class="ticker__item"><span class="sep">◆</span> <strong>Forbidden Door</strong> Lagos · Speakeasy <span class="sep">◆</span></span>
     <span class="ticker__item"><span class="sep--cyan">◆</span> <strong>LAB Terrace</strong> Faro · Rooftop Sunsets <span class="sep--cyan">◆</span></span>
@@ -114,14 +108,15 @@
     <span class="ticker__item"><span class="sep--cyan">◆</span> <strong>The Argo</strong> Vilamoura · Award-Winning Marina Bar <span class="sep--cyan">◆</span></span>
     <span class="ticker__item"><span class="sep">◆</span> All bars visited in person <span class="sep">◆</span></span>
     <span class="ticker__item"><span class="sep--cyan">◆</span> No comp drinks · No sponsored fluff <span class="sep--cyan">◆</span></span>
-    <span class="ticker__item"><span class="sep">◆</span> Updated 2026 · The Algarve, Portugal <span class="sep">◆</span></span>
+    <span class="ticker__item"><span class="sep">◆</span> New: Alvor · Loulé · Golden Triangle · Costa Vicentina <span class="sep">◆</span></span>
+    <span class="ticker__item"><span class="sep--cyan">◆</span> 19 towns · 96 bars · Updated October 2026 <span class="sep--cyan">◆</span></span>
   </div>
 </div>
 
 <!-- HERO -->
 <section class="hero">
   <div class="container">
-    <div class="hero__tag">The Algarve · Bar Guide · Updated 2026</div>
+    <div class="hero__tag">The Algarve · 19 Towns · 96 Bars · Updated October 2026</div>
     <h1>The Algarve's<br>bar guide.<br><em>Written here.</em></h1>
     <p class="hero__sub">Tourists end up at the same five bars. Locals go somewhere else. This site is the somewhere else.</p>
     <div class="hero__btns">
@@ -226,61 +221,140 @@
 <section class="section" id="towns">
   <div class="container">
     <div class="section-header">
-      <div class="section-header__label">Browse by Location</div>
+      <div class="section-header__label">Browse by Location · 19 towns · 96 bars</div>
       <h2>Where do you want to drink?</h2>
+      <p>From the surf bars of the Costa Vicentina to the river terraces on the Spanish border. West to east.</p>
     </div>
-    <div class="town-grid">
-      <a href="/lagos/" class="town-tile">
-        <div class="town-tile__emoji">🏛️</div>
-        <div class="town-tile__name">Lagos</div>
-        <div class="town-tile__desc">Old town, marina, late nights. Most cocktail talent in one square kilometre.</div>
+    <div class="town-group">
+      <div class="town-group__label">Western Algarve & the Costa Vicentina</div>
+      <div class="town-grid">
+      <a href="/aljezur/" class="town-tile" style="--tile:rgba(80,200,120,.13)">
+        <div class="town-tile__emoji">🏕️</div>
+        <div class="town-tile__name">Aljezur &amp; Arrifana</div>
+        <div class="town-tile__desc">Wild west coast: cliff-top surf bars, €3 beers, and the sunset as the whole programme.</div>
+        <div class="town-tile__count">4 bars</div>
       </a>
-      <a href="/albufeira/" class="town-tile">
-        <div class="town-tile__emoji">🌊</div>
-        <div class="town-tile__name">Albufeira</div>
-        <div class="town-tile__desc">Cliff-edge cocktails and beach bars. Sal Rosa changes how you feel about this town.</div>
-      </a>
-      <a href="/vilamoura/" class="town-tile">
-        <div class="town-tile__emoji">⛵</div>
-        <div class="town-tile__name">Vilamoura</div>
-        <div class="town-tile__desc">Marina drinks, resort polish, and the oldest bar on the boardwalk.</div>
-      </a>
-      <a href="/faro/" class="town-tile">
-        <div class="town-tile__emoji">🦩</div>
-        <div class="town-tile__name">Faro</div>
-        <div class="town-tile__desc">Underrated. Sunset rooftops, no crowds, lower prices.</div>
-      </a>
-      <a href="/tavira/" class="town-tile">
-        <div class="town-tile__emoji">🏖️</div>
-        <div class="town-tile__name">Tavira</div>
-        <div class="town-tile__desc">East Algarve charm. Cocktails on the most beautiful main square in Portugal.</div>
-      </a>
-      <a href="/carvoeiro/" class="town-tile">
-        <div class="town-tile__emoji">🍋</div>
-        <div class="town-tile__name">Carvoeiro</div>
-        <div class="town-tile__desc">Small town, surprisingly serious drinks.</div>
-      </a>
-      <a href="/portimao/" class="town-tile">
-        <div class="town-tile__emoji">🍷</div>
-        <div class="town-tile__name">Portimão</div>
-        <div class="town-tile__desc">Wine bars worth the trip. Skip the strip.</div>
-      </a>
-      <a href="/quarteira/" class="town-tile">
-        <div class="town-tile__emoji">🌴</div>
-        <div class="town-tile__name">Quarteira</div>
-        <div class="town-tile__desc">Beachfront bars and local spots away from the tourist trail.</div>
-      </a>
-      <a href="/sagres/" class="town-tile">
+      <a href="/sagres/" class="town-tile" style="--tile:rgba(90,180,255,.14)">
         <div class="town-tile__emoji">🏄</div>
         <div class="town-tile__name">Sagres</div>
         <div class="town-tile__desc">Surf-town sundowners at the end of the world.</div>
+        <div class="town-tile__count">Town guide</div>
       </a>
-      <a href="/olhao/" class="town-tile">
+      <a href="/praia-da-luz/" class="town-tile" style="--tile:rgba(120,200,255,.14)">
+        <div class="town-tile__emoji">🏰</div>
+        <div class="town-tile__name">Praia da Luz</div>
+        <div class="town-tile__desc">Fort-terrace sunsets, a rooftop above the beach, and Burgau&#x27;s slow pool club.</div>
+        <div class="town-tile__count">7 bars</div>
+      </a>
+      <a href="/lagos/" class="town-tile" style="--tile:rgba(255,94,58,.16)">
+        <div class="town-tile__emoji">🏛️</div>
+        <div class="town-tile__name">Lagos</div>
+        <div class="town-tile__desc">Old town, marina, late nights. Most cocktail talent in one square kilometre.</div>
+        <div class="town-tile__count">15 bars</div>
+      </a>
+      <a href="/alvor/" class="town-tile" style="--tile:rgba(255,170,60,.14)">
+        <div class="town-tile__emoji">🦪</div>
+        <div class="town-tile__name">Alvor</div>
+        <div class="town-tile__desc">Harbour-town happy hours, estuary sunsets, the friendliest bar strip in the west.</div>
+        <div class="town-tile__count">7 bars</div>
+      </a>
+      <a href="/portimao/" class="town-tile" style="--tile:rgba(190,90,255,.13)">
+        <div class="town-tile__emoji">🍷</div>
+        <div class="town-tile__name">Portimão</div>
+        <div class="town-tile__desc">Wine bars worth the trip. Skip the strip.</div>
+        <div class="town-tile__count">5 bars</div>
+      </a>
+      <a href="/ferragudo/" class="town-tile" style="--tile:rgba(255,120,120,.13)">
+        <div class="town-tile__emoji">⛵</div>
+        <div class="town-tile__name">Ferragudo</div>
+        <div class="town-tile__desc">Fishing village across from Portimão with the west coast&#x27;s rare sunset-into-sea beach club.</div>
+        <div class="town-tile__count">2 bars</div>
+      </a>
+      <a href="/silves/" class="town-tile" style="--tile:rgba(255,100,80,.13)">
+        <div class="town-tile__emoji">🏯</div>
+        <div class="town-tile__name">Silves &amp; Monchique</div>
+        <div class="town-tile__desc">Castle-town river terraces and mountain medronho. Inland drinking, no sea required.</div>
+        <div class="town-tile__count">4 bars</div>
+      </a>
+      </div>
+    </div>
+    <div class="town-group">
+      <div class="town-group__label">Central Algarve & the Golden Triangle</div>
+      <div class="town-grid">
+      <a href="/carvoeiro/" class="town-tile" style="--tile:rgba(190,255,120,.12)">
+        <div class="town-tile__emoji">🍋</div>
+        <div class="town-tile__name">Carvoeiro</div>
+        <div class="town-tile__desc">Small town, surprisingly serious drinks.</div>
+        <div class="town-tile__count">4 bars</div>
+      </a>
+      <a href="/armacao-de-pera/" class="town-tile" style="--tile:rgba(90,220,200,.13)">
+        <div class="town-tile__emoji">🐟</div>
+        <div class="town-tile__name">Armação de Pêra</div>
+        <div class="town-tile__desc">Long beach, Portuguese holiday crowd, one beach restaurant-bar worth the sand.</div>
+        <div class="town-tile__count">1 bars</div>
+      </a>
+      <a href="/albufeira/" class="town-tile" style="--tile:rgba(77,208,225,.14)">
+        <div class="town-tile__emoji">🌊</div>
+        <div class="town-tile__name">Albufeira</div>
+        <div class="town-tile__desc">Cliff-edge cocktails and beach bars. Sal Rosa changes how you feel about this town.</div>
+        <div class="town-tile__count">9 bars</div>
+      </a>
+      <a href="/vilamoura/" class="town-tile" style="--tile:rgba(120,144,255,.14)">
+        <div class="town-tile__emoji">⛵</div>
+        <div class="town-tile__name">Vilamoura</div>
+        <div class="town-tile__desc">Marina drinks, resort polish, and the oldest bar on the boardwalk.</div>
+        <div class="town-tile__count">6 bars</div>
+      </a>
+      <a href="/quarteira/" class="town-tile" style="--tile:rgba(64,224,160,.13)">
+        <div class="town-tile__emoji">🌴</div>
+        <div class="town-tile__name">Quarteira</div>
+        <div class="town-tile__desc">Beachfront bars and local spots away from the tourist trail.</div>
+        <div class="town-tile__count">Town guide</div>
+      </a>
+      <a href="/quinta-do-lago/" class="town-tile" style="--tile:rgba(255,215,0,.13)">
+        <div class="town-tile__emoji">⛳</div>
+        <div class="town-tile__name">Quinta do Lago &amp; Vale do Lobo</div>
+        <div class="town-tile__desc">The Golden Triangle: rooftops above the Praça, lakeside parties, resort-priced cocktails done well.</div>
+        <div class="town-tile__count">9 bars</div>
+      </a>
+      <a href="/loule/" class="town-tile" style="--tile:rgba(230,120,255,.13)">
+        <div class="town-tile__emoji">🏺</div>
+        <div class="town-tile__name">Loulé</div>
+        <div class="town-tile__desc">Market town with the best wine bars inland, rooftop terraces on the old walls, zero tourists.</div>
+        <div class="town-tile__count">7 bars</div>
+      </a>
+      <a href="/faro/" class="town-tile" style="--tile:rgba(255,105,180,.13)">
+        <div class="town-tile__emoji">🦩</div>
+        <div class="town-tile__name">Faro</div>
+        <div class="town-tile__desc">Underrated. Sunset rooftops, no crowds, lower prices.</div>
+        <div class="town-tile__count">5 bars</div>
+      </a>
+      </div>
+    </div>
+    <div class="town-group">
+      <div class="town-group__label">Eastern Algarve</div>
+      <div class="town-grid">
+      <a href="/olhao/" class="town-tile" style="--tile:rgba(255,140,90,.13)">
         <div class="town-tile__emoji">🐙</div>
         <div class="town-tile__name">Olhão</div>
-        <div class="town-tile__desc">The east's coolest town. Wine bars, market halls, Ria Formosa light.</div>
+        <div class="town-tile__desc">The east&#x27;s coolest town. Wine bars, market halls, Ria Formosa light.</div>
+        <div class="town-tile__count">1 bars</div>
       </a>
+      <a href="/tavira/" class="town-tile" style="--tile:rgba(255,214,90,.13)">
+        <div class="town-tile__emoji">🏖️</div>
+        <div class="town-tile__name">Tavira</div>
+        <div class="town-tile__desc">East Algarve charm. Cocktails on the most beautiful main square in Portugal.</div>
+        <div class="town-tile__count">7 bars</div>
+      </a>
+      <a href="/vila-real-de-santo-antonio/" class="town-tile" style="--tile:rgba(255,200,120,.13)">
+        <div class="town-tile__emoji">🌉</div>
+        <div class="town-tile__name">Vila Real de Santo António</div>
+        <div class="town-tile__desc">Border-town river terraces facing Spain, Monte Gordo&#x27;s strip, and Praia Verde&#x27;s sunset bar.</div>
+        <div class="town-tile__count">3 bars</div>
+      </a>
+      </div>
     </div>
+    <p><a href="/towns/" class="btn btn--outline">All 19 towns, compared →</a></p>
   </div>
 </section>
 
@@ -302,6 +376,7 @@
       <a href="/late-night/" class="vibe-chip">🌙 Late-night spots</a>
       <a href="/dog-friendly/" class="vibe-chip">🐕 Dog-friendly</a>
       <a href="/open-in-winter/" class="vibe-chip">❄️ Open in winter</a>
+      <a href="/towns/" class="vibe-chip">🗺️ All 19 towns compared</a>
     </div>
   </div>
 </section>
@@ -327,57 +402,30 @@
     <div class="footer__grid">
       <div class="footer__brand">
         <div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div>
-        <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink.</p>
+        <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink. 19 towns, 96 bars.</p>
       </div>
-      <div class="footer__col">
-        <h4>Towns</h4>
-        <ul>
-          <li><a href="/lagos/">Lagos</a></li>
-          <li><a href="/albufeira/">Albufeira</a></li>
-          <li><a href="/vilamoura/">Vilamoura</a></li>
-          <li><a href="/faro/">Faro</a></li>
-          <li><a href="/tavira/">Tavira</a></li>
-          <li><a href="/carvoeiro/">Carvoeiro</a></li>
-          <li><a href="/portimao/">Portimão</a></li>
-          <li><a href="/quarteira/">Quarteira</a></li>
-          <li><a href="/sagres/">Sagres</a></li>
-          <li><a href="/olhao/">Olhão</a></li>
-        </ul>
-      </div>
-      <div class="footer__col">
-        <h4>Guides</h4>
-        <ul>
-          <li><a href="/bar-finder/">Bar Finder</a></li>
-          <li><a href="/map/">Bar Map</a></li>
-          <li><a href="/best-bars-algarve/">Best Bars Algarve</a></li>
-          <li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li>
-          <li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li>
-          <li><a href="/sunset-bars/">Sunset Bars</a></li>
-          <li><a href="/rooftop-bars/">Rooftop Bars</a></li>
-          <li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li>
-          <li><a href="/beach-bars/">Beach Bars</a></li>
-          <li><a href="/wine-bars/">Wine Bars</a></li>
-          <li><a href="/late-night/">Late Night</a></li>
-          <li><a href="/open-in-winter/">Open in Winter</a></li>
-          <li><a href="/dog-friendly/">Dog-Friendly Bars</a></li>
-        </ul>
-      </div>
-      <div class="footer__col">
-        <h4>Site</h4>
-        <ul>
-          <li><a href="/about/">About</a></li>
-          <li><a href="/contact/">Contact</a></li>
-          <li><a href="/submit-a-bar/">List Your Bar</a></li>
-        </ul>
-      </div>
+      <div class="footer__col footer__col--towns"><h4>Towns</h4><ul><li><a href="/aljezur/">Aljezur &amp; Arrifana</a></li><li><a href="/sagres/">Sagres</a></li><li><a href="/praia-da-luz/">Praia da Luz</a></li><li><a href="/lagos/">Lagos</a></li><li><a href="/alvor/">Alvor</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/ferragudo/">Ferragudo</a></li><li><a href="/silves/">Silves &amp; Monchique</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/armacao-de-pera/">Armação de Pêra</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/quarteira/">Quarteira</a></li><li><a href="/quinta-do-lago/">Quinta do Lago &amp; Vale do Lobo</a></li><li><a href="/loule/">Loulé</a></li><li><a href="/faro/">Faro</a></li><li><a href="/olhao/">Olhão</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/vila-real-de-santo-antonio/">Vila Real de Santo António</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li><li><a href="/beach-bars/">Beach Bars</a></li><li><a href="/wine-bars/">Wine Bars</a></li><li><a href="/late-night/">Late Night</a></li><li><a href="/open-in-winter/">Open in Winter</a></li><li><a href="/dog-friendly/">Dog-Friendly Bars</a></li><li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li><li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li></ul></div>
+      <div class="footer__col"><h4>Site</h4><ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/submit-a-bar/">List Your Bar</a></li>
+        <li><a href="/advertise/">Advertise</a></li>
+        <li><a href="/disclosure/">Affiliate Disclosure</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+        <li><a href="/feed.xml">RSS</a></li>
+        <li><a href="/llms.txt">llms.txt</a></li>
+      </ul></div>
     </div>
     <div class="footer__bottom">
       <span>© 2026 ArtOnBar.com · The Algarve, Portugal</span>
-      <span>Built honestly. No fake reviews.</span>
+      <span>Built honestly. No fake reviews. Some links are affiliate links — <a href="/disclosure/">how this site makes money</a>.</span>
     </div>
   </div>
 </footer>
 
-<script src="js/main.js"></script>
+<script src="/js/config.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/monetise.js"></script>
 </body>
 </html>

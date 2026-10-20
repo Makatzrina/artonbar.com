@@ -4,9 +4,11 @@
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <title>Algarve Bar Finder — Filter Every Bar We've Reviewed</title>
-  <meta name="description" content="Find your bar in the Algarve: filter every bar we've reviewed by town, vibe, price and winter opening. Speakeasies, rooftops, beach bars and more. Updated 2026.">
+  <meta name="description" content="Find your bar in the Algarve: filter 96 bars across 19 towns by vibe, price and winter opening. Speakeasies, rooftops, beach bars, wine bars, pubs and more. Updated October 2026.">
   <link rel="canonical" href="https://www.artonbar.com/bar-finder/">
+  <link rel="alternate" type="application/rss+xml" title="ArtOnBar — new bars &amp; guides" href="/feed.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
@@ -69,14 +71,14 @@
 </head>
 <body>
 
-<nav class="nav">
+<nav class="nav" role="navigation" aria-label="Main navigation">
   <div class="container nav__inner">
     <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
     <ul class="nav__links" id="nav-links">
-      <li><a href="/lagos/">Lagos</a></li>
-      <li><a href="/albufeira/">Albufeira</a></li>
-      <li><a href="/vilamoura/">Vilamoura</a></li>
-      <li><a href="/faro/">Faro</a></li>
+      <li><a href="/towns/">Towns</a></li>
+      <li><a href="/best-bars-algarve/">Best Bars</a></li>
+      <li><a href="/bar-finder/">Bar Finder</a></li>
+      <li><a href="/map/">Map</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
     </ul>
@@ -93,7 +95,7 @@
     </nav>
     <div class="page-hero__label">Interactive · Every Bar We've Reviewed</div>
     <h1>Algarve Bar Finder</h1>
-    <p class="page-hero__sub">Every bar on this site, one screen. Pick a town, pick a vibe, set your budget — and get the shortlist. Every bar here has been visited and reviewed in person.</p>
+    <p class="page-hero__sub">Every bar on this site — 96 of them across 19 towns — on one screen. Pick a town, pick a vibe, set your budget, and get the shortlist with the address and hours.</p>
     <p style="margin-top:1rem;"><a href="/map/" style="color:var(--cyan,#4dd0e1);">🗺️ Prefer a map? See all bars on the map →</a></p>
   </div>
 </section>
@@ -120,12 +122,27 @@
 <footer class="footer">
   <div class="container">
     <div class="footer__grid">
-      <div class="footer__brand"><div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div><p>The Algarve's curated bar guide.</p></div>
-      <div class="footer__col"><h4>Towns</h4><ul><li><a href="/lagos/">Lagos</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/faro/">Faro</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/quarteira/">Quarteira</a></li></ul></div>
-      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li></ul></div>
-      <div class="footer__col"><h4>Site</h4><ul><li><a href="/about/">About</a></li><li><a href="/submit-a-bar/">List Your Bar</a></li></ul></div>
+      <div class="footer__brand">
+        <div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div>
+        <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink. 19 towns, 96 bars.</p>
+      </div>
+      <div class="footer__col footer__col--towns"><h4>Towns</h4><ul><li><a href="/aljezur/">Aljezur &amp; Arrifana</a></li><li><a href="/sagres/">Sagres</a></li><li><a href="/praia-da-luz/">Praia da Luz</a></li><li><a href="/lagos/">Lagos</a></li><li><a href="/alvor/">Alvor</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/ferragudo/">Ferragudo</a></li><li><a href="/silves/">Silves &amp; Monchique</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/armacao-de-pera/">Armação de Pêra</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/quarteira/">Quarteira</a></li><li><a href="/quinta-do-lago/">Quinta do Lago &amp; Vale do Lobo</a></li><li><a href="/loule/">Loulé</a></li><li><a href="/faro/">Faro</a></li><li><a href="/olhao/">Olhão</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/vila-real-de-santo-antonio/">Vila Real de Santo António</a></li></ul></div>
+      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li><li><a href="/beach-bars/">Beach Bars</a></li><li><a href="/wine-bars/">Wine Bars</a></li><li><a href="/late-night/">Late Night</a></li><li><a href="/open-in-winter/">Open in Winter</a></li><li><a href="/dog-friendly/">Dog-Friendly Bars</a></li><li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li><li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li></ul></div>
+      <div class="footer__col"><h4>Site</h4><ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/submit-a-bar/">List Your Bar</a></li>
+        <li><a href="/advertise/">Advertise</a></li>
+        <li><a href="/disclosure/">Affiliate Disclosure</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+        <li><a href="/feed.xml">RSS</a></li>
+        <li><a href="/llms.txt">llms.txt</a></li>
+      </ul></div>
     </div>
-    <div class="footer__bottom"><span>© 2026 ArtOnBar.com</span><span>No fake reviews.</span></div>
+    <div class="footer__bottom">
+      <span>© 2026 ArtOnBar.com · The Algarve, Portugal</span>
+      <span>Built honestly. No fake reviews. Some links are affiliate links — <a href="/disclosure/">how this site makes money</a>.</span>
+    </div>
   </div>
 </footer>
 
@@ -138,7 +155,8 @@
   var urlQ = new URLSearchParams(location.search).get('q');
   if (urlQ) { state.q = urlQ.toLowerCase(); searchEl.value = urlQ; }
   searchEl.addEventListener('input', function(){ state.q = this.value.toLowerCase().trim(); render(); });
-  var towns = []; bars.forEach(function(b){ if(towns.indexOf(b.town)<0) towns.push(b.town); }); towns.sort();
+  var towns = []; bars.forEach(function(b){ if(towns.indexOf(b.town)<0) towns.push(b.town); });
+  var seq = (window.ARTONBAR_TOWNS||[]).map(function(t){return t.name;}); towns.sort(function(a,b){ var ia=seq.indexOf(a), ib=seq.indexOf(b); return (ia<0?99:ia)-(ib<0?99:ib); });
 
   function chip(label, group, value){
     var el = document.createElement('button');
@@ -180,7 +198,7 @@
 
     var out = bars.filter(function(b){
       if(state.q){
-        var hay = (b.name+' '+b.town+' '+b.desc+' '+b.vibes.join(' ')).toLowerCase();
+        var hay = (b.name+' '+b.town+' '+b.desc+' '+(b.address||'')+' '+b.vibes.join(' ')).toLowerCase();
         if(hay.indexOf(state.q)<0) return false;
       }
       if(state.town && b.town!==state.town) return false;
@@ -202,7 +220,8 @@
       a.innerHTML = '<div class="finder-card__emoji">'+b.emoji+'</div>'+
         '<div><div class="finder-card__name">'+b.name+'</div>'+
         '<div class="finder-card__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · '+(b.winter?'❄️ open in winter':'☀️ seasonal')+'</div>'+
-        '<p class="finder-card__desc">'+b.desc+'</p></div>'+
+        '<p class="finder-card__desc">'+b.desc+'</p>'+
+        ((b.address||b.hours)?'<div class="finder-card__addr">'+(b.address?'📍 '+b.address:'')+(b.address&&b.hours?' · ':'')+(b.hours?'⏰ '+b.hours:'')+'</div>':'')+'</div>'+
         '<div class="finder-card__badges">⭐ '+b.rating.toFixed(1)+'</div>';
       res.appendChild(a);
     });
@@ -210,6 +229,8 @@
   render();
 })();
 </script>
-<script src="../js/main.js"></script>
+<script src="/js/config.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/monetise.js"></script>
 </body>
 </html>
