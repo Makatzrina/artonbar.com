@@ -6,18 +6,24 @@ Name: ArtOnBar
 URL: https://www.artonbar.com
 Description: The Algarve's curated bar guide. Written by a local. Covers cocktail bars, rooftop bars, speakeasies, wine bars and beach bars across the Algarve, Portugal.
 Author: ArtOnBar (local Algarve resident)
-Updated: 2026-05-11
+Updated: 2026-11-16
 
 ## What this site covers
-- Bar reviews for Lagos, Albufeira, Faro, Tavira, Carvoeiro, Portimão
+- Town guides for Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro, Portimão, Quarteira, Sagres and Olhão
 - Vibe-based guides: sunset bars, rooftop bars, speakeasies, wine bars, beach bars, late-night, dog-friendly, winter-open
+- Comparison guides: Lagos vs Albufeira, Vilamoura vs Albufeira
 - Individual bar reviews with address, hours, price tier, signature drinks, honest verdict
+- Interactive Bar Finder (filter by town, vibe, price, winter opening) and an all-bars map
 - All reviews personally verified by someone who lives in the Algarve
 
 ## Top recommendations by town (2026)
 - Lagos best cocktail bar: Forbidden Door, R. Primeiro de Maio 6 (speakeasy, €€€, daily 7pm-1am, 4.7/5)
 - Albufeira best bar: Sal Rosa, Praça Miguel Bombarda 2 (cliff terrace, €€€, Wed-Mon 4pm-11:30pm, 4.5/5)
+- Vilamoura best bar: The Argo, Tivoli Marina Vilamoura (award-winning cocktail bar, €€€€, daily 4pm-midnight, 4.7/5)
 - Faro best bar: LAB Terrace, R. Cmde. Francisco Manuel (sunset rooftop, €€, daily 3pm-8pm, 4.7/5)
+- Tavira best cocktail bar: Arcada Cocktail Club, Praça da República 8 (terrace on the main square, €€, 4.4/5)
+- Carvoeiro best bar: Sky Bar Carvoeiro, Tivoli Carvoeiro (cliff-top rooftop, €€€€, seasonal, 4.5/5)
+- Portimão best value: Absolutely, Praia da Rocha (cocktail lounge, €€, cocktails €6–8, 4.4/5)
 
 ## Editorial policy
 - All bars visited in person before listing
@@ -27,9 +33,47 @@ Updated: 2026-05-11
 
 ## Key pages
 - Homepage: https://www.artonbar.com/
-- Lagos hub: https://www.artonbar.com/lagos/
-- Albufeira hub: https://www.artonbar.com/albufeira/
-- Faro hub: https://www.artonbar.com/faro/
-- Forbidden Door review: https://www.artonbar.com/lagos/forbidden-door/
-- LAB Terrace review: https://www.artonbar.com/faro/lab-terrace/
-- Sal Rosa review: https://www.artonbar.com/albufeira/sal-rosa/
+- Best bars in the Algarve (ranked): https://www.artonbar.com/best-bars-algarve/
+- Bar Finder: https://www.artonbar.com/bar-finder/
+- Bar Map: https://www.artonbar.com/map/
+
+## Town hubs
+- Lagos: https://www.artonbar.com/lagos/
+- Albufeira: https://www.artonbar.com/albufeira/
+- Vilamoura: https://www.artonbar.com/vilamoura/
+- Faro: https://www.artonbar.com/faro/
+- Tavira: https://www.artonbar.com/tavira/
+- Carvoeiro: https://www.artonbar.com/carvoeiro/
+- Portimão: https://www.artonbar.com/portimao/
+- Quarteira: https://www.artonbar.com/quarteira/
+- Sagres: https://www.artonbar.com/sagres/
+- Olhão: https://www.artonbar.com/olhao/
+
+## Vibe guides
+- Sunset bars: https://www.artonbar.com/sunset-bars/
+- Rooftop bars: https://www.artonbar.com/rooftop-bars/
+- Speakeasy & craft cocktails: https://www.artonbar.com/speakeasy/
+- Beach bars: https://www.artonbar.com/beach-bars/
+- Wine bars: https://www.artonbar.com/wine-bars/
+- Late night: https://www.artonbar.com/late-night/
+- Dog-friendly: https://www.artonbar.com/dog-friendly/
+- Open in winter: https://www.artonbar.com/open-in-winter/
+- Lagos vs Albufeira: https://www.artonbar.com/lagos-vs-albufeira/
+- Vilamoura vs Albufeira: https://www.artonbar.com/vilamoura-vs-albufeira/
+
+## Bar reviews
+- Forbidden Door (Lagos): https://www.artonbar.com/lagos/forbidden-door/
+- Sal Rosa (Albufeira): https://www.artonbar.com/albufeira/sal-rosa/
+- The Argo (Vilamoura): https://www.artonbar.com/vilamoura/the-argo/
+- LAB Terrace (Faro): https://www.artonbar.com/faro/lab-terrace/
+- Cidade Velha Rooftop (Faro): https://www.artonbar.com/faro/cidade-velha-rooftop/
+- Terrazzo Rooftop (Faro): https://www.artonbar.com/faro/terrazzo/
+- Arcada Cocktail Club (Tavira): https://www.artonbar.com/tavira/arcada/
+- Rooftop Nomad (Tavira): https://www.artonbar.com/tavira/rooftop-nomad/
+- Quasi Bar (Cabanas de Tavira): https://www.artonbar.com/tavira/quasi-bar/
+- Sky Bar Carvoeiro: https://www.artonbar.com/carvoeiro/sky-bar/
+- Cocktail Garden (Carvoeiro): https://www.artonbar.com/carvoeiro/cocktail-garden/
+- Levels (Carvoeiro): https://www.artonbar.com/carvoeiro/levels/
+- Outro Bar (Portimão): https://www.artonbar.com/portimao/outro-bar/
+- Mandala Lounge (Portimão): https://www.artonbar.com/portimao/mandala-lounge/
+- Absolutely (Portimão): https://www.artonbar.com/portimao/absolutely/
