@@ -102,7 +102,8 @@ em { font-style: normal; }
   color: var(--muted);
   transition: color .2s;
 }
-.nav__links a:hover { color: var(--cream); }
+.nav__links a:hover,
+.nav__links a.is-active { color: var(--cream); }
 .nav__cta {
   color: var(--cyan) !important;
   border: 1px solid var(--cyan) !important;
@@ -1102,6 +1103,11 @@ td strong { color: var(--cream); }
   gap: 3rem;
   align-items: start;
 }
+/* Let the content column shrink below its min-content width, so wide tables
+   scroll inside .table-wrap instead of pushing the page sideways on phones. */
+.layout-sidebar > * {
+  min-width: 0;
+}
 
 /* ── RESPONSIVE ── */
 
@@ -1118,25 +1124,35 @@ td strong { color: var(--cream); }
   }
 }
 
-/* Mobile */
-@media (max-width: 768px) {
+/* Nav: collapse to hamburger below 960px (8 links no longer fit) */
+@media (max-width: 1100px) {
+  .nav__links { gap: 1.1rem; }
+}
+@media (max-width: 960px) {
   /* Nav */
   .nav__links { display: none; }
+  /* The sticky nav has backdrop-filter, which makes it the containing block
+     for fixed children — so the dropdown is anchored to the nav, not the viewport. */
   .nav__links.open {
     display: flex;
     flex-direction: column;
-    position: fixed;
-    top: 57px; left: 0; right: 0; bottom: 0;
+    position: absolute;
+    top: 100%; left: 0; right: 0;
+    max-height: calc(100vh - 60px);
     background: var(--ink);
     padding: 2rem 1.5rem;
     gap: 1.5rem;
     z-index: 99;
     border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
     overflow-y: auto;
   }
   .nav__links.open a { font-size: 1.05rem; }
   .nav__hamburger { display: flex; }
+}
 
+/* Mobile */
+@media (max-width: 768px) {
   /* Hero */
   .hero { padding: 3.5rem 0 3rem; }
   .hero h1 { font-size: clamp(3.2rem, 13vw, 5.5rem); line-height: .95; }
@@ -1199,7 +1215,8 @@ td strong { color: var(--cream); }
 @media (max-width: 480px) {
   .footer__grid { grid-template-columns: 1fr; }
   .footer__brand { grid-column: auto; }
-  .quick-picks { grid-template-columns: 1fr 1fr; }
+  .quick-picks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .quick-pick { min-width: 0; overflow-wrap: anywhere; }
   .ticker { display: none; }
   .town-grid { grid-template-columns: 1fr 1fr; gap: .75rem; }
   .town-tile { padding: 1.1rem 1rem; }

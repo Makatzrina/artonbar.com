@@ -10,8 +10,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../css/style.css">
-  <link rel="stylesheet" href="../js/leaflet/leaflet.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/js/leaflet/leaflet.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -63,7 +63,7 @@
 </head>
 <body>
 
-<nav class="nav">
+<nav class="nav" role="navigation" aria-label="Main navigation">
   <div class="container nav__inner">
     <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
     <ul class="nav__links" id="nav-links">
@@ -71,6 +71,8 @@
       <li><a href="/albufeira/">Albufeira</a></li>
       <li><a href="/vilamoura/">Vilamoura</a></li>
       <li><a href="/faro/">Faro</a></li>
+      <li><a href="/#towns">All towns</a></li>
+      <li><a href="/bar-finder/">Bar Finder</a></li>
       <li><a href="/about/">About</a></li>
       <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
     </ul>
@@ -102,17 +104,61 @@
 <footer class="footer">
   <div class="container">
     <div class="footer__grid">
-      <div class="footer__brand"><div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div><p>The Algarve's curated bar guide.</p></div>
-      <div class="footer__col"><h4>Towns</h4><ul><li><a href="/lagos/">Lagos</a></li><li><a href="/albufeira/">Albufeira</a></li><li><a href="/vilamoura/">Vilamoura</a></li><li><a href="/faro/">Faro</a></li><li><a href="/tavira/">Tavira</a></li><li><a href="/carvoeiro/">Carvoeiro</a></li><li><a href="/portimao/">Portimão</a></li><li><a href="/quarteira/">Quarteira</a></li></ul></div>
-      <div class="footer__col"><h4>Guides</h4><ul><li><a href="/bar-finder/">Bar Finder</a></li><li><a href="/map/">Bar Map</a></li><li><a href="/best-bars-algarve/">Best Bars Algarve</a></li><li><a href="/sunset-bars/">Sunset Bars</a></li><li><a href="/rooftop-bars/">Rooftop Bars</a></li><li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li></ul></div>
-      <div class="footer__col"><h4>Site</h4><ul><li><a href="/about/">About</a></li><li><a href="/submit-a-bar/">List Your Bar</a></li></ul></div>
+      <div class="footer__brand">
+        <div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div>
+        <p>The Algarve's curated bar guide. Written by a local, for anyone who wants a proper drink.</p>
+      </div>
+      <div class="footer__col">
+        <h4>Towns</h4>
+        <ul>
+          <li><a href="/lagos/">Lagos</a></li>
+          <li><a href="/albufeira/">Albufeira</a></li>
+          <li><a href="/vilamoura/">Vilamoura</a></li>
+          <li><a href="/faro/">Faro</a></li>
+          <li><a href="/tavira/">Tavira</a></li>
+          <li><a href="/carvoeiro/">Carvoeiro</a></li>
+          <li><a href="/portimao/">Portimão</a></li>
+          <li><a href="/quarteira/">Quarteira</a></li>
+          <li><a href="/sagres/">Sagres</a></li>
+          <li><a href="/olhao/">Olhão</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Guides</h4>
+        <ul>
+          <li><a href="/bar-finder/">Bar Finder</a></li>
+          <li><a href="/map/">Bar Map</a></li>
+          <li><a href="/best-bars-algarve/">Best Bars Algarve</a></li>
+          <li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li>
+          <li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li>
+          <li><a href="/sunset-bars/">Sunset Bars</a></li>
+          <li><a href="/rooftop-bars/">Rooftop Bars</a></li>
+          <li><a href="/speakeasy/">Speakeasy &amp; Craft</a></li>
+          <li><a href="/beach-bars/">Beach Bars</a></li>
+          <li><a href="/wine-bars/">Wine Bars</a></li>
+          <li><a href="/late-night/">Late Night</a></li>
+          <li><a href="/open-in-winter/">Open in Winter</a></li>
+          <li><a href="/dog-friendly/">Dog-Friendly Bars</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Site</h4>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/submit-a-bar/">List Your Bar</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="footer__bottom"><span>© 2026 ArtOnBar.com</span><span>No fake reviews.</span></div>
+    <div class="footer__bottom">
+      <span>© 2026 ArtOnBar.com · The Algarve, Portugal</span>
+      <span>Built honestly. No fake reviews.</span>
+    </div>
   </div>
 </footer>
 
-<script src="../js/leaflet/leaflet.js"></script>
-<script src="../js/bars-data.js"></script>
+<script src="/js/leaflet/leaflet.js"></script>
+<script src="/js/bars-data.js"></script>
 <script>
 (function(){
   var map = L.map('barmap', {scrollWheelZoom:false}).setView([37.08, -8.15], 10);
@@ -143,6 +189,6 @@
   map.fitBounds(bounds, {padding:[30,30]});
 })();
 </script>
-<script src="../js/main.js"></script>
+<script src="/js/main.js"></script>
 </body>
 </html>
