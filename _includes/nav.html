@@ -1,0 +1,19 @@
+{%- comment -%} Shared main navigation. Edit here, not in the pages. {%- endcomment -%}
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <div class="container nav__inner">
+    <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
+    <ul class="nav__links" id="nav-links">
+      <li><a href="/lagos/"{% if page.url contains '/lagos/' %} class="is-active"{% endif %}>Lagos</a></li>
+      <li><a href="/albufeira/"{% if page.url contains '/albufeira/' %} class="is-active"{% endif %}>Albufeira</a></li>
+      <li><a href="/vilamoura/"{% if page.url contains '/vilamoura/' %} class="is-active"{% endif %}>Vilamoura</a></li>
+      <li><a href="/faro/"{% if page.url contains '/faro/' %} class="is-active"{% endif %}>Faro</a></li>
+      <li><a href="/#towns">All towns</a></li>
+      <li><a href="/bar-finder/"{% if page.url contains '/bar-finder/' %} class="is-active"{% endif %}>Bar Finder</a></li>
+      <li><a href="/about/"{% if page.url contains '/about/' %} class="is-active"{% endif %}>About</a></li>
+      <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
+    </ul>
+    <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>

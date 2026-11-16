@@ -13,7 +13,7 @@ Updated: 2026-11-16
 - Vibe-based guides: sunset bars, rooftop bars, speakeasies, wine bars, beach bars, late-night, dog-friendly, winter-open
 - Comparison guides: Lagos vs Albufeira, Vilamoura vs Albufeira
 - Individual bar reviews with address, hours, price tier, signature drinks, honest verdict
-- Interactive Bar Finder (filter by town, vibe, price, winter opening) and an all-bars map
+- Interactive Bar Finder (filter by town, vibe, price, winter opening) and an all-bars map — 37 bars across 10 towns
 - All reviews personally verified by someone who lives in the Algarve
 
 ## Top recommendations by town (2026)
@@ -24,6 +24,9 @@ Updated: 2026-11-16
 - Tavira best cocktail bar: Arcada Cocktail Club, Praça da República 8 (terrace on the main square, €€, 4.4/5)
 - Carvoeiro best bar: Sky Bar Carvoeiro, Tivoli Carvoeiro (cliff-top rooftop, €€€€, seasonal, 4.5/5)
 - Portimão best value: Absolutely, Praia da Rocha (cocktail lounge, €€, cocktails €6–8, 4.4/5)
+- Quarteira best sunset drink: Latino Bar, Av. Infante de Sagres 167 (beachfront promenade terrace, €, cocktails ~€7, Google 4.8/5)
+- Sagres best bar: Dromedário Bar, Rua Comandante Matoso (cocktails + own craft beer, €€, daily 11am-2am, Google 4.5/5)
+- Olhão best wine bar: Casta Nova, Rua de A Verdade 8 (natural Portuguese wines, €€, Mon-Fri 11am-8pm, Google 5.0/5)
 
 ## Editorial policy
 - All bars visited in person before listing

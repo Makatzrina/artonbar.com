@@ -1,0 +1,21 @@
+# Jekyll config for GitHub Pages.
+# Pages keep their own <head>; only the shared nav and footer live in _includes/.
+title: ArtOnBar
+url: https://www.artonbar.com
+
+# whitelist lets the plugin run in `jekyll build --safe` locally; GitHub Pages whitelists it anyway
+whitelist:
+  - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
+
+# Keep these out of the published site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+
+# Don't run Markdown/Sass on anything; everything is hand-written HTML
+markdown: kramdown

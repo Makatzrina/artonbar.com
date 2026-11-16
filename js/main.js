@@ -18,7 +18,11 @@ if (hamburger && navLinks) {
   });
 }
 
-const FORMSUBMIT_URL = 'https://formsubmit.co/ajax/makatzrina@gmail.com';
+// FormSubmit endpoint. Replace the part after /ajax/ with the random-looking
+// hash FormSubmit sent in its activation email (Settings → "Replace email with
+// a hash"), so the address is not readable in the page source.
+const FORMSUBMIT_ID  = 'makatzrina@gmail.com';
+const FORMSUBMIT_URL = 'https://formsubmit.co/ajax/' + FORMSUBMIT_ID;
 
 // Newsletter form
 const newsletterForm = document.querySelector('.newsletter__form');
@@ -75,7 +79,7 @@ document.querySelectorAll('.js-contact-form').forEach(form => {
       btn.textContent = originalText;
       const err = document.createElement('p');
       err.style.cssText = 'color:var(--pink);margin-top:.75rem;font-size:.9rem;';
-      err.textContent = 'Something went wrong — please try again or email makatzrina@gmail.com directly.';
+      err.innerHTML = 'Something went wrong — please try again in a minute, or use the <a href="/contact/" style="color:var(--cyan);">contact page</a>.';
       btn.parentElement.after(err);
     }
   });
