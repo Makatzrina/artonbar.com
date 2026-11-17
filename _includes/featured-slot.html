@@ -1,0 +1,19 @@
+{%- comment -%}
+  Paid "Featured" slot at the top of a town's ranked list.
+  Usage: {% include featured-slot.html town="Lagos" %}
+  While no bar has bought the slot it advertises itself and links to /submit-a-bar/.
+  When a bar pays: replace this include on that town page with the bar's own
+  <a class="bar-list-item bar-list-item--featured"> block and a "Featured" tag.
+{%- endcomment -%}
+<a href="/submit-a-bar/" class="bar-list-item bar-list-item--featured bar-list-item--promo">
+  <div class="bar-list-item__rank">★</div>
+  <div>
+    <div class="bar-list-item__sub"><span class="tag tag--primary">Featured spot</span> Available now · {{ site.pricing.featured_month }}/month</div>
+    <div class="bar-list-item__name">Your bar, first on the {{ include.town }} page</div>
+    <p class="bar-list-item__desc">Everyone reading this is picking a bar in {{ include.town }} tonight. The featured slot puts yours at the top of this list, in the Bar Finder and on the map, with a label that says it's paid. The review underneath stays honest.</p>
+  </div>
+  <div class="bar-list-item__meta">
+    <span class="price-badge">{{ site.pricing.featured_month }}</span>
+    <span class="rating-badge">Book it →</span>
+  </div>
+</a>
