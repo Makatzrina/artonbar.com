@@ -23,6 +23,17 @@ if (hamburger && navLinks) {
 // a hash"), so the address is not readable in the page source.
 const FORMSUBMIT_ID  = 'makatzrina@gmail.com';
 const FORMSUBMIT_URL = 'https://formsubmit.co/ajax/' + FORMSUBMIT_ID;
+const CONFIG = window.ARTONBAR_CONFIG || {};
+
+// Booking.com affiliate: tag every booking.com link with the aid from _config.yml
+if (CONFIG.bookingAid) {
+  document.querySelectorAll('a[href*="booking.com"]').forEach(a => {
+    try {
+      const u = new URL(a.href);
+      if (!u.searchParams.has('aid')) { u.searchParams.set('aid', CONFIG.bookingAid); a.href = u.toString(); }
+    } catch (_) {}
+  });
+}
 
 // Newsletter form
 const newsletterForm = document.querySelector('.newsletter__form');
@@ -37,11 +48,19 @@ if (newsletterForm) {
     btn.textContent = 'Subscribing...';
 
     try {
-      await fetch(FORMSUBMIT_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-        body: JSON.stringify({ email: emailInput.value, _subject: 'ArtOnBar Newsletter Signup' })
-      });
+      if (CONFIG.newsletterAction) {
+        // Real list provider (MailerLite / Mailchimp / Buttondown / Beehiiv): plain form POST
+        const fd = new FormData();
+        fd.append(CONFIG.newsletterEmailField || 'email', emailInput.value);
+        await fetch(CONFIG.newsletterAction, { method: 'POST', mode: 'no-cors', body: fd });
+      } else {
+        // Fallback: sign-up lands in the FormSubmit inbox
+        await fetch(FORMSUBMIT_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({ email: emailInput.value, _subject: 'ArtOnBar Newsletter Signup' })
+        });
+      }
     } catch (_) {}
 
     newsletterForm.innerHTML = '<p style="color:var(--pink);font-weight:600;font-size:1rem;font-family:var(--font-mono);letter-spacing:.06em;text-transform:uppercase;">&#x2713; You\'re in. See you next month.</p>';
@@ -82,5 +101,13 @@ document.querySelectorAll('.js-contact-form').forEach(form => {
       err.innerHTML = 'Something went wrong — please try again in a minute, or use the <a href="/contact/" style="color:var(--cyan);">contact page</a>.';
       btn.parentElement.after(err);
     }
+  });
+});
+
+// /submit-a-bar/: "Choose" buttons without a Stripe link preselect the package in the form
+document.querySelectorAll('[data-package]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const sel = document.getElementById('package');
+    if (sel) sel.value = btn.dataset.package;
   });
 });

@@ -54,3 +54,11 @@
     </div>
   </div>
 </footer>
+<script>
+  // Site-wide settings from _config.yml (read by /js/main.js)
+  window.ARTONBAR_CONFIG = {
+    bookingAid: "{{ site.booking_aid }}",
+    newsletterAction: "{{ site.newsletter_form_action }}",
+    newsletterEmailField: "{{ site.newsletter_email_field | default: 'email' }}"
+  };
+</script>

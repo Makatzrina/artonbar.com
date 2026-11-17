@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>List Your Bar on ArtOnBar — Algarve's Honest Bar Guide</title>
+  <title>List Your Bar on ArtOnBar — Featured Listings &amp; Sponsored Posts</title>
   <meta name="description" content="Get your Algarve bar featured on ArtOnBar. Honest reviews, real traffic, featured listings. Find out how it works.">
   <link rel="canonical" href="https://www.artonbar.com/submit-a-bar/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,44 +34,77 @@
   <div class="container">
     <div class="page-hero__label">For Bar Owners</div>
     <h1>Want your bar on ArtOnBar?</h1>
-    <p class="page-hero__sub">If you run a bar in the Algarve, here's how it works. No fluff.</p>
+    <p class="page-hero__sub">Getting reviewed is free. I come, I pay for my drinks, I write what I think. What you can pay for is placement: being seen first by the people already searching for a bar in your town.</p>
   </div>
 </section>
 
-<section class="section">
+<section class="section--sm">
   <div class="container">
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:start;">
+    <div class="section-header">
+      <div class="section-header__label">Packages</div>
+      <h2>Three ways to be seen</h2>
+      <p>Every reader of this site is in the Algarve, or about to be, and is deciding where to drink tonight. These put you in front of them.</p>
+    </div>
+    <div class="pricing-grid">
 
-      <div class="article">
-        <h2>The honest version</h2>
+      <div class="pricing-card">
+        <div class="pricing-card__name">Featured · 1 month</div>
+        <div class="pricing-card__price">{{ site.pricing.featured_month }}</div>
         <ul>
-          <li>I write the review. You don't.</li>
-          <li>The review will be honest. If your bar isn't great, I won't pretend it is. I'll tell you privately what's not working and we can revisit it later.</li>
-          <li>Featured listings show at the top of their town page with a "Featured" tag.</li>
-          <li>You can also pay for a single sponsored post about a new opening or event. It'll be marked sponsored.</li>
-          <li>You can't pay to remove an honest review or change a star rating.</li>
+          <li>Top of your town page with a "Featured" tag</li>
+          <li>Highlighted in the Bar Finder and on the map</li>
+          <li>Included in the relevant vibe guide (sunset, rooftop, late night…)</li>
+          <li>Review stays honest and unchanged</li>
         </ul>
-
-        <h2>What you get</h2>
-        <ul>
-          <li>A real review on the site</li>
-          <li>Photos (mine, or yours if they're good)</li>
-          <li>Map pin on your town hub page</li>
-          <li>Inclusion in relevant pillar guides</li>
-          <li>Newsletter mention when your listing goes live</li>
-        </ul>
-
-        <h2>What I need from you</h2>
-        <ul>
-          <li>Bar name, address, opening hours, contact</li>
-          <li>Three things you want people to try</li>
-          <li>Best night to visit, worst night to visit</li>
-          <li>A free hour for me to actually come drink there</li>
-        </ul>
+        {% if site.stripe_links.featured_month != "" %}<a href="{{ site.stripe_links.featured_month }}" class="btn btn--primary" target="_blank" rel="noopener">Book it</a>{% else %}<a href="#enquire" class="btn btn--primary" data-package="Featured · 1 month">Choose this</a>{% endif %}
       </div>
+
+      <div class="pricing-card pricing-card--best">
+        <div class="pricing-card__badge">Best value</div>
+        <div class="pricing-card__name">Featured · full season</div>
+        <div class="pricing-card__price">{{ site.pricing.featured_season }}</div>
+        <ul>
+          <li>Everything in the monthly package, April to October</li>
+          <li>One newsletter mention when it goes live</li>
+          <li>Photos refreshed once mid-season</li>
+          <li>Saves over 25% versus month by month</li>
+        </ul>
+        {% if site.stripe_links.featured_season != "" %}<a href="{{ site.stripe_links.featured_season }}" class="btn btn--primary" target="_blank" rel="noopener">Book it</a>{% else %}<a href="#enquire" class="btn btn--primary" data-package="Featured · full season">Choose this</a>{% endif %}
+      </div>
+
+      <div class="pricing-card">
+        <div class="pricing-card__name">Sponsored post</div>
+        <div class="pricing-card__price">{{ site.pricing.sponsored_post }}</div>
+        <ul>
+          <li>One post about a new opening, event or new menu</li>
+          <li>Marked "Sponsored", written in the site's voice</li>
+          <li>Mentioned in the next newsletter</li>
+          <li>Stays online permanently</li>
+        </ul>
+        {% if site.stripe_links.sponsored_post != "" %}<a href="{{ site.stripe_links.sponsored_post }}" class="btn btn--primary" target="_blank" rel="noopener">Book it</a>{% else %}<a href="#enquire" class="btn btn--primary" data-package="Sponsored post">Choose this</a>{% endif %}
+      </div>
+
+    </div>
+    <p class="pricing-fine">Prices exclude VAT. Not on the site yet? Pick a package anyway: the review visit is free and comes first.</p>
+  </div>
+</section>
+
+<section class="section" id="enquire">
+  <div class="container">
+    <div class="layout-sidebar" style="gap:4rem;">
 
       <div>
         <form class="form-grid js-contact-form" data-form-subject="ArtOnBar — Bar Listing Enquiry" novalidate>
+          <div class="form-field">
+            <label for="package">What are you after?</label>
+            <select id="package" name="package">
+              <option value="Just a review (free)">Just a review (free)</option>
+              <option>Featured · 1 month</option>
+              <option>Featured · full season</option>
+              <option>Sponsored post</option>
+              <option>Not sure yet</option>
+            </select>
+          </div>
           <div class="form-field">
             <label for="bar-name">Bar name</label>
             <input type="text" id="bar-name" name="bar_name" placeholder="Your bar's name" required>
@@ -87,6 +120,9 @@
               <option>Tavira</option>
               <option>Carvoeiro</option>
               <option>Portimão</option>
+              <option>Quarteira</option>
+              <option>Sagres</option>
+              <option>Olhão</option>
               <option>Other</option>
             </select>
           </div>
@@ -99,11 +135,32 @@
             <textarea id="message" name="message" placeholder="Three things people should try, best night to visit, anything else worth knowing..." rows="5"></textarea>
           </div>
           <div>
-            <button type="submit" class="btn btn--primary">Submit enquiry</button>
+            <button type="submit" class="btn btn--primary">Send enquiry</button>
           </div>
-          <p style="font-size:.8rem;color:var(--muted-2);">I usually reply within 48 hours.</p>
+          <p style="font-size:.8rem;color:var(--muted-2);">I usually reply within 48 hours with the next steps and an invoice if you picked a package.</p>
         </form>
       </div>
+
+      <aside class="layout-sidebar__sidebar">
+        <div class="info-box" style="margin-bottom:1.5rem;">
+          <h3>The honest version</h3>
+          <ul class="plain-list">
+            <li>I write the review. You don't.</li>
+            <li>If your bar isn't great, I won't pretend it is. I'll tell you privately what's not working and we can revisit it later.</li>
+            <li>Featured listings and sponsored posts are always labelled as such.</li>
+            <li>You can't pay to remove an honest review or change a rating.</li>
+          </ul>
+        </div>
+        <div class="info-box">
+          <h3>What I need from you</h3>
+          <ul class="plain-list">
+            <li>Bar name, address, opening hours, contact</li>
+            <li>Three things you want people to try</li>
+            <li>Best night to visit, worst night to visit</li>
+            <li>A free hour for me to actually come drink there</li>
+          </ul>
+        </div>
+      </aside>
 
     </div>
   </div>
