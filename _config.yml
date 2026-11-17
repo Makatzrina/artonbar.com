@@ -3,6 +3,40 @@
 title: ArtOnBar
 url: https://www.artonbar.com
 
+# ------------------------------------------------------------------
+# MONEY SETTINGS — this is the only file you need to edit.
+# After changing anything here, commit + push; GitHub Pages rebuilds.
+# ------------------------------------------------------------------
+
+# GetYourGuide partner ID (partner.getyourguide.com → Profile).
+# Used by every GYG link and widget on the site.
+gyg_partner_id: "EAQF7O2"
+
+# Booking.com affiliate ID (admin.booking.com/affiliate → "aid" number).
+# Leave empty ("") until you have one; links then stay plain.
+booking_aid: ""
+
+# Newsletter provider. Paste the form "action" URL from your provider's
+# embedded-form code (MailerLite, Mailchimp, Buttondown, Beehiiv all work).
+# Leave empty to keep sending sign-ups to your FormSubmit inbox.
+newsletter_form_action: ""
+# Name of the email field your provider expects:
+#   MailerLite: "fields[email]"   Mailchimp: "EMAIL"   Buttondown/Beehiiv: "email"
+newsletter_email_field: "email"
+
+# "List Your Bar" packages. Prices are shown as-is (change freely).
+pricing:
+  featured_month:  "€49"
+  featured_season: "€249"
+  sponsored_post:  "€99"
+
+# Stripe Payment Links (dashboard.stripe.com → Payment Links → create one per package).
+# Leave empty and the buttons open the enquiry form instead of a checkout.
+stripe_links:
+  featured_month:  ""
+  featured_season: ""
+  sponsored_post:  ""
+
 # whitelist lets the plugin run in `jekyll build --safe` locally; GitHub Pages whitelists it anyway
 whitelist:
   - jekyll-redirect-from
@@ -12,6 +46,7 @@ plugins:
 # Keep these out of the published site
 exclude:
   - README.md
+  - MONETISATION.md
   - Gemfile
   - Gemfile.lock
   - vendor
