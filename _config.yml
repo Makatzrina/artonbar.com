@@ -26,16 +26,24 @@ newsletter_email_field: "email"
 
 # "List Your Bar" packages. Prices are shown as-is (change freely).
 pricing:
-  featured_month:  "€49"
-  featured_season: "€249"
+  featured_month:  "€49"    # top of one town page
+  homepage_month:  "€99"    # homepage card + top of the town page, one bar for the whole Algarve
   sponsored_post:  "€99"
 
 # Stripe Payment Links (dashboard.stripe.com → Payment Links → create one per package).
 # Leave empty and the buttons open the enquiry form instead of a checkout.
 stripe_links:
   featured_month:  "https://buy.stripe.com/eVqdR8bau6fme5845NfEk04"
-  featured_season: ""
+  homepage_month:  ""
   sponsored_post:  ""
+
+# Traffic figures shown on the "List Your Bar" page (from GA4, last 30 days).
+# Update monthly; leave visitors empty to hide the block.
+traffic:
+  period:   "last 30 days, to 17 November 2026"
+  visitors: "57,000"
+  views:    "127,000"
+  growth:   "+19%"
 
 # whitelist lets the plugin run in `jekyll build --safe` locally; GitHub Pages whitelists it anyway
 whitelist:
