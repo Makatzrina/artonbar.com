@@ -22,11 +22,13 @@
    - `newsletter_email_field`: MailerLite → `"fields[email]"`, Mailchimp → `"EMAIL"`, Buttondown/Beehiiv → `"email"`.
 
 ## 4. Featured listings ו-Sponsored posts (עמוד /submit-a-bar/)
-1. המחירים המוצעים (€49 לחודש, €249 לעונה, €99 לפוסט) ב-`pricing:` — תשני כרצונך.
+1. המחירים המוצעים (€49 לחודש בעמוד עיר, €99 לחודש בעמוד הראשי + עיר, €99 לפוסט) ב-`pricing:` — תשני כרצונך.
+   מספרי התנועה שמוצגים בעמוד (`traffic:`) נלקחו מ-GA4 ב-17.11.2026; לעדכן פעם בחודש.
 2. בלי Stripe הכפתורים פותחים את טופס הפנייה עם החבילה מסומנת, ואת שולחת חשבונית ידנית.
 3. עם Stripe: Dashboard → Payment Links → ליצור קישור לכל חבילה ולהדביק ב-`stripe_links:`.
    הכפתורים הופכים אוטומטית ל"Book it" שמוביל לתשלום.
-4. כשבר משלם: בעמוד העיר שלו, על ה-`<a class="bar-list-item">`, להוסיף את הקלאס
+4. כשבר קונה את העמוד הראשי: להחליף את התוכן של `_includes/featured-home.html` בכרטיס של הבר.
+5. כשבר משלם על עמוד עיר: בעמוד העיר שלו, על ה-`<a class="bar-list-item">`, להוסיף את הקלאס
    `bar-list-item--featured` ואת התג `<span class="tag tag--primary">Featured</span>`
    בשורת ה-`__sub`, ולהעביר אותו לדירוג 1.
 
