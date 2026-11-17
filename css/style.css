@@ -1136,6 +1136,12 @@ td strong { color: var(--cream); }
    to the <a class="bar-list-item"> and a <span class="tag tag--primary">Featured</span>
    inside its __sub line. Keep it at rank 1. */
 .bar-list-item--featured { border-color: var(--pink); background: linear-gradient(135deg, var(--pink-dim), transparent 60%); }
+.bar-list-item--promo { margin-bottom: 1.5rem; }
+.bar-list-item--promo .bar-list-item__rank { color: var(--pink); text-shadow: 0 0 12px var(--pink-glow); }
+.bar-list-item--promo .bar-list-item__sub { margin-bottom: .35rem; }
+.bar-list-item--promo .bar-list-item__sub .tag { margin-right: .4rem; }
+.bar-list-item--promo .rating-badge { color: var(--cyan); }
+.article .bar-list-item--promo { display: grid; }
 
 /* ── SIDEBAR LAYOUT (interior pages) ── */
 .layout-sidebar {

@@ -33,7 +33,7 @@ pricing:
 # Stripe Payment Links (dashboard.stripe.com → Payment Links → create one per package).
 # Leave empty and the buttons open the enquiry form instead of a checkout.
 stripe_links:
-  featured_month:  ""
+  featured_month:  "https://buy.stripe.com/eVqdR8bau6fme5845NfEk04"
   featured_season: ""
   sponsored_post:  ""
 
