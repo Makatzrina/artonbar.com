@@ -1,6 +1,6 @@
 # Algarve Christmas &amp; New Year's Eve 2026: Bars &amp; Fireworks
 
-> Where to drink in the Algarve over Christmas and New Year 2026: which bars open on the 24th and 25th, the confirmed NYE fireworks (Albufeira, Quarteira, Lagos), and 33 bars open all winter, by town.
+> Where to drink in the Algarve over Christmas and New Year 2026: which bars open on the 24th and 25th, the confirmed NYE fireworks (Albufeira, Quarteira, Lagos), and 31 bars open all winter, by town.
 
 Source: https://www.artonbar.com/christmas-new-year/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
@@ -85,9 +85,6 @@ Every bar on this site that trades year-round, sorted by our rating within each 
 
 ### Portimão [town guide →](https://www.artonbar.com/portimao/)
 
-- [Absolutely](https://www.artonbar.com/portimao/absolutely/) · €€ · cocktail, late-night. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.
-- [Mandala Lounge](https://www.artonbar.com/portimao/mandala-lounge/) · €€ · sunset, beach. Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.
-
 ### Quarteira [town guide →](https://www.artonbar.com/quarteira/)
 
 - [Latino Bar](https://www.artonbar.com/quarteira/) · € · sunset, cocktail, beach. Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.
@@ -133,6 +130,6 @@ There is no free council event at the marina; Loulé's public party is in Quarte
 
 Which bars stay open through the winter?
 
-33 of the 37 bars on this site are open year-round; the list below is sorted by town. Hours shrink from November to March, so check the bar's Instagram the day you go.
+31 of the 37 bars on this site are open year-round; the list below is sorted by town. Hours shrink from November to March, so check the bar's Instagram the day you go.
 
 Sources for the event details: the councils of Albufeira, Loulé, Lagos, Faro, Tavira, Olhão, Portimão (vivaportimao.pt) and Lagoa/Carvoeiro; Sul Informação, Barlavento, Público and Algarve Holiday Tips round-ups; holiday closing patterns from algarvebus.info and algarve-tourist.com. Checked 18 November 2026.
