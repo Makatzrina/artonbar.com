@@ -102,6 +102,10 @@ When is Sal Rosa closed?
 
 Tuesdays. Open Wednesday to Monday, 4pm to 11:30pm.
 
+What time do bars close in Albufeira?
+
+Since June 2026 the council requires bars to close by 3am and nightclubs by 5am, and shops to stop selling alcohol at 11pm. It applies to the Strip, Praia da Oura, the old town and the centre. If you want a 4am drink, that's Lagos or Portimão now.
+
 ## Things to do in Albufeira
 
 Benagil cave tours, sunset sailing, coastline boat trips — activities to pair with the bars.

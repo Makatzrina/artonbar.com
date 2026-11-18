@@ -33,9 +33,9 @@ Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setti
 
 Absolutely
 
-6 min on foot · Portimão · cocktail, late-night · open in winter
+6 min on foot · Portimão · cocktail, late-night · seasonal
 
-Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.
+Reported closed Oct 2026. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.
 
 €€
 ⭐ 4.4](https://www.artonbar.com/portimao/absolutely/)
@@ -43,9 +43,9 @@ Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around 
 
 Mandala Lounge
 
-7 min on foot · Portimão · sunset, beach · open in winter
+7 min on foot · Portimão · sunset, beach · seasonal
 
-Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.
+Reported closed Oct 2026 (now the hotel's Oriental Terrace). Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.
 
 €€
 ⭐ 4.3](https://www.artonbar.com/portimao/mandala-lounge/)

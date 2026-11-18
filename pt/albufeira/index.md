@@ -102,6 +102,10 @@ Quando é que o Sal Rosa está fechado?
 
 Às terças. Aberto de quarta a segunda, das 16h às 23h30.
 
+A que horas fecham os bares em Albufeira?
+
+Desde junho de 2026, a câmara obriga os bares a fechar até às 3h e as discotecas até às 5h, e as lojas deixam de vender álcool às 23h. Aplica-se à Strip, à Praia da Oura, ao centro histórico e ao centro. Se quer um copo às 4h, isso agora é em Lagos ou Portimão.
+
 ## O que fazer em Albufeira
 
 Passeios às grutas de Benagil, vela ao pôr do sol, passeios de barco pela costa — atividades para combinar com os bares.

@@ -39,7 +39,7 @@ Year-Round
 Best Value
 Off-Strip
 
-Open daily from 6pm to 4am regardless of season. Off the tourist strip which means its business doesn't evaporate when the beach crowd leaves — it serves a local and year-round resident crowd. The most reliable late-night option on the western Algarve in both summer and winter.
+**Reported closed: Google listed it as permanently closed in October 2026. We're confirming; the review stays for reference.** Open daily from 6pm to 4am regardless of season. Off the tourist strip which means its business doesn't evaporate when the beach crowd leaves — it serves a local and year-round resident crowd. The most reliable late-night option on the western Algarve in both summer and winter.
 
 📍 Praceta Afonso de Albuquerque, Praia da Rocha
 💶 € · Cocktails €6–8
@@ -100,7 +100,7 @@ Tavira is one of the best towns in Portugal to visit in winter — quiet, beauti
 
 ## What to avoid in winter
 
-Sky Bar Carvoeiro closes seasonally — don't make a trip for it outside April to October. Most of the Praia da Rocha cliff-top strip (Outro Bar, Mandala Lounge) reduces significantly after summer. Levels Carvoeiro and Carvoeiro's Cocktail Garden maintain reduced winter hours but are worth checking directly before a visit.
+Sky Bar Carvoeiro closes seasonally — don't make a trip for it outside April to October. Most of the Praia da Rocha cliff-top strip on Av. Tomás Cabreira is shut from mid-October to late May (Outro Bar included); the casino bar, the marina bars and Alvor's pubs are the year-round exceptions. Absolutely and Mandala Lounge were reported closed in October 2026. Levels Carvoeiro and Carvoeiro's Cocktail Garden maintain reduced winter hours but are worth checking directly before a visit.
 
 The golden rule: city-centre bars (Lagos old town, Faro old town, Albufeira old town, Tavira square) survive winter better than beach-facing and cliff-top bars. Plan around towns rather than specific venues when visiting October–April.
 
