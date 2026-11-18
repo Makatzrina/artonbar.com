@@ -1,6 +1,6 @@
-# LAB Terrace Faro: Sunset Rooftop Bar Review 2026
+# LAB Terrace Faro: Menu, Prices, Hours &amp; Sunset Review
 
-> LAB Terrace Faro reviewed: the best rooftop sunset bar in Faro. €5 wine, cocktails €8–12, Ria Formosa views. Daily 3pm–8pm, year-round. Arrive before sunset.
+> LAB Terrace Faro menu and prices (wine €5, cocktails €8–12, beer €4–5), hours (daily 3pm–8pm), how to find the rooftop, and why it is the best sunset in Faro.
 
 Source: https://www.artonbar.com/faro/lab-terrace/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.

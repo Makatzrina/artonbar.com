@@ -1,6 +1,6 @@
-# Forbidden Door Lagos: Speakeasy Cocktail Bar Review 2026
+# Forbidden Door Lagos: Speakeasy Menu, Prices &amp; Review
 
-> Honest review of Forbidden Door speakeasy in Lagos, Algarve. Cocktails €12–15. Open daily 7pm–1am. The best cocktail bar in the Algarve.
+> Forbidden Door Lagos: how to get in (no sign, ring the bell), cocktail prices (€12–15), opening hours (daily 7pm–1am), what to order, and an honest review.
 
 Source: https://www.artonbar.com/lagos/forbidden-door/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
@@ -79,6 +79,17 @@ GetYourGuide →](https://www.getyourguide.com/lagos-portugal-l2896/pastel-de-na
 Booking.com →](https://www.booking.com/city/pt/lagos.html)
 [🌅 Lagos Sunset Cruise + Drinks
 GetYourGuide →](https://www.getyourguide.com/algarve-l66/ponta-da-piedade-sunset-cruise-from-lagos-free-drink-t169192/?partner_id=EAQF7O2&utm_medium=online_publisher)
+
+## Forbidden Door menu & prices
+
+Short version, because this is what people search for: cocktails are €12–15, the menu changes with the season, and there is no beer-and-chips option. You come for the drinks. Opening hours are daily 7pm–1am. Price tier €€€. Reservations through the bar's own site, and worth making from Thursday to Saturday.
+
+| What | Price |
+| --- | --- |
+| Signature cocktails | €12–15 |
+| Opening hours | Daily, 7pm–1am |
+| Price tier | €€€ |
+| Booking | Via forbiddendoor.pt |
 
 ## FAQ
 

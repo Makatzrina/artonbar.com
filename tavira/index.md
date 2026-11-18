@@ -1,4 +1,4 @@
-# Best Bars & Nightlife in Tavira, Algarve 2026
+# Tavira Nightlife: Best Bars, Rooftops &amp; Cocktails 2026
 
 > Cocktail clubs on Portugal's most beautiful square, rooftop views and a Ria Formosa sea-view bar — the best bars and nightlife in Tavira. 2026.
 

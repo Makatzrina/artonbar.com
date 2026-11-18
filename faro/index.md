@@ -1,4 +1,4 @@
-# Best Bars & Nightlife in Faro, Algarve 2026
+# Faro Nightlife: Best Bars, Rooftops &amp; Sunset Spots 2026
 
 > Rooftop cocktails, wine bars and authentic local haunts — the best bars and nightlife in Faro, Algarve's most underrated city. Updated 2026.
 

@@ -1,4 +1,4 @@
-# Best Bars in Portimão & Praia da Rocha 2026
+# Portimão &amp; Praia da Rocha Nightlife: Best Bars 2026
 
 > Cliff-top cocktails, sunset views and craft cocktails from €6 — the best bars and nightlife in Portimão and Praia da Rocha. Honest guide 2026.
 

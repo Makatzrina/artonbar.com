@@ -1,4 +1,4 @@
-# Best Bars & Nightlife in Vilamoura Marina 2026
+# Vilamoura Nightlife: Best Marina Bars &amp; Cocktails 2026
 
 > Cocktails, yacht views and award-winning drinks — the best bars and nightlife around Vilamoura Marina, Algarve. Updated 2026.
 
