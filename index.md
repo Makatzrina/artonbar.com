@@ -147,6 +147,7 @@ Browse by Mood
 
 [🔍 Bar finder — filter everything](https://www.artonbar.com/bar-finder/)
 [🗺️ All bars on the map](https://www.artonbar.com/map/)
+[📍 Bars near me](https://www.artonbar.com/near/)
 [🌅 Sunset bars](https://www.artonbar.com/sunset-bars/)
 [🏖️ Beach bars](https://www.artonbar.com/beach-bars/)
 [🍸 Speakeasy & craft cocktails](https://www.artonbar.com/speakeasy/)
@@ -155,6 +156,7 @@ Browse by Mood
 [🌙 Late-night spots](https://www.artonbar.com/late-night/)
 [🐕 Dog-friendly](https://www.artonbar.com/dog-friendly/)
 [❄️ Open in winter](https://www.artonbar.com/open-in-winter/)
+[🎆 Christmas & New Year's Eve](https://www.artonbar.com/christmas-new-year/)
 
 ## The newsletter — once a month, that's it.
 
