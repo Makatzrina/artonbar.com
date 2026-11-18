@@ -79,5 +79,10 @@ exclude:
   - vendor
   - node_modules
 
-# Don't run Markdown/Sass on anything; everything is hand-written HTML
+# Don't run Markdown on anything; everything is hand-written HTML.
+# The Markdown twins (<page>/index.md, for AI agents) must be served as raw
+# text. GitHub Pages force-enables jekyll-optional-front-matter, which would
+# otherwise convert every .md into a page and overwrite the real index.html.
+# Dropping "md" from markdown_ext makes .md files plain static files.
 markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd"
