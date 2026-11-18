@@ -1,0 +1,29 @@
+{%- comment -%}
+  Paid banner slot under the main nav, on every page. Configured in _config.yml → header_banner.
+  Pulled in from _includes/nav.html so no page needs editing.
+{%- endcomment -%}
+{%- if site.header_banner.image != "" -%}
+<div class="ad-slot">
+  <div class="container ad-slot__inner">
+    <span class="ad-slot__label">{{ site.header_banner.label | default: "Advertisement" }}</span>
+    <a class="ad-slot__link" href="{{ site.header_banner.url }}" target="_blank" rel="sponsored noopener">
+      <picture>
+        {%- if site.header_banner.image_mobile != "" -%}
+        <source media="(max-width: 600px)" srcset="{{ site.header_banner.image_mobile }}">
+        {%- endif -%}
+        <img src="{{ site.header_banner.image }}" width="728" height="90" alt="{{ site.header_banner.alt | escape }}" loading="eager" decoding="async">
+      </picture>
+    </a>
+  </div>
+</div>
+{%- else -%}
+<div class="ad-slot ad-slot--empty">
+  <div class="container ad-slot__inner">
+    <span class="ad-slot__label">Advertisement</span>
+    <a class="ad-slot__link ad-slot__promo" href="/submit-a-bar/">
+      <span class="ad-slot__promo-name">Your banner here, on every page of ArtOnBar</span>
+      <span class="ad-slot__promo-meta">728 × 90 · {{ site.pricing.header_banner }}/month · Book it →</span>
+    </a>
+  </div>
+</div>
+{%- endif -%}

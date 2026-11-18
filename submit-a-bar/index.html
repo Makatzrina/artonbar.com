@@ -42,7 +42,7 @@
   <div class="container">
     <div class="section-header">
       <div class="section-header__label">Packages</div>
-      <h2>Three ways to be seen</h2>
+      <h2>Four ways to be seen</h2>
       <p>Every reader of this site is in the Algarve, or about to be, and is deciding where to drink tonight. These put you in front of them.</p>
     </div>
     <div class="pricing-grid">
@@ -84,6 +84,18 @@
         {% if site.stripe_links.sponsored_post != "" %}<a href="{{ site.stripe_links.sponsored_post }}" class="btn btn--primary" target="_blank" rel="noopener">Book it</a>{% else %}<a href="#enquire" class="btn btn--primary" data-package="Sponsored post">Choose this</a>{% endif %}
       </div>
 
+      <div class="pricing-card">
+        <div class="pricing-card__name">Header banner · 1 month</div>
+        <div class="pricing-card__price">{{ site.pricing.header_banner }}</div>
+        <ul>
+          <li>Your banner under the menu on every page of the site</li>
+          <li>Seen on all 10 town pages, every review and every guide</li>
+          <li>Labelled "Advertisement", links straight to your site or booking page</li>
+          <li>Any business welcome: bars, tours, hotels, boats, restaurants</li>
+        </ul>
+        {% if site.stripe_links.header_banner != "" %}<a href="{{ site.stripe_links.header_banner }}" class="btn btn--primary" target="_blank" rel="noopener">Book it</a>{% else %}<a href="#enquire" class="btn btn--primary" data-package="Header banner · 1 month">Choose this</a>{% endif %}
+      </div>
+
     </div>
     <p class="pricing-fine">Prices exclude VAT. Book three months and the third is on me. Not on the site yet? Pick a package anyway: the review visit is free and comes first. Want more reach, such as ads shown to everyone who read your town's page? Ask in the form.</p>
     {% if site.traffic.visitors != "" %}
@@ -110,6 +122,7 @@
               <option>Featured · 1 month</option>
               <option>Homepage · 1 month</option>
               <option>Sponsored post</option>
+              <option>Header banner · 1 month</option>
               <option>Remarketing / something bigger</option>
               <option>Not sure yet</option>
             </select>

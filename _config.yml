@@ -26,6 +26,7 @@ newsletter_email_field: "email"
 
 # "List Your Bar" packages. Prices are shown as-is (change freely).
 pricing:
+  header_banner:   "€149"   # banner under the menu, every page of the site
   featured_month:  "€49"    # top of one town page
   homepage_month:  "€99"    # homepage card + top of the town page, one bar for the whole Algarve
   sponsored_post:  "€99"
@@ -33,9 +34,24 @@ pricing:
 # Stripe Payment Links (dashboard.stripe.com → Payment Links → create one per package).
 # Leave empty and the buttons open the enquiry form instead of a checkout.
 stripe_links:
+  header_banner:   ""
   featured_month:  "https://buy.stripe.com/eVqdR8bau6fme5845NfEk04"
   homepage_month:  ""
   sponsored_post:  ""
+
+# Header banner: shown under the menu on every page. Leave image empty to
+# show the "your banner here" placeholder instead.
+#   image:        desktop creative, 728×90 shown (supply 1456×180 for sharp screens), PNG/JPG/WebP
+#   image_mobile: phone creative, 320×100 shown (supply 640×200). Falls back to the desktop image.
+#   url:          where a click goes (opens in a new tab, marked as sponsored)
+#   alt:          what the banner says, for screen readers and if the image fails
+#   label:        small text above the banner; keep it honest ("Advertisement", "Partner")
+header_banner:
+  image:        ""
+  image_mobile: ""
+  url:          ""
+  alt:          ""
+  label:        "Advertisement"
 
 # Traffic figures shown on the "List Your Bar" page (from GA4, last 30 days).
 # Update monthly; leave visitors empty to hide the block.
