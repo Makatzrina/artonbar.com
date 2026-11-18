@@ -5,12 +5,21 @@
 <section class="section--sm">
   <div class="container">
     <a href="/submit-a-bar/" class="home-featured">
+      {%- if page.lang == "pt" %}
+      <div class="home-featured__tag"><span class="tag tag--primary">Destaque pago</span> Página principal · disponível</div>
+      <div class="home-featured__body">
+        <div class="home-featured__name">O seu bar, a primeira coisa que cada visitante vê</div>
+        <p class="home-featured__desc">Um bar para todo o Algarve, na página onde toda a gente entra, mais o topo da página da sua cidade. {{ site.pricing.homepage_month }} por mês, identificado como pago, a crítica continua honesta.</p>
+      </div>
+      <div class="home-featured__cta">Reservar →</div>
+      {%- else %}
       <div class="home-featured__tag"><span class="tag tag--primary">Featured spot</span> Homepage · available now</div>
       <div class="home-featured__body">
         <div class="home-featured__name">Your bar, first thing every visitor sees</div>
         <p class="home-featured__desc">One bar for the whole Algarve, on the page everyone lands on, plus the top of your town page. {{ site.pricing.homepage_month }} a month, labelled as paid, review stays honest.</p>
       </div>
       <div class="home-featured__cta">Book it →</div>
+      {%- endif %}
     </a>
   </div>
 </section>

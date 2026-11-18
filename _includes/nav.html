@@ -1,8 +1,19 @@
-{%- comment -%} Shared main navigation. Edit here, not in the pages. {%- endcomment -%}
-<nav class="nav" role="navigation" aria-label="Main navigation">
+{%- comment -%} Shared main navigation. Edit here, not in the pages. PT pages set lang: pt in front matter. {%- endcomment -%}
+{%- assign pt = false -%}{%- if page.lang == "pt" -%}{%- assign pt = true -%}{%- endif -%}
+<nav class="nav" role="navigation" aria-label="{% if pt %}Navegação principal{% else %}Main navigation{% endif %}">
   <div class="container nav__inner">
-    <a href="/" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
+    <a href="{% if pt %}/pt/{% else %}/{% endif %}" class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</a>
     <ul class="nav__links" id="nav-links">
+      {%- if pt %}
+      <li><a href="/pt/lagos/"{% if page.url contains '/lagos/' %} class="is-active"{% endif %}>Lagos</a></li>
+      <li><a href="/pt/albufeira/"{% if page.url contains '/albufeira/' %} class="is-active"{% endif %}>Albufeira</a></li>
+      <li><a href="/pt/vilamoura/"{% if page.url contains '/vilamoura/' %} class="is-active"{% endif %}>Vilamoura</a></li>
+      <li><a href="/pt/faro/"{% if page.url contains '/faro/' %} class="is-active"{% endif %}>Faro</a></li>
+      <li><a href="/pt/#towns">Todas as cidades</a></li>
+      <li><a href="/bar-finder/">Bar Finder</a></li>
+      <li><a href="/submit-a-bar/" class="nav__cta">Anuncie o seu bar</a></li>
+      <li><a href="{{ page.translation | default: '/' }}" class="nav__lang" lang="en" hreflang="en" title="Read in English">EN</a></li>
+      {%- else %}
       <li><a href="/lagos/"{% if page.url contains '/lagos/' %} class="is-active"{% endif %}>Lagos</a></li>
       <li><a href="/albufeira/"{% if page.url contains '/albufeira/' %} class="is-active"{% endif %}>Albufeira</a></li>
       <li><a href="/vilamoura/"{% if page.url contains '/vilamoura/' %} class="is-active"{% endif %}>Vilamoura</a></li>
@@ -11,8 +22,10 @@
       <li><a href="/bar-finder/"{% if page.url contains '/bar-finder/' %} class="is-active"{% endif %}>Bar Finder</a></li>
       <li><a href="/about/"{% if page.url contains '/about/' %} class="is-active"{% endif %}>About</a></li>
       <li><a href="/submit-a-bar/" class="nav__cta">List Your Bar</a></li>
+      <li><a href="{{ page.translation | default: '/pt/' }}" class="nav__lang" lang="pt" hreflang="pt" title="Ler em português">PT</a></li>
+      {%- endif %}
     </ul>
-    <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+    <button class="nav__hamburger" aria-label="{% if pt %}Abrir menu{% else %}Open menu{% endif %}" aria-expanded="false" aria-controls="nav-links">
       <span></span><span></span><span></span>
     </button>
   </div>
