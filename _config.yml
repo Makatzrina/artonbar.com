@@ -46,11 +46,14 @@ stripe_links:
 #   url:          where a click goes (opens in a new tab, marked as sponsored)
 #   alt:          what the banner says, for screen readers and if the image fails
 #   label:        small text above the banner; keep it honest ("Advertisement", "Partner")
+#   html:         name of an HTML creative in _includes/ (text rendered live, can animate).
+#                 Takes precedence over image. Leave "" to use an image.
 header_banner:
+  html:         "banner-marinai.html"
   image:        ""
   image_mobile: ""
-  url:          ""
-  alt:          ""
+  url:          "https://marinai.xyz/agent-check"
+  alt:          "Is your website accessible to zombies? AI agents now pick bars for tourists. Free check at marinai.xyz"
   label:        "Advertisement"
 
 # Traffic figures shown on the "List Your Bar" page (from GA4, last 30 days).
