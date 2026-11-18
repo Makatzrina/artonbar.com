@@ -1,6 +1,6 @@
-# Sal Rosa Albufeira: Cliff-Edge Cocktail Bar Review 2026
+# Sal Rosa Albufeira: Menu, Prices, Hours &amp; Review 2026
 
-> Sal Rosa Albufeira reviewed honestly. Cliff-edge terrace, signature cocktails €14–17, local Algarve ingredients. Wed–Mon 4pm–11:30pm. Book the front tables.
+> Sal Rosa Albufeira menu and prices (cocktails €14–17), opening hours (Wed–Mon 4pm–11:30pm), how to book the cliff-edge tables, and an honest review.
 
 Source: https://www.artonbar.com/albufeira/sal-rosa/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.

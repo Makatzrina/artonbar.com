@@ -1,4 +1,4 @@
-# Best Bars in Albufeira: Strip & Old Town Guide 2026
+# Albufeira Nightlife: Best Bars on the Strip &amp; Old Town
 
 > Skip the tourist traps — the best bars in Albufeira from the Strip to the Old Town. Cliff-edge cocktails, beach bars and hidden gems. 2026.
 

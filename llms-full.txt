@@ -124,7 +124,7 @@ Audit, crawler access, llms.txt, structured data, FAQ markup and this statement.
 https://www.artonbar.com/albufeira/
 ========================================================================
 
-# Best Bars in Albufeira: Strip & Old Town Guide 2026
+# Albufeira Nightlife: Best Bars on the Strip &amp; Old Town
 
 > Skip the tourist traps — the best bars in Albufeira from the Strip to the Old Town. Cliff-edge cocktails, beach bars and hidden gems. 2026.
 
@@ -237,9 +237,9 @@ Benagil cave tours, sunset sailing, coastline boat trips — activities to pair 
 https://www.artonbar.com/albufeira/sal-rosa/
 ========================================================================
 
-# Sal Rosa Albufeira: Cliff-Edge Cocktail Bar Review 2026
+# Sal Rosa Albufeira: Menu, Prices, Hours &amp; Review 2026
 
-> Sal Rosa Albufeira reviewed honestly. Cliff-edge terrace, signature cocktails €14–17, local Algarve ingredients. Wed–Mon 4pm–11:30pm. Book the front tables.
+> Sal Rosa Albufeira menu and prices (cocktails €14–17), opening hours (Wed–Mon 4pm–11:30pm), how to book the cliff-edge tables, and an honest review.
 
 Source: https://www.artonbar.com/albufeira/sal-rosa/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
@@ -1441,7 +1441,7 @@ Verified June 2026 · ArtOnBar
 https://www.artonbar.com/faro/
 ========================================================================
 
-# Best Bars & Nightlife in Faro, Algarve 2026
+# Faro Nightlife: Best Bars, Rooftops &amp; Sunset Spots 2026
 
 > Rooftop cocktails, wine bars and authentic local haunts — the best bars and nightlife in Faro, Algarve's most underrated city. Updated 2026.
 
@@ -1552,9 +1552,9 @@ Ria Formosa boat trips, birdwatching tours, Faro Islands — activities to pair 
 https://www.artonbar.com/faro/lab-terrace/
 ========================================================================
 
-# LAB Terrace Faro: Sunset Rooftop Bar Review 2026
+# LAB Terrace Faro: Menu, Prices, Hours &amp; Sunset Review
 
-> LAB Terrace Faro reviewed: the best rooftop sunset bar in Faro. €5 wine, cocktails €8–12, Ria Formosa views. Daily 3pm–8pm, year-round. Arrive before sunset.
+> LAB Terrace Faro menu and prices (wine €5, cocktails €8–12, beer €4–5), hours (daily 3pm–8pm), how to find the rooftop, and why it is the best sunset in Faro.
 
 Source: https://www.artonbar.com/faro/lab-terrace/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
@@ -1947,9 +1947,9 @@ I won't sell your email. I won't email you weekly. You can unsubscribe with one 
 https://www.artonbar.com/lagos/forbidden-door/
 ========================================================================
 
-# Forbidden Door Lagos: Speakeasy Cocktail Bar Review 2026
+# Forbidden Door Lagos: Speakeasy Menu, Prices &amp; Review
 
-> Honest review of Forbidden Door speakeasy in Lagos, Algarve. Cocktails €12–15. Open daily 7pm–1am. The best cocktail bar in the Algarve.
+> Forbidden Door Lagos: how to get in (no sign, ring the bell), cocktail prices (€12–15), opening hours (daily 7pm–1am), what to order, and an honest review.
 
 Source: https://www.artonbar.com/lagos/forbidden-door/  
 Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
@@ -2028,6 +2028,17 @@ GetYourGuide →](https://www.getyourguide.com/lagos-portugal-l2896/pastel-de-na
 Booking.com →](https://www.booking.com/city/pt/lagos.html)
 [🌅 Lagos Sunset Cruise + Drinks
 GetYourGuide →](https://www.getyourguide.com/algarve-l66/ponta-da-piedade-sunset-cruise-from-lagos-free-drink-t169192/?partner_id=EAQF7O2&utm_medium=online_publisher)
+
+## Forbidden Door menu & prices
+
+Short version, because this is what people search for: cocktails are €12–15, the menu changes with the season, and there is no beer-and-chips option. You come for the drinks. Opening hours are daily 7pm–1am. Price tier €€€. Reservations through the bar's own site, and worth making from Thursday to Saturday.
+
+| What | Price |
+| --- | --- |
+| Signature cocktails | €12–15 |
+| Opening hours | Daily, 7pm–1am |
+| Price tier | €€€ |
+| Booking | Via forbiddendoor.pt |
 
 ## FAQ
 
@@ -2879,7 +2890,7 @@ Boat trips and sea cave tours depart from nearby Portimão marina.
 https://www.artonbar.com/portimao/
 ========================================================================
 
-# Best Bars in Portimão & Praia da Rocha 2026
+# Portimão &amp; Praia da Rocha Nightlife: Best Bars 2026
 
 > Cliff-top cocktails, sunset views and craft cocktails from €6 — the best bars and nightlife in Portimão and Praia da Rocha. Honest guide 2026.
 
@@ -4213,7 +4224,7 @@ Ilha de Tavira ferry, Ria Formosa boat trips, and the Roman bridge — pair with
 https://www.artonbar.com/tavira/
 ========================================================================
 
-# Best Bars & Nightlife in Tavira, Algarve 2026
+# Tavira Nightlife: Best Bars, Rooftops &amp; Cocktails 2026
 
 > Cocktail clubs on Portugal's most beautiful square, rooftop views and a Ria Formosa sea-view bar — the best bars and nightlife in Tavira. 2026.
 
@@ -4540,7 +4551,7 @@ Spend the day at Ilha de Tavira before the evening at Nomad.
 https://www.artonbar.com/vilamoura/
 ========================================================================
 
-# Best Bars & Nightlife in Vilamoura Marina 2026
+# Vilamoura Nightlife: Best Marina Bars &amp; Cocktails 2026
 
 > Cocktails, yacht views and award-winning drinks — the best bars and nightlife around Vilamoura Marina, Algarve. Updated 2026.
 
