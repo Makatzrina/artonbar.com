@@ -56,6 +56,8 @@ Updated: 2026-11-18
 - Best bars in the Algarve (ranked): https://www.artonbar.com/best-bars-algarve/
 - Bar Finder: https://www.artonbar.com/bar-finder/
 - Bar Map: https://www.artonbar.com/map/
+- Bars near a landmark (Praia Dona Ana, Lagos Marina, Vilamoura Marina, Praia da Rocha, Faro Old Town, Faro Airport, Tavira square, Carvoeiro beach, Quarteira promenade, Olhão market, Cabo de São Vicente, Albufeira old town and strip): https://www.artonbar.com/near/
+- Portuguese version (homepage, 10 town guides, best-bars pillar, 3 reviews): https://www.artonbar.com/pt/
 
 ## Town hubs
 - Lagos: https://www.artonbar.com/lagos/

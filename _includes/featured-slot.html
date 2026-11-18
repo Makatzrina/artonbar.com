@@ -8,12 +8,18 @@
 <a href="/submit-a-bar/" class="bar-list-item bar-list-item--featured bar-list-item--promo">
   <div class="bar-list-item__rank">★</div>
   <div>
+    {%- if page.lang == "pt" %}
+    <div class="bar-list-item__sub"><span class="tag tag--primary">Destaque pago</span> Disponível · {{ site.pricing.featured_month }}/mês</div>
+    <div class="bar-list-item__name">O seu bar, em primeiro na página de {{ include.town }}</div>
+    <p class="bar-list-item__desc">Quem lê isto está a escolher um bar em {{ include.town }} para hoje à noite. O lugar de destaque põe o seu no topo desta lista, no Bar Finder e no mapa, com a etiqueta de que é pago. A crítica por baixo continua honesta.</p>
+    {%- else %}
     <div class="bar-list-item__sub"><span class="tag tag--primary">Featured spot</span> Available now · {{ site.pricing.featured_month }}/month</div>
     <div class="bar-list-item__name">Your bar, first on the {{ include.town }} page</div>
     <p class="bar-list-item__desc">Everyone reading this is picking a bar in {{ include.town }} tonight. The featured slot puts yours at the top of this list, in the Bar Finder and on the map, with a label that says it's paid. The review underneath stays honest.</p>
+    {%- endif %}
   </div>
   <div class="bar-list-item__meta">
     <span class="price-badge">{{ site.pricing.featured_month }}</span>
-    <span class="rating-badge">Book it →</span>
+    <span class="rating-badge">{% if page.lang == "pt" %}Reservar →{% else %}Book it →{% endif %}</span>
   </div>
 </a>

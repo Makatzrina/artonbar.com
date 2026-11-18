@@ -1,0 +1,12 @@
+{%- comment -%} hreflang pair. Needs page.translation (the other language's URL). {%- endcomment -%}
+{%- if page.translation -%}
+{%- if page.lang == "pt" -%}
+  <link rel="alternate" hreflang="pt" href="https://www.artonbar.com{{ page.url }}">
+  <link rel="alternate" hreflang="en" href="https://www.artonbar.com{{ page.translation }}">
+  <link rel="alternate" hreflang="x-default" href="https://www.artonbar.com{{ page.translation }}">
+{%- else -%}
+  <link rel="alternate" hreflang="en" href="https://www.artonbar.com{{ page.url }}">
+  <link rel="alternate" hreflang="pt" href="https://www.artonbar.com{{ page.translation }}">
+  <link rel="alternate" hreflang="x-default" href="https://www.artonbar.com{{ page.url }}">
+{%- endif -%}
+{%- endif -%}

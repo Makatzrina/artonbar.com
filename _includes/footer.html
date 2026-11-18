@@ -1,4 +1,62 @@
 {%- comment -%} Shared footer. Edit here, not in the pages. {%- endcomment -%}
+{%- if page.lang == "pt" -%}
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <div class="nav__logo">ART<span class="dot">·</span>ON<span class="dot">·</span>BAR</div>
+        <p>O guia de bares do Algarve. Escrito por quem cá vive, para quem quer beber bem.</p>
+      </div>
+      <div class="footer__col">
+        <h4>Cidades</h4>
+        <ul>
+          <li><a href="/pt/lagos/">Lagos</a></li>
+          <li><a href="/pt/albufeira/">Albufeira</a></li>
+          <li><a href="/pt/vilamoura/">Vilamoura</a></li>
+          <li><a href="/pt/faro/">Faro</a></li>
+          <li><a href="/pt/tavira/">Tavira</a></li>
+          <li><a href="/pt/carvoeiro/">Carvoeiro</a></li>
+          <li><a href="/pt/portimao/">Portimão</a></li>
+          <li><a href="/pt/quarteira/">Quarteira</a></li>
+          <li><a href="/pt/sagres/">Sagres</a></li>
+          <li><a href="/pt/olhao/">Olhão</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Guias</h4>
+        <ul>
+          <li><a href="/bar-finder/">Bar Finder</a></li>
+          <li><a href="/map/">Mapa dos bares</a></li>
+          <li><a href="/near/">Bares perto de si (EN)</a></li>
+          <li><a href="/pt/best-bars-algarve/">Melhores bares do Algarve</a></li>
+          <li><a href="/sunset-bars/">Bares de pôr do sol (EN)</a></li>
+          <li><a href="/rooftop-bars/">Rooftops (EN)</a></li>
+          <li><a href="/speakeasy/">Speakeasy &amp; cocktails (EN)</a></li>
+          <li><a href="/beach-bars/">Bares de praia (EN)</a></li>
+          <li><a href="/wine-bars/">Bares de vinho (EN)</a></li>
+          <li><a href="/late-night/">Noite tardia (EN)</a></li>
+          <li><a href="/open-in-winter/">Abertos no inverno (EN)</a></li>
+          <li><a href="/dog-friendly/">Aceitam cães (EN)</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Site</h4>
+        <ul>
+          <li><a href="/about/">Sobre (EN)</a></li>
+          <li><a href="/contact/">Contacto</a></li>
+          <li><a href="/submit-a-bar/">Anuncie o seu bar</a></li>
+          <li><a href="/agent-ready/">Acessibilidade para IA</a></li>
+          <li><a href="{{ page.translation | default: '/' }}">🇬🇧 English version</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2026 ArtOnBar.com · Algarve, Portugal</span>
+      <span>Feito com honestidade. Sem críticas falsas. <a href="/agent-ready/" style="color:inherit;text-decoration:underline dotted;">Legível por humanos e robôs.</a></span>
+    </div>
+  </div>
+</footer>
+{%- else -%}
 <footer class="footer">
   <div class="container">
     <div class="footer__grid">
@@ -26,6 +84,7 @@
         <ul>
           <li><a href="/bar-finder/">Bar Finder</a></li>
           <li><a href="/map/">Bar Map</a></li>
+          <li><a href="/near/">Bars Near Me</a></li>
           <li><a href="/best-bars-algarve/">Best Bars Algarve</a></li>
           <li><a href="/lagos-vs-albufeira/">Lagos vs Albufeira</a></li>
           <li><a href="/vilamoura-vs-albufeira/">Vilamoura vs Albufeira</a></li>
@@ -55,6 +114,7 @@
     </div>
   </div>
 </footer>
+{%- endif -%}
 {% include agent-badge.html %}
 <script>
   // Site-wide settings from _config.yml (read by /js/main.js)
