@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="44" viewBox="0 0 200 44" role="img" aria-label="As featured on ArtOnBar.com">
+  <rect width="200" height="44" rx="6" fill="#0a0a0d" stroke="#ff3d8a" stroke-width="1.5"/>
+  <text x="12" y="17" font-family="JetBrains Mono, Menlo, monospace" font-size="8" letter-spacing="1.5" fill="#9b9484">AS FEATURED ON</text>
+  <text x="12" y="35" font-family="Impact, 'Arial Narrow', sans-serif" font-size="18" letter-spacing="1.5" fill="#f5ecd9">ART<tspan fill="#ff3d8a">·</tspan>ON<tspan fill="#ff3d8a">·</tspan>BAR</text>
+  <text x="188" y="30" text-anchor="end" font-family="JetBrains Mono, Menlo, monospace" font-size="8" fill="#5ef0ff">ALGARVE</text>
+</svg>

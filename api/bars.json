@@ -1,0 +1,564 @@
+{
+ "name": "ArtOnBar — bars of the Algarve",
+ "description": "Every bar listed on artonbar.com with town, vibes, price tier, rating, winter opening and coordinates. Ratings are the guide's own rating where reviewed, Google ratings where noted on the page.",
+ "license": "Free to use with attribution and a link to artonbar.com",
+ "generated": "2026-11-18",
+ "count": 37,
+ "bars": [
+  {
+   "name": "Forbidden Door",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/forbidden-door/",
+   "vibes": [
+    "speakeasy",
+    "cocktail"
+   ],
+   "rating": 4.7,
+   "lat": 37.1017,
+   "lng": -8.6733,
+   "desc": "The only real speakeasy in the Algarve. No sign, ring the bell, serious cocktails €12–15.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "KasBah Bar",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/",
+   "vibes": [
+    "cocktail",
+    "marina"
+   ],
+   "rating": 4.6,
+   "lat": 37.1055,
+   "lng": -8.6745,
+   "desc": "Moroccan décor that should be tacky but isn't. Salt-rimmed espresso martini, marina view free.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Alma Lounge Bar",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/",
+   "vibes": [
+    "cocktail",
+    "late-night"
+   ],
+   "rating": 4.5,
+   "lat": 37.101,
+   "lng": -8.671,
+   "desc": "Open Friday and Saturday only. Tiny, intimate, custom cocktails. Locals know.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Skybar Lagos",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/",
+   "vibes": [
+    "rooftop",
+    "sunset"
+   ],
+   "rating": 4.4,
+   "lat": 37.1019,
+   "lng": -8.6758,
+   "desc": "Hotel rooftop with a small pool and great views. Cash only. Go for the sunset.",
+   "price_tier": "€€",
+   "open_in_winter": false
+  },
+  {
+   "name": "Indigo Bar",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/",
+   "vibes": [
+    "rooftop",
+    "cocktail"
+   ],
+   "rating": 4.4,
+   "lat": 37.1013,
+   "lng": -8.6727,
+   "desc": "Day-to-night rooftop: coffee in the morning, cocktails by 9. Ask for the passionfruit daiquiri.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Zanzibar",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/lagos/",
+   "vibes": [
+    "late-night"
+   ],
+   "rating": 4.2,
+   "lat": 37.1023,
+   "lng": -8.6745,
+   "desc": "Rock music, cocktails named after movies, open till 4am. Happy hour 7–10pm.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Pepper's Bar",
+   "town": "Lagos",
+   "url": "https://www.artonbar.com/speakeasy/",
+   "vibes": [
+    "rooftop",
+    "cocktail",
+    "sunset"
+   ],
+   "rating": 4.4,
+   "lat": 37.101,
+   "lng": -8.672,
+   "desc": "Three floors and a rooftop terrace with sea views over Lagos old town. Sunset party institution.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Sal Rosa",
+   "town": "Albufeira",
+   "url": "https://www.artonbar.com/albufeira/sal-rosa/",
+   "vibes": [
+    "cocktail",
+    "sunset"
+   ],
+   "rating": 4.5,
+   "lat": 37.0885,
+   "lng": -8.2529,
+   "desc": "Cliff-edge terrace, Algarve botanicals in the glass. Book the front tables for sunset.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Roca Beach Bar",
+   "town": "Albufeira",
+   "url": "https://www.artonbar.com/albufeira/",
+   "vibes": [
+    "beach",
+    "sunset"
+   ],
+   "rating": 4.3,
+   "lat": 37.0895,
+   "lng": -8.2315,
+   "desc": "On the sand at Praia da Oura. Beach club by day, sundowners by evening.",
+   "price_tier": "€€€",
+   "open_in_winter": false
+  },
+  {
+   "name": "By The Sea",
+   "town": "Albufeira",
+   "url": "https://www.artonbar.com/albufeira/",
+   "vibes": [
+    "sunset",
+    "wine"
+   ],
+   "rating": 4.2,
+   "lat": 37.088,
+   "lng": -8.2535,
+   "desc": "Old-town terrace bar above the beach. The relaxed alternative to the Strip.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "The Argo",
+   "town": "Vilamoura",
+   "url": "https://www.artonbar.com/vilamoura/the-argo/",
+   "vibes": [
+    "cocktail",
+    "marina"
+   ],
+   "rating": 4.7,
+   "lat": 37.0723,
+   "lng": -8.1218,
+   "desc": "Award-winning cocktail bar at the Tivoli Marina — the best cocktail menu in the region.",
+   "price_tier": "€€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Baracuda Bar",
+   "town": "Vilamoura",
+   "url": "https://www.artonbar.com/vilamoura/",
+   "vibes": [
+    "marina",
+    "late-night"
+   ],
+   "rating": 4.2,
+   "lat": 37.0715,
+   "lng": -8.1225,
+   "desc": "Marina-front stalwart — the oldest bar on the Vilamoura boardwalk.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Casino Vilamoura Bar",
+   "town": "Vilamoura",
+   "url": "https://www.artonbar.com/vilamoura/",
+   "vibes": [
+    "late-night"
+   ],
+   "rating": 4.1,
+   "lat": 37.0765,
+   "lng": -8.117,
+   "desc": "Late-night drinks till 3am with the casino floor next door.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "LAB Terrace",
+   "town": "Faro",
+   "url": "https://www.artonbar.com/faro/lab-terrace/",
+   "vibes": [
+    "rooftop",
+    "sunset",
+    "wine"
+   ],
+   "rating": 4.7,
+   "lat": 37.0194,
+   "lng": -7.9322,
+   "desc": "Faro's best sunset rooftop. €5 wine facing the Ria Formosa. Closes 8pm — sunset only.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Cidade Velha Rooftop",
+   "town": "Faro",
+   "url": "https://www.artonbar.com/faro/cidade-velha-rooftop/",
+   "vibes": [
+    "rooftop",
+    "late-night"
+   ],
+   "rating": 4.4,
+   "lat": 37.0135,
+   "lng": -7.9345,
+   "desc": "Old-town rooftop with cathedral views. The Faro rooftop that stays open after sunset.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Terrazzo Rooftop",
+   "town": "Faro",
+   "url": "https://www.artonbar.com/faro/terrazzo/",
+   "vibes": [
+    "rooftop",
+    "marina",
+    "late-night"
+   ],
+   "rating": 4.3,
+   "lat": 37.0158,
+   "lng": -7.9365,
+   "desc": "Marina views and a polished cocktail list. Faro's late-evening rooftop option.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Arcada Cocktail Club",
+   "town": "Tavira",
+   "url": "https://www.artonbar.com/tavira/arcada/",
+   "vibes": [
+    "cocktail"
+   ],
+   "rating": 4.4,
+   "lat": 37.1269,
+   "lng": -7.6503,
+   "desc": "Terrace on Tavira's main square. The best cocktail bar east of Faro.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Rooftop Nomad",
+   "town": "Tavira",
+   "url": "https://www.artonbar.com/tavira/rooftop-nomad/",
+   "vibes": [
+    "rooftop",
+    "sunset"
+   ],
+   "rating": 4.5,
+   "lat": 37.126,
+   "lng": -7.6495,
+   "desc": "Rooftop restaurant-bar above Tavira's old town with river and rooftop views.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Quasi Bar",
+   "town": "Tavira",
+   "url": "https://www.artonbar.com/tavira/quasi-bar/",
+   "vibes": [
+    "beach",
+    "late-night"
+   ],
+   "rating": 4.3,
+   "lat": 37.1005,
+   "lng": -7.5988,
+   "desc": "Cabanas de Tavira seafront, Ria Formosa views, DJ weekends. More local than tourist.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Sky Bar Carvoeiro",
+   "town": "Carvoeiro",
+   "url": "https://www.artonbar.com/carvoeiro/sky-bar/",
+   "vibes": [
+    "rooftop",
+    "sunset",
+    "beach"
+   ],
+   "rating": 4.5,
+   "lat": 37.0917,
+   "lng": -8.465,
+   "desc": "Tivoli hotel rooftop above the cliffs. Panoramic Atlantic views, premium cocktails. Seasonal.",
+   "price_tier": "€€€€",
+   "open_in_winter": false
+  },
+  {
+   "name": "Cocktail Garden",
+   "town": "Carvoeiro",
+   "url": "https://www.artonbar.com/carvoeiro/cocktail-garden/",
+   "vibes": [
+    "cocktail"
+   ],
+   "rating": 4.4,
+   "lat": 37.093,
+   "lng": -8.472,
+   "desc": "Freestyle bartending under palm trees. Tell them what you like, they build it.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Levels Carvoeiro",
+   "town": "Carvoeiro",
+   "url": "https://www.artonbar.com/carvoeiro/levels/",
+   "vibes": [
+    "beach",
+    "wine",
+    "sunset"
+   ],
+   "rating": 4.2,
+   "lat": 37.0972,
+   "lng": -8.4732,
+   "desc": "Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Outro Bar",
+   "town": "Portimão",
+   "url": "https://www.artonbar.com/portimao/outro-bar/",
+   "vibes": [
+    "beach",
+    "sunset",
+    "late-night"
+   ],
+   "rating": 4.2,
+   "lat": 37.1193,
+   "lng": -8.539,
+   "desc": "Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.",
+   "price_tier": "€€",
+   "open_in_winter": false
+  },
+  {
+   "name": "Mandala Lounge",
+   "town": "Portimão",
+   "url": "https://www.artonbar.com/portimao/mandala-lounge/",
+   "vibes": [
+    "sunset",
+    "beach"
+   ],
+   "rating": 4.3,
+   "lat": 37.12,
+   "lng": -8.543,
+   "desc": "Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Absolutely",
+   "town": "Portimão",
+   "url": "https://www.artonbar.com/portimao/absolutely/",
+   "vibes": [
+    "cocktail",
+    "late-night"
+   ],
+   "rating": 4.4,
+   "lat": 37.1156,
+   "lng": -8.5387,
+   "desc": "Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Dromedário Bar",
+   "town": "Sagres",
+   "url": "https://www.artonbar.com/sagres/",
+   "vibes": [
+    "cocktail",
+    "late-night"
+   ],
+   "rating": 4.5,
+   "lat": 37.0084,
+   "lng": -8.9382,
+   "desc": "Sagres institution since 1985. House craft beer, creative cocktails, DJs in summer. Open till 2am, all year.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Água Salgada",
+   "town": "Sagres",
+   "url": "https://www.artonbar.com/sagres/",
+   "vibes": [
+    "cocktail"
+   ],
+   "rating": 4.5,
+   "lat": 37.0084,
+   "lng": -8.9383,
+   "desc": "Seafood tapas and negronis by day, DJ and mirror ball by night. Closed Mondays.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Pau de Pita",
+   "town": "Sagres",
+   "url": "https://www.artonbar.com/sagres/",
+   "vibes": [
+    "rooftop",
+    "sunset",
+    "late-night"
+   ],
+   "rating": 4.2,
+   "lat": 37.0084,
+   "lng": -8.9384,
+   "desc": "Rooftop terrace with sea view, caipirinhas and sangria, 80s nights. One of the few open in winter.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Chiringuito Last Chance",
+   "town": "Sagres",
+   "url": "https://www.artonbar.com/sagres/",
+   "vibes": [
+    "beach",
+    "sunset"
+   ],
+   "rating": 4,
+   "lat": 37.0064,
+   "lng": -8.9411,
+   "desc": "Palm-parasol deck above Praia da Mareta. The Sagres sunset drink. Cash only, pricey for the town.",
+   "price_tier": "€€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Latino Bar",
+   "town": "Quarteira",
+   "url": "https://www.artonbar.com/quarteira/",
+   "vibes": [
+    "sunset",
+    "cocktail",
+    "beach"
+   ],
+   "rating": 4.8,
+   "lat": 37.0657,
+   "lng": -8.0988,
+   "desc": "Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Teixeira Wine Bar",
+   "town": "Quarteira",
+   "url": "https://www.artonbar.com/quarteira/",
+   "vibes": [
+    "wine",
+    "sunset"
+   ],
+   "rating": 4.5,
+   "lat": 37.0667,
+   "lng": -8.1012,
+   "desc": "Seafront wine and tapas bar with oak-barrel tables, long happy hour, live music some nights.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Baz & Minnie's Irish Bar",
+   "town": "Quarteira",
+   "url": "https://www.artonbar.com/quarteira/",
+   "vibes": [
+    "late-night"
+   ],
+   "rating": 4.6,
+   "lat": 37.0641,
+   "lng": -8.094,
+   "desc": "Irish pub just off the promenade: Guinness, sport, karaoke, quiz night. Cash only, open till 2am.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Cadillac Bar",
+   "town": "Quarteira",
+   "url": "https://www.artonbar.com/quarteira/",
+   "vibes": [
+    "late-night"
+   ],
+   "rating": 4.1,
+   "lat": 37.0697,
+   "lng": -8.1041,
+   "desc": "Rock-and-roll local with live music every night and cheap beer. The only Quarteira bar open till 4am.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Casta Nova",
+   "town": "Olhão",
+   "url": "https://www.artonbar.com/olhao/",
+   "vibes": [
+    "wine"
+   ],
+   "rating": 5,
+   "lat": 37.0241,
+   "lng": -7.8422,
+   "desc": "Small-producer and natural Portuguese wines with cheese and bread. Early-evening only, closed weekends.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Pombo Bar",
+   "town": "Olhão",
+   "url": "https://www.artonbar.com/olhao/",
+   "vibes": [
+    "cocktail",
+    "late-night"
+   ],
+   "rating": 4.6,
+   "lat": 37.024,
+   "lng": -7.8403,
+   "desc": "Waterfront avenue bar with strong mojitos and sparkling sangria. Where Olhão's night ends.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  },
+  {
+   "name": "Le Panorama",
+   "town": "Olhão",
+   "url": "https://www.artonbar.com/olhao/",
+   "vibes": [
+    "wine",
+    "sunset"
+   ],
+   "rating": 4.5,
+   "lat": 37.0236,
+   "lng": -7.841,
+   "desc": "Lagoon-side market terrace: €10 oysters, white sangria, the cheapest golden-hour seat in Olhão. Cash only.",
+   "price_tier": "€",
+   "open_in_winter": true
+  },
+  {
+   "name": "ZONA Cocktail Lounge",
+   "town": "Olhão",
+   "url": "https://www.artonbar.com/olhao/",
+   "vibes": [
+    "cocktail",
+    "sunset"
+   ],
+   "rating": 4.4,
+   "lat": 37.0236,
+   "lng": -7.8414,
+   "desc": "Cocktails at €7–9 in the red-brick market hall facing the marina. Olhão's sunset cocktail.",
+   "price_tier": "€€",
+   "open_in_winter": true
+  }
+ ]
+}

@@ -10,6 +10,8 @@
   <meta name="description" content="From craft speakeasies to late-night terraces — the best bars and nightlife in Lagos, Portugal. Honest, ranked guide updated 2026.">
   <meta name="keywords" content="best bars lagos portugal, cocktail bars lagos, rooftop bars lagos algarve, nightlife lagos algarve">
   <link rel="canonical" href="https://www.artonbar.com/lagos/">
+  <link rel="alternate" type="text/markdown" href="/lagos/index.md" title="This page as Markdown">
+  <link rel="alternate" type="application/json" href="/api/bars.json" title="All bars (JSON)">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
@@ -20,17 +22,113 @@
   "@type": "Article",
   "headline": "Best Bars in Lagos, Algarve (2026): A Local's Honest Guide",
   "description": "The best cocktail bars, rooftop bars and late-night spots in Lagos, Portugal. Ranked by a local.",
-  "author": { "@type": "Person", "name": "ArtOnBar" },
-  "publisher": { "@type": "Organization", "name": "ArtOnBar", "url": "https://www.artonbar.com" },
+  "author": {
+    "@type": "Person",
+    "name": "ArtOnBar"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ArtOnBar",
+    "url": "https://www.artonbar.com"
+  },
   "url": "https://www.artonbar.com/lagos/",
   "dateModified": "2026-11-16",
   "mentions": [
-    { "@type": "BarOrPub", "name": "Forbidden Door", "url": "https://www.forbiddendoor.pt", "address": { "@type": "PostalAddress", "streetAddress": "R. Primeiro de Maio 6", "addressLocality": "Lagos", "addressCountry": "PT" } },
-    { "@type": "BarOrPub", "name": "KasBah Bar & Cocktail Lounge", "sameAs": "https://www.instagram.com/kasbahbar.lagos/", "address": { "@type": "PostalAddress", "addressLocality": "Lagos", "addressCountry": "PT" } },
-    { "@type": "BarOrPub", "name": "Alma Lounge Bar", "url": "https://almalusalagos.com", "address": { "@type": "PostalAddress", "streetAddress": "R. Gago Coutinho 3", "addressLocality": "Lagos", "addressCountry": "PT" } },
-    { "@type": "BarOrPub", "name": "Skybar Lagos", "sameAs": "https://www.instagram.com/skybar.lagos/", "address": { "@type": "PostalAddress", "streetAddress": "Largo Marquês de Pombal 1", "addressLocality": "Lagos", "addressCountry": "PT" } },
-    { "@type": "BarOrPub", "name": "Indigo Bar", "sameAs": "https://www.instagram.com/indigobarlagos/", "address": { "@type": "PostalAddress", "streetAddress": "R. Lançarote de Freitas 15", "addressLocality": "Lagos", "addressCountry": "PT" } },
-    { "@type": "BarOrPub", "name": "Zanzibar", "sameAs": "https://www.facebook.com/zanzibar.lagos.39/", "address": { "@type": "PostalAddress", "streetAddress": "R. 25 de Abril 93", "addressLocality": "Lagos", "addressCountry": "PT" } }
+    {
+      "@type": "BarOrPub",
+      "name": "Forbidden Door",
+      "url": "https://www.forbiddendoor.pt",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "R. Primeiro de Maio 6",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1017,
+        "longitude": -8.6733
+      }
+    },
+    {
+      "@type": "BarOrPub",
+      "name": "KasBah Bar & Cocktail Lounge",
+      "sameAs": "https://www.instagram.com/kasbahbar.lagos/",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1055,
+        "longitude": -8.6745
+      }
+    },
+    {
+      "@type": "BarOrPub",
+      "name": "Alma Lounge Bar",
+      "url": "https://almalusalagos.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "R. Gago Coutinho 3",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.101,
+        "longitude": -8.671
+      }
+    },
+    {
+      "@type": "BarOrPub",
+      "name": "Skybar Lagos",
+      "sameAs": "https://www.instagram.com/skybar.lagos/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Largo Marquês de Pombal 1",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1019,
+        "longitude": -8.6758
+      }
+    },
+    {
+      "@type": "BarOrPub",
+      "name": "Indigo Bar",
+      "sameAs": "https://www.instagram.com/indigobarlagos/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "R. Lançarote de Freitas 15",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1013,
+        "longitude": -8.6727
+      }
+    },
+    {
+      "@type": "BarOrPub",
+      "name": "Zanzibar",
+      "sameAs": "https://www.facebook.com/zanzibar.lagos.39/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "R. 25 de Abril 93",
+        "addressLocality": "Lagos",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.1023,
+        "longitude": -8.6745
+      }
+    }
   ]
 }
   </script>
