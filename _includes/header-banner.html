@@ -2,7 +2,16 @@
   Paid banner slot under the main nav, on every page. Configured in _config.yml → header_banner.
   Pulled in from _includes/nav.html so no page needs editing.
 {%- endcomment -%}
-{%- if site.header_banner.image != "" -%}
+{%- if site.header_banner.html != "" -%}
+<div class="ad-slot">
+  <div class="container ad-slot__inner">
+    <span class="ad-slot__label">{{ site.header_banner.label | default: "Advertisement" }}</span>
+    <a class="ad-slot__link ad-slot__link--html" href="{{ site.header_banner.url }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.header_banner.alt | escape }}">
+      {% include {{ site.header_banner.html }} %}
+    </a>
+  </div>
+</div>
+{%- elsif site.header_banner.image != "" -%}
 <div class="ad-slot">
   <div class="container ad-slot__inner">
     <span class="ad-slot__label">{{ site.header_banner.label | default: "Advertisement" }}</span>
