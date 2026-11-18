@@ -32,6 +32,12 @@
    `bar-list-item--featured` ואת התג `<span class="tag tag--primary">Featured</span>`
    בשורת ה-`__sub`, ולהעביר אותו לדירוג 1.
 
+## 4b. באנר בהדר (מתחת לתפריט, בכל עמוד)
+1. קובץ הבאנר לתיקייה `img/banners/` (למשל `img/banners/my-business.png`).
+2. ב-`_config.yml` תחת `header_banner:` למלא `image`, `image_mobile` (לא חובה), `url`, `alt`, `label`.
+3. גדלים: דסקטופ 728×90 (לשלוח 1456×180 למסכי רטינה), מובייל 320×100 (לשלוח 640×200). PNG/JPG/WebP, עד 150KB.
+4. `image` ריק = מוצג "Your banner here" עם המחיר מ-`pricing.header_banner`.
+
 ## 5. הסתרת כתובת המייל בטפסים (FormSubmit)
 1. https://formsubmit.co → המחרוזת האקראית מופיעה במייל האימות (או "Replace email with a hash").
 2. ב-`js/main.js`: להחליף את הערך של `FORMSUBMIT_ID` במחרוזת.
