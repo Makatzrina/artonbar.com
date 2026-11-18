@@ -50,7 +50,7 @@ Vistas de Mar
 Cocktails
 Shisha
 
-Na Av. Tomás Cabreira — a avenida principal no topo da falésia — o Mandala Lounge é a opção mais descontraída da zona. Cocktails criativos, vistas de mar, shisha e um espaço que funciona tão bem para um copo à tarde como para uma noite fora. A carta de comida está um nível acima da maioria das cozinhas de bar da zona.
+**Encerramento reportado: o Google listou-o como encerrado definitivamente em outubro de 2026. Estamos a confirmar; a crítica fica para referência. O hotel gere agora a esplanada como Oriental Terrace.** Na Av. Tomás Cabreira — a avenida principal no topo da falésia — o Mandala Lounge é a opção mais descontraída da zona. Cocktails criativos, vistas de mar, shisha e um espaço que funciona tão bem para um copo à tarde como para uma noite fora. A carta de comida está um nível acima da maioria das cozinhas de bar da zona.
 
 📍 Av. Tomás Cabreira, Praia da Rocha
 💶 €€ · Cocktails €9–13
@@ -67,7 +67,7 @@ Fora da Zona Principal
 Até Tarde
 Melhor Relação Qualidade-Preço
 
-A uma curta caminhada da zona principal — Praceta Afonso de Albuquerque, não a marginal — o Absolutely é o bar de cocktails dedicado para onde os locais o mandam quando pergunta onde se bebe a sério. Cocktails à volta de €6–8. A equipa sabe o que faz. DJ a partir do fim da noite. É o tipo de bar que recompensa quem se dá ao trabalho de o encontrar.
+**Encerramento reportado: o Google listou-o como encerrado definitivamente em outubro de 2026. Estamos a confirmar; a crítica fica para referência.** A uma curta caminhada da zona principal — Praceta Afonso de Albuquerque, não a marginal — o Absolutely é o bar de cocktails dedicado para onde os locais o mandam quando pergunta onde se bebe a sério. Cocktails à volta de €6–8. A equipa sabe o que faz. DJ a partir do fim da noite. É o tipo de bar que recompensa quem se dá ao trabalho de o encontrar.
 
 📍 Praceta Afonso de Albuquerque, Praia da Rocha
 💶 € · Cocktails €6–8
@@ -97,7 +97,7 @@ O Outro Bar pelas vistas e pela energia noturna. O Absolutely Cocktail Lounge pe
 
 A Praia da Rocha é boa para vida noturna?
 
-Sim — a zona do topo da falésia tem opções desde meio da tarde até às 4h. Fica cheia em julho–agosto. Fora da época alta é mais calma, mas continua aberta.
+No verão, sim: a strip no topo da falésia tem opções desde meio da tarde até às 4h e está mais cheia em julho–agosto. De meados de outubro até ao fim de maio, a maior parte da Av. Tomás Cabreira está fechada. As exceções durante todo o ano são o bar do casino, os bares da marina e os pubs de Alvor.
 
 Onde ir para cocktails de autor em Portimão?
 
@@ -105,7 +105,7 @@ Absolutely Cocktail Lounge Bar, na Praceta Afonso de Albuquerque. Fora da zona p
 
 Os bares de Portimão estão abertos no inverno?
 
-O Mandala Lounge e o Absolutely mantêm horário reduzido de inverno. A esplanada do Outro Bar depende do tempo — confirme antes fora de junho–setembro.
+Na strip, quase nenhum. A maior parte da Av. Tomás Cabreira fecha de meados de outubro até ao fim de maio, e o Outro Bar é sazonal. O Mandala Lounge e o Absolutely foram reportados como encerrados em outubro de 2026; estamos a confirmar. No inverno, beba nos bares da marina, no bar do casino ou em Alvor.
 
 Verificado em maio de 2026 · ArtOnBar
 

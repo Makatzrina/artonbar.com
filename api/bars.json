@@ -363,9 +363,9 @@
    "rating": 4.3,
    "lat": 37.12,
    "lng": -8.543,
-   "desc": "Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.",
+   "desc": "Reported closed Oct 2026 (now the hotel's Oriental Terrace). Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.",
    "price_tier": "€€",
-   "open_in_winter": true
+   "open_in_winter": false
   },
   {
    "name": "Absolutely",
@@ -378,9 +378,9 @@
    "rating": 4.4,
    "lat": 37.1156,
    "lng": -8.5387,
-   "desc": "Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.",
+   "desc": "Reported closed Oct 2026. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.",
    "price_tier": "€€",
-   "open_in_winter": true
+   "open_in_winter": false
   },
   {
    "name": "Dromedário Bar",

@@ -50,7 +50,7 @@ Ocean Views
 Cocktails
 Shisha
 
-On Av. Tomás Cabreira — the main cliff-top avenue — Mandala Lounge is the more relaxed option on the strip. Creative cocktails, ocean views, shisha, and a space that works as well for an afternoon drink as it does for an evening out. The food menu is a step above most bar kitchens on the strip.
+**Reported closed: Google listed it as permanently closed in October 2026. We're confirming; the review stays for reference. The hotel now runs the terrace as Oriental Terrace.** On Av. Tomás Cabreira — the main cliff-top avenue — Mandala Lounge is the more relaxed option on the strip. Creative cocktails, ocean views, shisha, and a space that works as well for an afternoon drink as it does for an evening out. The food menu is a step above most bar kitchens on the strip.
 
 📍 Av. Tomás Cabreira, Praia da Rocha
 💶 €€ · Cocktails €9–13
@@ -67,7 +67,7 @@ Off-Strip
 Late Night
 Best Value
 
-A short walk off the main strip — Praceta Afonso de Albuquerque, not the seafront drag — Absolutely is the dedicated cocktail bar that locals point you toward when you ask where to drink properly. Cocktails around €6–8. Staff know what they're doing. A DJ from late evening. It's the kind of bar that rewards the people who bother to find it.
+**Reported closed: Google listed it as permanently closed in October 2026. We're confirming; the review stays for reference.** A short walk off the main strip — Praceta Afonso de Albuquerque, not the seafront drag — Absolutely is the dedicated cocktail bar that locals point you toward when you ask where to drink properly. Cocktails around €6–8. Staff know what they're doing. A DJ from late evening. It's the kind of bar that rewards the people who bother to find it.
 
 📍 Praceta Afonso de Albuquerque, Praia da Rocha
 💶 € · Cocktails €6–8
@@ -97,7 +97,7 @@ Outro Bar for the views and late-night energy. Absolutely Cocktail Lounge for th
 
 Is Praia da Rocha good for nightlife?
 
-Yes — the cliff-top strip has options from mid-afternoon through 4am. It gets busy in July–August. Outside peak season it's quieter but still open.
+In summer, yes: the cliff-top strip has options from mid-afternoon through 4am and is busiest in July–August. From mid-October to late May most of the strip on Av. Tomás Cabreira is shut. The year-round exceptions are the casino bar, the marina bars and the pubs in Alvor.
 
 Where to go for craft cocktails in Portimão?
 
@@ -105,7 +105,7 @@ Absolutely Cocktail Lounge Bar on Praceta Afonso de Albuquerque. Off the main st
 
 Are Portimão bars open in winter?
 
-Mandala Lounge and Absolutely maintain reduced winter hours. Outro Bar's terrace is weather-dependent — check ahead outside June–September.
+Mostly not on the strip. Most of Av. Tomás Cabreira closes from mid-October to late May, and Outro Bar is seasonal. Mandala Lounge and Absolutely were reported closed in October 2026; we're confirming. In winter, drink at the marina bars, the casino bar or in Alvor.
 
 Verified May 2026 · ArtOnBar
 
