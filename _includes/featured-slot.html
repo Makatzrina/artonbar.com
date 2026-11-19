@@ -8,7 +8,11 @@
 <a href="/submit-a-bar/" class="bar-list-item bar-list-item--featured bar-list-item--promo">
   <div class="bar-list-item__rank">★</div>
   <div>
-    {%- if page.lang == "pt" %}
+    {%- if include.kind == "cafe" %}
+    <div class="bar-list-item__sub"><span class="tag tag--primary">Featured spot</span> Available now · {{ site.pricing.featured_cafe }}/month</div>
+    <div class="bar-list-item__name">Your café, first on the {{ include.town }} coffee page</div>
+    <p class="bar-list-item__desc">Residents, remote workers and cyclists looking for a proper coffee in {{ include.town }} read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.</p>
+    {%- elsif page.lang == "pt" %}
     <div class="bar-list-item__sub"><span class="tag tag--primary">Destaque pago</span> Disponível · {{ site.pricing.featured_month }}/mês</div>
     <div class="bar-list-item__name">O seu bar, em primeiro na página de {{ include.town }}</div>
     <p class="bar-list-item__desc">Quem lê isto está a escolher um bar em {{ include.town }} para hoje à noite. O lugar de destaque põe o seu no topo desta lista, no Bar Finder e no mapa, com a etiqueta de que é pago. A crítica por baixo continua honesta.</p>
@@ -19,7 +23,7 @@
     {%- endif %}
   </div>
   <div class="bar-list-item__meta">
-    <span class="price-badge">{{ site.pricing.featured_month }}</span>
+    <span class="price-badge">{% if include.kind == "cafe" %}{{ site.pricing.featured_cafe }}{% else %}{{ site.pricing.featured_month }}{% endif %}</span>
     <span class="rating-badge">{% if page.lang == "pt" %}Reservar →{% else %}Book it →{% endif %}</span>
   </div>
 </a>

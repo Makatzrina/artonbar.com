@@ -13,7 +13,7 @@ Interactive · Every Bar We've Reviewed
 
 Every bar on this site, one screen. Pick a town, pick a vibe, set your budget — and get the shortlist. Every bar here has been visited and reviewed in person.
 
-[🗺️ Prefer a map? See all bars on the map →](https://www.artonbar.com/map/)
+[🗺️ Prefer a map? See all bars on the map →](https://www.artonbar.com/map/) · [☕ Looking for coffee instead? →](https://www.artonbar.com/coffee/finder/)
 
 ### Search
 

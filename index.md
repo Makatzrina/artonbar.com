@@ -148,6 +148,7 @@ Browse by Mood
 [🔍 Bar finder — filter everything](https://www.artonbar.com/bar-finder/)
 [🗺️ All bars on the map](https://www.artonbar.com/map/)
 [📍 Bars near me](https://www.artonbar.com/near/)
+[☕ Coffee by day](https://www.artonbar.com/coffee/)
 [🌅 Sunset bars](https://www.artonbar.com/sunset-bars/)
 [🏖️ Beach bars](https://www.artonbar.com/beach-bars/)
 [🍸 Speakeasy & craft cocktails](https://www.artonbar.com/speakeasy/)
