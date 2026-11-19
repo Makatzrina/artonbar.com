@@ -28,6 +28,7 @@ newsletter_email_field: "email"
 pricing:
   header_banner:   "€149"   # banner under the menu, every page of the site
   featured_month:  "€49"    # top of one town page
+  featured_cafe:   "€29"    # top of one coffee town page
   homepage_month:  "€99"    # homepage card + top of the town page, one bar for the whole Algarve
   sponsored_post:  "€99"
 

@@ -15,4 +15,8 @@ Every bar we've reviewed, pinned. Click a marker for the quick verdict and the f
 
 [🔍 Prefer filters? Use the Bar Finder →](https://www.artonbar.com/bar-finder/)
 
+🍸 Bars
+☕ Coffee
+Both
+
 📍 Pins are placed at the bar's street address (approximate to a few metres). Map data © OpenStreetMap contributors.

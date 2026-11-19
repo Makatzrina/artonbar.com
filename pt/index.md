@@ -148,6 +148,7 @@ Por ambiente
 [🔍 Bar Finder — filtrar tudo](https://www.artonbar.com/bar-finder/)
 [🗺️ Todos os bares no mapa](https://www.artonbar.com/map/)
 [📍 Bares perto de si (EN)](https://www.artonbar.com/near/)
+[☕ Café de especialidade (EN)](https://www.artonbar.com/coffee/)
 [🌅 Bares de pôr do sol (EN)](https://www.artonbar.com/sunset-bars/)
 [🏖️ Bares de praia (EN)](https://www.artonbar.com/beach-bars/)
 [🍸 Speakeasy & cocktails de autor (EN)](https://www.artonbar.com/speakeasy/)

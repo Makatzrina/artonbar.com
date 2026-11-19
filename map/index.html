@@ -83,6 +83,11 @@
 
 <section class="section">
   <div class="container">
+    <div class="map-toggle" role="tablist" aria-label="Map layers">
+      <button type="button" id="layer-bars" class="active">🍸 Bars</button>
+      <button type="button" id="layer-cafes">☕ Coffee</button>
+      <button type="button" id="layer-both">Both</button>
+    </div>
     <div id="barmap"></div>
     <p class="map-legend">📍 Pins are placed at the bar's street address (approximate to a few metres). Map data © OpenStreetMap contributors.</p>
   </div>
@@ -92,6 +97,7 @@
 
 <script src="/js/leaflet/leaflet.js"></script>
 <script src="/js/bars-data.js"></script>
+<script src="/js/cafes-data.js"></script>
 <script>
 (function(){
   var map = L.map('barmap', {scrollWheelZoom:false}).setView([37.08, -8.15], 10);
@@ -102,13 +108,29 @@
   map.on('click', function(){ map.scrollWheelZoom.enable(); });
 
   var bounds = [];
+  var barLayer = L.layerGroup().addTo(map), cafeLayer = L.layerGroup();
+  (window.ARTONBAR_CAFES || []).forEach(function(c){
+    if (!c.lat || !c.lng) return;
+    var icon = L.divIcon({ className: '', html: '<div style="font-size:24px;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.5));">☕</div>', iconSize: [24,24], iconAnchor: [12,12], popupAnchor: [0,-12] });
+    L.marker([c.lat, c.lng], {icon: icon, title: c.name}).bindPopup(
+      '<div class="map-popup"><div class="map-popup__name">☕ '+c.name+'</div>'+
+      '<div class="map-popup__meta">📍 '+c.town+(c.hours?' · '+c.hours:'')+(c.rating?' · ⭐ '+c.rating.toFixed(1):'')+(c.visited?' · ✔ visited':'')+'</div>'+
+      '<p class="map-popup__desc">'+c.desc+'</p><a class="map-popup__btn" href="'+('/coffee/'+c.slug+'/')+'">Coffee in '+c.town+' →</a></div>').addTo(cafeLayer);
+  });
+  function setLayer(which){
+    if (which === 'bars' || which === 'both') { if(!map.hasLayer(barLayer)) map.addLayer(barLayer); } else map.removeLayer(barLayer);
+    if (which === 'cafes' || which === 'both') { if(!map.hasLayer(cafeLayer)) map.addLayer(cafeLayer); } else map.removeLayer(cafeLayer);
+    ['bars','cafes','both'].forEach(function(k){ document.getElementById('layer-'+k).classList.toggle('active', k===which); });
+  }
+  ['bars','cafes','both'].forEach(function(k){ document.getElementById('layer-'+k).addEventListener('click', function(){ setLayer(k); }); });
+  if (location.hash === '#coffee') setLayer('cafes');
   window.ARTONBAR_BARS.forEach(function(b){
     var icon = L.divIcon({
       className: '',
       html: '<div style="font-size:26px;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.5));">'+b.emoji+'</div>',
       iconSize: [26,26], iconAnchor: [13,13], popupAnchor: [0,-12]
     });
-    var m = L.marker([b.lat, b.lng], {icon: icon, title: b.name}).addTo(map);
+    var m = L.marker([b.lat, b.lng], {icon: icon, title: b.name}).addTo(barLayer);
     m.bindPopup(
       '<div class="map-popup">'+
       '<div class="map-popup__name">'+b.emoji+' '+b.name+'</div>'+

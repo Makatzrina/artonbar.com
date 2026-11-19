@@ -87,3 +87,16 @@ data = {
 }
 (ROOT / "api" / "bars.json").write_text(json.dumps(data, ensure_ascii=False, indent=1))
 print("api/bars.json:", len(bars), "bars")
+
+# api/cafes.json from js/cafes-data.js
+cjs = (ROOT / "js" / "cafes-data.js").read_text()
+cafes = json.loads(subprocess.check_output(["node", "-e", "global.window={};" + cjs + ";process.stdout.write(JSON.stringify(window.ARTONBAR_CAFES))"]))
+for c in cafes:
+    c["page"] = SITE + "/coffee/" + c.pop("slug") + "/"
+    c.pop("emoji", None)
+(ROOT / "api" / "cafes.json").write_text(json.dumps({
+    "name": "ArtOnBar — specialty coffee in the Algarve",
+    "description": "Every café on artonbar.com/coffee/ with town, type, hours, opening time, Sunday opening, roaster, oat milk, laptop- and dog-friendliness, price, rating (source stated), whether we visited, and coordinates.",
+    "license": "Free to use with attribution and a link to artonbar.com",
+    "generated": today, "count": len(cafes), "cafes": cafes}, ensure_ascii=False, indent=1))
+print("api/cafes.json:", len(cafes), "cafés")

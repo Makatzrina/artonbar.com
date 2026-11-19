@@ -1,6 +1,6 @@
 # ArtOnBar.com — full content for AI systems
 
-Generated 2026-11-19. 74 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
+Generated 2026-11-19. 82 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
 
 
 ========================================================================
@@ -424,7 +424,7 @@ Interactive · Every Bar We've Reviewed
 
 Every bar on this site, one screen. Pick a town, pick a vibe, set your budget — and get the shortlist. Every bar here has been visited and reviewed in person.
 
-[🗺️ Prefer a map? See all bars on the map →](https://www.artonbar.com/map/)
+[🗺️ Prefer a map? See all bars on the map →](https://www.artonbar.com/map/) · [☕ Looking for coffee instead? →](https://www.artonbar.com/coffee/finder/)
 
 ### Search
 
@@ -1372,6 +1372,978 @@ Sources for the event details: the councils of Albufeira, Loulé, Lagos, Faro, T
 
 
 ========================================================================
+https://www.artonbar.com/coffee/faro/
+========================================================================
+
+# Specialty Coffee in Faro: Where the Flat White Is Real
+
+> The specialty coffee in Faro, Algarve: 4 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as the 
+
+Source: https://www.artonbar.com/coffee/faro/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Faro
+
+# Specialty coffee in Faro
+
+Faro has the most serious coffee in the east: two specialty bars, one of them roasting its own beans, plus the pastelarias where the city has breakfast standing at the counter.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Faro coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Faro read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 4 places that make coffee properly
+
+1
+
+[Evolution Brunch ↗](https://evolutionstore.eu)
+
+Rua Eng. Aboim Sande de Lemos 1 · Thu–Mon 09:00–17:00, closed Tue–Wed
+
+Spacious brunch room north of the centre, attached to an EV showroom, listed on Google as a coworking space and easy to work from. Great plates; nobody writes about the coffee itself, so we haven't ranked it on that.
+
+💻 laptop ok sun open
+
+⭐ 4.9
+
+2
+
+[Melbourne Lane Cafe ↗](https://www.instagram.com/melbourne.lane.cafe/)
+
+Rua Manuel Belmarço 6 · Daily 08:30–16:00
+
+The specialty coffee and brunch most people in Faro rate first: Aussie-style, bagels and waffles, always busy. Free Wi-Fi, no stated laptop policy.
+
+sun open
+
+⭐ 4.8
+
+3
+
+[Yellow Bourbon Roastery & Store ↗](https://yellowbourbon.pt)
+
+Rua Baptista Lopes 26 · Mon–Fri 09:00–17:00, Sat 09:00–14:00, closed Sun · €3.5
+
+The roastery itself, with an espresso bar: pick your bean (Brazil, Colombia, Ethiopia, Guatemala), good decaf, bags to take home. Two flat whites about €7.
+
+roasts own beans
+
+⭐ 4.8
+
+4
+
+[Yellow Bourbon Specialty Coffee Bistro ↗](https://yellowbourbon.pt)
+
+Rua Vasco da Gama 19 · Mon–Sat 09:00–18:00, Sun 09:00–15:00
+
+The bistro in the yellow building near the old town, pouring beans roasted at its own roastery 150 metres away. Terrace, pastries, gluten-free and vegan options; the warm dishes are the weaker part.
+
+sun open roasts own beans oat milk
+
+⭐ 4.4
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+Pastelaria Padaria Centeio
+
+Rua Mouzinho de Albuquerque 25 · Mon–Fri 07:00–20:00, Sat–Sun 07:00–13:00
+
+Opens at seven. Fresh pastel de nata (€1.50), Faro's own Dom Rodrigo egg sweets and a galão at the counter. The seven-o'clock answer.
+
+sun open opens 07:00
+
+⭐ 4.5
+
+2
+
+[Pastelaria Coelho ↗](https://pastelariacoelho.shop)
+
+Rua Brites de Almeida 2 · Sun–Fri 07:00–24:00, closed Sat
+
+Pastelaria and cheap-lunch institution open from seven until midnight: bifana, nata, a decent cappuccino, slow when it's full.
+
+sun open opens 07:00
+
+⭐ 4.5
+
+## FAQ
+
+Is there specialty coffee in Faro?
+
+Yes: Evolution Brunch, Melbourne Lane Cafe, Yellow Bourbon Roastery & Store, Yellow Bourbon Specialty Coffee Bistro.
+
+Which café in Faro is good for working on a laptop?
+
+Evolution Brunch.
+
+Which cafés in Faro are open on Sunday?
+
+Evolution Brunch, Melbourne Lane Cafe, Yellow Bourbon Specialty Coffee Bistro.
+
+What time do the specialty cafés in Faro open?
+
+The earliest is Melbourne Lane Cafe at 08:30. Most open at nine or later.
+
+
+========================================================================
+https://www.artonbar.com/coffee/finder/
+========================================================================
+
+# Coffee Finder: Specialty Cafés in the Algarve, Filtered
+
+> Filter every café on ArtOnBar by town, laptop-friendly, open on Sunday, opens before 8, roasts its own beans, oat milk or dog-friendly.
+
+Source: https://www.artonbar.com/coffee/finder/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Every café on the site, one screen
+
+# Coffee Finder
+
+Pick a town, say what you need (a laptop seat, a Sunday opener, a seven o'clock start, a roaster), and get the shortlist.
+
+### Search
+
+### Town
+
+### I need
+
+### Type
+
+
+========================================================================
+https://www.artonbar.com/coffee/
+========================================================================
+
+# Specialty Coffee in the Algarve: Town by Town, Honestly
+
+> Where the coffee is made properly in the Algarve: Lagos, Faro, Olhão, Tavira, Loulé, Almancil and Portimão. Specialty bars, roasters, laptop-friendly rooms, Sunday openers, and the honest alternative where there is none.
+
+Source: https://www.artonbar.com/coffee/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Bars by night, coffee by day
+
+# Specialty coffee in the Algarve, town by town
+
+Good coffee is one of my hobbies, the kind I like to nurture, and I'm always glad to find a place that does a “proper” cup. In the eastern Algarve that's a bit of a gap, but here's what I found. Where a town has one real specialty bar, I say so, and I list the best traditional pastelarias as the honest alternative rather than padding the page. Hours are checked against the café's own listing on the date shown; winter hours shrink, so look at their Instagram before you drive.
+
+[🔍 Coffee Finder](https://www.artonbar.com/coffee/finder/)
+[🗺️ Cafés on the map](https://www.artonbar.com/map/#coffee)
+
+By town
+
+## Where do you want your coffee?
+
+[☕
+
+Faro
+
+4 specialty · 2 traditional](https://www.artonbar.com/coffee/faro/)
+[☕
+
+Olhão
+
+2 specialty · 3 traditional](https://www.artonbar.com/coffee/olhao/)
+[☕
+
+Tavira
+
+4 specialty · 2 traditional](https://www.artonbar.com/coffee/tavira/)
+[☕
+
+Loulé & Almancil
+
+4 specialty · 1 traditional](https://www.artonbar.com/coffee/loule/)
+[☕
+
+Lagos
+
+12 specialty · 1 traditional](https://www.artonbar.com/coffee/lagos/)
+[☕
+
+Portimão & Alvor
+
+6 specialty · 2 traditional](https://www.artonbar.com/coffee/portimao/)
+
+### Proper means proper.
+
+Fresh beans, a machine someone cleans, milk that's steamed rather than boiled. If a town has one place like that, the page says one.
+
+### Hours matter more than hype.
+
+Half the good cafés in the east open at nine and close by two, or trade three days a week. Every listing shows when, and when it was checked.
+
+### Winter is coffee season.
+
+The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny.
+
+
+========================================================================
+https://www.artonbar.com/coffee/lagos/
+========================================================================
+
+# Specialty Coffee in Lagos: Where the Flat White Is Real
+
+> The specialty coffee in Lagos, Algarve: 12 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as th
+
+Source: https://www.artonbar.com/coffee/lagos/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Lagos
+
+# Specialty coffee in Lagos
+
+Lagos is the Algarve's coffee capital by a distance: roasters, laptop-friendly rooms, brunch queues. The problem isn't finding a flat white, it's choosing.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Lagos coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Lagos read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 12 places that make coffee properly
+
+1
+
+[Matilda Café ↗](https://matildacafeluz.com)
+
+Rua 1º de Maio 2E, Luz · Tue–Sat 08:30–20:30, closed Sun–Mon
+
+New in autumn 2026: fruity espresso, cold brew, natural wine in the evening. Fifteen reviews so far, all glowing. Promising, not yet proven.
+
+oat milk
+
+⭐ 5.0
+
+2
+
+[Clifftop Coffee Roasters ↗](https://clifftopcoffee.com)
+
+LACO Business Hub, Workshop 4, Chinicato · Tue 09:00–17:30 only (bean pick-up and cuppings)
+
+A roastery, not a café: roasts weekly since 2021 and supplies cafés across the Algarve. Worth a line for residents buying beans.
+
+roasts own beans
+
+⭐ 5.0
+
+3
+
+[DOT Coffee ↗](https://www.instagram.com/dot.coffee.lagos/)
+
+Rua Prof. Luís de Azevedo 2 · Wed–Sun 08:30–17:00, closed Mon–Tue
+
+The highest-rated coffee in Lagos: a few tables, properly textured milk, vegan pastries, guest roasters from Rotterdam and Portugal. A sign asks you not to camp all day with a laptop.
+
+sun open oat milk dogs ok
+
+⭐ 4.9
+
+4
+
+[The Studio (marina) ↗](https://thestudio.coffee)
+
+Marina de Lagos, lote 31 F · Daily 07:30–15:30
+
+The Studio's second Lagos site with a mini roastery you can watch, batch brew and a gluten-free almond-orange cake. Small, and the easiest Studio to reach without cobbles.
+
+sun open opens 07:30 roasts own beans
+
+⭐ 4.8
+
+5
+
+[Everyday People Coffee ↗](https://www.everyday-people.coffee)
+
+Rua Conde Lippe · Daily 08:00–16:00 · €2.8
+
+Marina side, outside the cobbles: a separate free coworking room, rotating European roasters, oat milk at no extra charge, cookies and sandwiches rather than pastries. The cyclists' and remote workers' pick.
+
+💻 laptop ok sun open opens 08:00 oat milk dogs ok
+
+⭐ 4.8
+
+6
+
+[Coffee & Waves ↗](https://coffeeandwaves.com)
+
+Travessa do Cotovelo 10 · Tue–Sun 09:00–16:00; closed when the surf is good · €4.5
+
+Lagos's original third-wave bar: a walk-up window, guest roasters from Koyo to Friedhats, bags for sale, açaí bowls. A few bar seats, pricey, and the least predictable hours in town.
+
+sun open oat milk dogs ok
+
+⭐ 4.8
+
+7
+
+[Alex ↗](https://www.instagram.com/alexcoffeewine/)
+
+Rua Lucinda Anino dos Santos 12 · Daily 08:30–16:30
+
+Coffee, brunch and wine at the edge of the old town, near the bus station: Wi-Fi, air conditioning, dogs inside, cinnamon buns, and no queue.
+
+💻 laptop ok sun open dogs ok
+
+⭐ 4.8
+
+8
+
+[Twin Fin ↗](https://www.twinfincafe.com)
+
+Rua Gil Vicente 36 · Sat–Tue 09:00–16:00, closed Wed–Fri (current) · €2.7
+
+Surf café with big communal tables, savoury waffles and banana bread, Wi-Fi and dogs inside. Now on a four-day week, so check the day.
+
+💻 laptop ok sun open oat milk dogs ok
+
+⭐ 4.8
+
+9
+
+[The Studio (Luz) ↗](https://thestudio.coffee)
+
+Rua Direita 18, Luz · Daily from 07:00 or 07:30 (sources differ) to mid-afternoon
+
+The only verified pre-eight coffee between Lagos and Sagres, roasting on site, on the road cyclists ride out on.
+
+sun open opens 07:30 roasts own beans oat milk dogs ok
+
+⭐ 4.7
+
+10
+
+[The Studio (old town) ↗](https://thestudio.coffee)
+
+Rua Soeiro da Costa 20 · Daily 07:00–18:00
+
+Roasts its own beans in-house, opens at seven, and has a dedicated coworking bar with sockets. The most work-ready specialty café in the Algarve; no sign outside, so trust the address.
+
+💻 laptop ok sun open opens 07:00 roasts own beans oat milk dogs ok
+
+⭐ 4.6
+
+11
+
+[Black and White ↗](https://blackandwhitelagos.com)
+
+Rua Marreiros Netto 40 · Daily 08:00–16:00, kitchen to 15:00 · €2.8
+
+The busiest brunch in the old town, with a takeaway counter next door that skips the queue. Laptops only on the window stools, by design. Year-round and consistent.
+
+💻 laptop ok sun open opens 08:00 oat milk dogs ok
+
+⭐ 4.6
+
+12
+
+[Abigail's Cafe ↗](https://www.abigailsportugal.com)
+
+Rua Henrique Correia da Silva 8 · Daily 08:00–16:00
+
+Big vegetarian brunch terrace with juices, vegan and gluten-free everything, beans from a Lisbon roaster. Walk-ins only and very busy.
+
+sun open opens 08:00 oat milk dogs ok
+
+⭐ 4.4
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+[Padaria Central ↗](https://padariacentral.pt)
+
+Rua Primeiro de Maio 23 · Mon–Sat 07:00–19:00, closed Sun
+
+The bakery since 1926: thirty pastries, a nata with runny custard (€1.90), take a number, cash only. The traditional seven-o'clock stop.
+
+opens 07:00 oat milk
+
+⭐ 4.6
+
+## FAQ
+
+Is there specialty coffee in Lagos?
+
+Yes: Matilda Café, Clifftop Coffee Roasters, DOT Coffee, The Studio (marina), Everyday People Coffee, Coffee & Waves, Alex, Twin Fin, The Studio (Luz), The Studio (old town), Black and White, Abigail's Cafe.
+
+Which café in Lagos is good for working on a laptop?
+
+Everyday People Coffee, Alex, Twin Fin, The Studio (old town), Black and White.
+
+Which cafés in Lagos are open on Sunday?
+
+DOT Coffee, The Studio (marina), Everyday People Coffee, Coffee & Waves, Alex, Twin Fin, The Studio (Luz), The Studio (old town), Black and White, Abigail's Cafe.
+
+What time do the specialty cafés in Lagos open?
+
+The earliest is The Studio (old town) at 07:00. Most open at nine or later.
+
+
+========================================================================
+https://www.artonbar.com/coffee/loule/
+========================================================================
+
+# Best Coffee in Loulé &amp; Almancil: Specialty Cafés &amp; Honest Picks
+
+> The specialty coffee in Loulé &amp; Almancil, Algarve: 4 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastela
+
+Source: https://www.artonbar.com/coffee/loule/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Loulé & Almancil
+
+# Specialty coffee in Loulé & Almancil
+
+In Loulé there are only two places with proper coffee: bean17 inside the market, open until about one in the afternoon, and Mellow, which has good coffee, good cakes, a nice room and cocktails later on. Everywhere else the coffee tastes burnt. In Almancil, The Showroom.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Loulé & Almancil coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Loulé & Almancil read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 4 places that make coffee properly
+
+1
+
+Visited [The Showroom Coffeehouse ↗](https://www.instagram.com/showroom.coffeehouse/)
+
+Av. 5 de Outubro 382 · Mon–Fri 08:30–15:00, closed Sat–Sun · €4
+
+Almancil's proper coffee, Australian-style, in a design showroom: flat whites on Amsterdam-roasted beans, matcha, cinnamon buns, Wi-Fi and dogs welcome. Weekdays only, few seats outside.
+
+💻 laptop ok oat milk dogs ok
+
+⭐ 4.9
+
+2
+
+Visited [bean17 coffee and more ↗](https://www.instagram.com/bean17coffeeandmore/)
+
+Mercado Municipal de Loulé, loja 11, Rua Ataíde de Oliveira · Wed–Fri 09:00–13:00, Sat 08:00–14:00, closed Sun–Tue · €3
+
+The coffee counter inside Loulé's market, roasting its own beans: the other properly made cup in town, with single-origin espresso, pour-over, Dutch apple pie and banana bread. Mornings only, cash only, tiny. A morning plan.
+
+💻 laptop ok roasts own beans oat milk dogs ok
+
+⭐ 4.7
+
+3
+
+Visited Mellow Café
+
+Rua Dom Paio Peres Correia 18 · Tue–Sat 09:30–15:30, closed Sun–Mon
+
+One of only two places in Loulé where the coffee is made properly. A small, vintage-looking room with mismatched china, good homemade cakes by the slice, and cocktails later in the day. Took over the old Cinnaroma bakery premises.
+
+✔ visited
+
+4
+
+[Lahana ↗](https://www.instagram.com/___lahana___/)
+
+Buganvilia Plaza 10 (towards Quinta do Lago) · Daily 08:00–15:30 · €2.9
+
+Espresso, batch brew and açaí bowls at a small counter in an outdoor plaza near Quinta do Lago, under the bougainvillea. Open every day from eight, which nothing else around here is; recent complaints about brusque service and paper cups.
+
+sun open opens 08:00 oat milk
+
+⭐ 4.6
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+[Café Calcinha ↗](http://cafecalcinha.com)
+
+Praça da República 67 · Daily 08:00–23:00
+
+The 1929 art-deco grand café on the square, restored and municipality-owned, with the Folhado de Loulé pastry. You come for the room and the long hours; the coffee is fine rather than remarkable, and service drifts.
+
+sun open opens 08:00
+
+⭐ 4.4
+
+## FAQ
+
+Is there specialty coffee in Loulé & Almancil?
+
+Yes: The Showroom Coffeehouse, bean17 coffee and more, Mellow Café, Lahana.
+
+Which café in Loulé & Almancil is good for working on a laptop?
+
+The Showroom Coffeehouse, bean17 coffee and more.
+
+Which cafés in Loulé & Almancil are open on Sunday?
+
+Lahana.
+
+What time do the specialty cafés in Loulé & Almancil open?
+
+The earliest is Lahana at 08:00. Most open at nine or later.
+
+
+========================================================================
+https://www.artonbar.com/coffee/olhao/
+========================================================================
+
+# Specialty Coffee in Olhão: Where the Flat White Is Real
+
+> The specialty coffee in Olhão, Algarve: 2 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as the
+
+Source: https://www.artonbar.com/coffee/olhao/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Olhão
+
+# Specialty coffee in Olhão
+
+Olhão has exactly one specialty coffee bar, and it's a good one. The rest is traditional, and some of that is excellent too, so the list is short and honest.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Olhão coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Olhão read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 2 places that make coffee properly
+
+1
+
+[Café Tinto ↗](https://cafetintopt.com)
+
+Rua Manuel Lopes de Almeida 3A · Mon & Thu–Sun 09:00–14:00, closed Tue–Wed · €3.9
+
+Olhão's one specialty coffee bar, opened in 2024 by Mo and Talia, 5.0 on Google from hundreds of reviews: beans scored 85+, deli sandwiches, oat milk, dogs welcome. Tiny, a declared laptop-free zone, and shut by two.
+
+sun open oat milk dogs ok
+
+⭐ 5.0
+
+2
+
+[Casa Amor ↗](https://www.casaamor-olhao.com/coffee-shop)
+
+Rua Dr. Pádua 24A · No published hours; call +351 910 669 436
+
+The ground-floor café of a ten-room townhouse hotel run by Parisian owners, known in town for French pastries. A calm, pretty room; specialty credentials unverified, so it's here for the pastries.
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+Pastelaria Bijou
+
+Rua do Comércio 121 · Tue–Fri 07:30–22:00, Mon & Sat 08:30–21:00, closed Sun
+
+Tiny local café below the church: toast, orange juice and a galão for two for about €10, shaded tables outside, cash only.
+
+opens 07:30
+
+⭐ 4.7
+
+2
+
+[Kubidoce ↗](https://kubidoce.pt)
+
+N125 118, Vila Formosa · Tue–Fri 07:30–19:00, Sat 07:00–13:30, closed Sun–Mon
+
+Pastry chef Filipe Martins's bakery on the N125: the pastel de nata most of Olhão calls the best, and the Folar de Olhão. The coffee is the weak link; the pastries are the point.
+
+opens 07:30
+
+⭐ 4.5
+
+3
+
+[Cantaloupe Vol.2 Jazz Café ↗](https://www.cantaloupejazz.com)
+
+Mercado da Verdura, Av. 5 de Outubro, Loja 47 · Roughly Mon & Wed–Thu 10:00–20:00, Fri 10:00–22:00, Sat from 15:00, Sun from 17:00, closed Tue (sources differ)
+
+Waterfront terrace on the Ria Formosa, new owners since August 2026, live jazz on Sundays. Coffee treated with respect rather than specialty-sourced; the view does the rest.
+
+sun open dogs ok
+
+⭐ 4.3
+
+## FAQ
+
+Is there specialty coffee in Olhão?
+
+Yes: Café Tinto, Casa Amor.
+
+Which café in Olhão is good for working on a laptop?
+
+None of them advertise it, and the specialty rooms are small. Treat a laptop session as a short one.
+
+Which cafés in Olhão are open on Sunday?
+
+Café Tinto.
+
+What time do the specialty cafés in Olhão open?
+
+The earliest is Café Tinto at 09:00.
+
+
+========================================================================
+https://www.artonbar.com/coffee/portimao/
+========================================================================
+
+# Best Coffee in Portimão &amp; Alvor: Specialty Cafés &amp; Honest Picks
+
+> The specialty coffee in Portimão &amp; Alvor, Algarve: 6 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastela
+
+Source: https://www.artonbar.com/coffee/portimao/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Portimão & Alvor
+
+# Specialty coffee in Portimão & Alvor
+
+Portimão's coffee lives in Praia da Rocha and Alvor rather than the city centre. Short list, but a real roaster is in it.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Portimão & Alvor coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Portimão & Alvor read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 6 places that make coffee properly
+
+1
+
+[Nomads Specialty Coffee ↗](https://nomadsandco.pt/coffee-corner)
+
+Av. Tomás Cabreira, Ed. Varandas da Rocha 81, loja 26 · Daily 09:00–17:00, year-round · €3.2
+
+An e-scooter rental with a serious coffee corner: Al-Gharb beans from Albufeira, flat white €3.20, oat or almond for 20 cents more, homemade cookies. A stand rather than a lounge, and one of the few things on the strip open all winter.
+
+sun open oat milk
+
+⭐ 5.0
+
+2
+
+[Rocha Beach House ↗](https://rochabeachhouse.com)
+
+Av. Tomás Cabreira, Ed. Rochamar, loja 5 · Mon–Sat 10:00–17:00, closed Sun
+
+Surf shop, poké bar and a real coworking room with adjustable desks, fast internet and a phone booth, day passes available. Opens late, at ten.
+
+💻 laptop ok oat milk dogs ok
+
+⭐ 4.9
+
+3
+
+[Wild's Sandwich Boutique ↗](https://wildsandwich.com)
+
+Rua Quinta da Praia, lote 4, loja 8 · Wed–Sun 09:00–16:00, closed Mon–Tue
+
+Irish-run sandwich and brunch bar between Alvor village and the beach, self-described specialty coffee, cinnamon buns and bagels cooked to order. 'Four dogs this morning', says a review approvingly.
+
+sun open dogs ok
+
+⭐ 4.9
+
+4
+
+[Velochique Vista Rio ↗](https://linktr.ee/velochique)
+
+Largo do Dique 18, loja 2 (riverfront) · Mon & Wed–Sun 08:30–17:00, closed Tue
+
+The riverfront sister of Monchique's cycling café, and the best coffee in Portimão proper: batch brew and espresso with latte art, lemon tart, bike parking out front.
+
+sun open
+
+⭐ 4.8
+
+5
+
+[Coffeine & Brunch ↗](https://www.instagram.com/coffeine.and.brunch/)
+
+Rua Caetano Feu 2 · Daily 09:00–16:00
+
+American-style brunch a street back from the strip, gluten- and dairy-free pancakes, oat lattes (small ones), Wi-Fi and outlets. Good coffee by reviewers' accounts; no specialty sourcing stated.
+
+💻 laptop ok sun open oat milk
+
+⭐ 4.8
+
+6
+
+[Clarice's ↗](https://claricesbrunchalvor.pt)
+
+Rua 1º de Dezembro 24 · Closed for winter; reopens 5 January 2027 (then Tue–Sat 08:30–15:00)
+
+Japanese soufflé pancakes and cinnamon buns in Alvor village, closed until 5 January 2027. Reviews praise the food and grumble about rushed service.
+
+dogs ok
+
+⭐ 4.8
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+[Cult n' Art Café ↗](https://www.facebook.com/CultnArtCafe)
+
+Rua do Castelo 18 · Wed–Sat 09:00–15:00, closed Sun–Tue · €1
+
+The highest-rated café in Alvor: brunch, sourdough from the village bakery, kombucha, an art shop, €1 espresso. Not specialty-sourced, and nobody minds.
+
+⭐ 4.9
+
+2
+
+Pastelaria Arade
+
+Largo 1º de Dezembro 4 · Tue–Sat 08:00–21:00, Sun 08:00–18:00, closed Mon
+
+One of the oldest pastelarias in Portimão: Dom Rodrigo, almond cake, natas, and a coffee reviewers keep calling amazing for what it is.
+
+sun open opens 08:00
+
+⭐ 4.5
+
+## FAQ
+
+Is there specialty coffee in Portimão & Alvor?
+
+Yes: Nomads Specialty Coffee, Rocha Beach House, Wild's Sandwich Boutique, Velochique Vista Rio, Coffeine & Brunch, Clarice's.
+
+Which café in Portimão & Alvor is good for working on a laptop?
+
+Rocha Beach House, Coffeine & Brunch.
+
+Which cafés in Portimão & Alvor are open on Sunday?
+
+Nomads Specialty Coffee, Wild's Sandwich Boutique, Velochique Vista Rio, Coffeine & Brunch.
+
+What time do the specialty cafés in Portimão & Alvor open?
+
+The earliest is Velochique Vista Rio at 08:30. Most open at nine or later.
+
+
+========================================================================
+https://www.artonbar.com/coffee/tavira/
+========================================================================
+
+# Specialty Coffee in Tavira: Where the Flat White Is Real
+
+> The specialty coffee in Tavira, Algarve: 4 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as th
+
+Source: https://www.artonbar.com/coffee/tavira/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Tavira
+
+# Specialty coffee in Tavira
+
+Tavira is the one town in the eastern Algarve where you can reliably get a properly made flat white. Three specialty bars, none of them open before nine, two of them only part of the week. Plan around the day.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Tavira coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Tavira read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 4 places that make coffee properly
+
+1
+
+[Xisto ↗](https://www.instagram.com/xisto.tavira/)
+
+Av. Dr. Mateus Teixeira de Azevedo 48 · Thu–Sat 09:00–15:00 only
+
+The best coffee and the best croissants in Tavira, with real sourdough and gluten-free seeded bread, on a three-day week. Queue at nine, few seats; laptop-tolerant, dogs fine.
+
+💻 laptop ok oat milk dogs ok
+
+⭐ 4.9
+
+2
+
+[Café Formosa ↗](https://www.instagram.com/cafeformosatavira/)
+
+Rua José Pires Padinha 180 · Wed–Fri 09:00–14:00, Sat–Sun 09:00–15:00, closed Mon–Tue
+
+Riverside towards the ferry quay: 'best flat white in Tavira' in review after review, in-house low-sugar cakes, matcha and kombucha, free Wi-Fi. The complaint is always the same: why not open before nine.
+
+💻 laptop ok sun open oat milk dogs ok
+
+⭐ 4.9
+
+3
+
+[The Table Coffee (at NŌMA) ↗](https://thetable.pt)
+
+Rua 1º de Maio 39 · Daily 09:00–13:00 (mornings only; Mon to 12:00)
+
+Tavira's coffee-and-cowork, now a morning pop-up inside NŌMA: flat whites, V60, big shared tables, Wi-Fi, dogs inside. The old standalone café on Rua 25 de Abril is gone; the website still shows it. Closes at one.
+
+💻 laptop ok sun open oat milk dogs ok
+
+⭐ 4.7
+
+4
+
+[Originato ↗](https://www.instagram.com/originatotavira/)
+
+Rua José Pires Padinha 106 · Daily 09:00–17:00 (08:00 in summer)
+
+Riverside coffee-and-brunch with latte art, oat cappuccinos and pancakes, and the only specialty room in Tavira open all afternoon, every day. Busy at peak.
+
+sun open oat milk dogs ok
+
+⭐ 4.6
+
+The honest alternative
+
+## Traditional, and good at it
+
+Not specialty, and not pretending to be. These open early, serve a decent bica and the pastries the town actually eats.
+
+1
+
+[Flavour Café ↗](https://flavourcafetavira.eatbu.com)
+
+Largo José Pires Padinha 26 · Daily 07:30–19:00 (Wed from 09:00)
+
+The early opener on the river square: a long coffee and tea list, oat cappuccinos, cakes and fast service from half past seven. Not third-wave, reliably open.
+
+sun open opens 07:30 oat milk dogs ok
+
+⭐ 4.4
+
+2
+
+[Snack Bar Alagoa ↗](https://pastelariaalagoa.eatbu.com)
+
+Praça Dr. António Padinha 4 · Mon–Sat 08:00–01:00, closed Sun
+
+Cheap drinks and toasties on the Jardim da Alagoa with, as one reviewer put it, the best morning sun in winter.
+
+opens 08:00
+
+⭐ 4.3
+
+## FAQ
+
+Is there specialty coffee in Tavira?
+
+Yes: Xisto, Café Formosa, The Table Coffee (at NŌMA), Originato.
+
+Which café in Tavira is good for working on a laptop?
+
+Xisto, Café Formosa, The Table Coffee (at NŌMA).
+
+Which cafés in Tavira are open on Sunday?
+
+Café Formosa, The Table Coffee (at NŌMA), Originato.
+
+What time do the specialty cafés in Tavira open?
+
+The earliest is Xisto at 09:00. Most open at nine or later.
+
+
+========================================================================
 https://www.artonbar.com/contact/
 ========================================================================
 
@@ -2082,6 +3054,7 @@ Browse by Mood
 [🔍 Bar finder — filter everything](https://www.artonbar.com/bar-finder/)
 [🗺️ All bars on the map](https://www.artonbar.com/map/)
 [📍 Bars near me](https://www.artonbar.com/near/)
+[☕ Coffee by day](https://www.artonbar.com/coffee/)
 [🌅 Sunset bars](https://www.artonbar.com/sunset-bars/)
 [🏖️ Beach bars](https://www.artonbar.com/beach-bars/)
 [🍸 Speakeasy & craft cocktails](https://www.artonbar.com/speakeasy/)
@@ -2639,6 +3612,10 @@ Interactive Map · Lagos to Tavira
 Every bar we've reviewed, pinned. Click a marker for the quick verdict and the full review. Zoom into whichever town you're in tonight.
 
 [🔍 Prefer filters? Use the Bar Finder →](https://www.artonbar.com/bar-finder/)
+
+🍸 Bars
+☕ Coffee
+Both
 
 📍 Pins are placed at the bar's street address (approximate to a few metres). Map data © OpenStreetMap contributors.
 
@@ -5831,6 +6808,7 @@ Por ambiente
 [🔍 Bar Finder — filtrar tudo](https://www.artonbar.com/bar-finder/)
 [🗺️ Todos os bares no mapa](https://www.artonbar.com/map/)
 [📍 Bares perto de si (EN)](https://www.artonbar.com/near/)
+[☕ Café de especialidade (EN)](https://www.artonbar.com/coffee/)
 [🌅 Bares de pôr do sol (EN)](https://www.artonbar.com/sunset-bars/)
 [🏖️ Bares de praia (EN)](https://www.artonbar.com/beach-bars/)
 [🍸 Speakeasy & cocktails de autor (EN)](https://www.artonbar.com/speakeasy/)
