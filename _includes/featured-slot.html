@@ -8,7 +8,11 @@
 <a href="/submit-a-bar/" class="bar-list-item bar-list-item--featured bar-list-item--promo">
   <div class="bar-list-item__rank">★</div>
   <div>
-    {%- if include.kind == "cafe" %}
+    {%- if include.kind == "cafe" and page.lang == "pt" %}
+    <div class="bar-list-item__sub"><span class="tag tag--primary">Destaque pago</span> Disponível · {{ site.pricing.featured_cafe }}/mês</div>
+    <div class="bar-list-item__name">O seu café, em primeiro na página de café de {{ include.town }}</div>
+    <p class="bar-list-item__desc">Residentes, quem trabalha remotamente e ciclistas à procura de um café a sério em {{ include.town }} leem esta página. O lugar de destaque põe o seu café no topo, identificado como pago. A opinião por baixo continua a ser nossa.</p>
+    {%- elsif include.kind == "cafe" %}
     <div class="bar-list-item__sub"><span class="tag tag--primary">Featured spot</span> Available now · {{ site.pricing.featured_cafe }}/month</div>
     <div class="bar-list-item__name">Your café, first on the {{ include.town }} coffee page</div>
     <p class="bar-list-item__desc">Residents, remote workers and cyclists looking for a proper coffee in {{ include.town }} read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.</p>
