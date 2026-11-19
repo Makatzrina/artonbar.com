@@ -3,7 +3,7 @@
 > ArtOnBar's AI accessibility statement. What ChatGPT, Claude, Perplexity and Google's agents can read here, what stays private, and how to use the content. Last reviewed November 2026.
 
 Source: https://www.artonbar.com/agent-ready/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

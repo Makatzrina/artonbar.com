@@ -2,7 +2,7 @@
  "name": "ArtOnBar — bars of the Algarve",
  "description": "Every bar listed on artonbar.com with town, vibes, price tier, rating, winter opening and coordinates. Ratings are the guide's own rating where reviewed, Google ratings where noted on the page.",
  "license": "Free to use with attribution and a link to artonbar.com",
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "count": 37,
  "bars": [
   {
@@ -361,6 +361,7 @@
     "beach"
    ],
    "rating": 4.3,
+   "status": "closed",
    "lat": 37.12,
    "lng": -8.543,
    "desc": "Reported closed Oct 2026 (now the hotel's Oriental Terrace). Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.",
@@ -376,6 +377,7 @@
     "late-night"
    ],
    "rating": 4.4,
+   "status": "closed",
    "lat": 37.1156,
    "lng": -8.5387,
    "desc": "Reported closed Oct 2026. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.",

@@ -3,7 +3,7 @@
 > Forbidden Door Lagos: how to get in (no sign, ring the bell), cocktail prices (€12–15), opening hours (daily 7pm–1am), what to order, and an honest review.
 
 Source: https://www.artonbar.com/lagos/forbidden-door/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

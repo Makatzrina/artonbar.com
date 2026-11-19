@@ -3,7 +3,7 @@
 > The best bars near The Strip (Praia da Oura), Albufeira, Albufeira, sorted by distance: Roca Beach Bar is the closest at 1 min. Prices, ratings and what each 
 
 Source: https://www.artonbar.com/near/albufeira-strip/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Albufeira · Sorted by distance
 
 The Strip (Praia da Oura), Albufeira is Avenida Sá Carneiro, the bar strip above Praia da Oura. Plenty of bars; this page is about the ones we'd actually send you to. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

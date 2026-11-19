@@ -3,7 +3,7 @@
 > The definitive guide to the best bars in the Algarve 2026. 15+ reviewed bars ranked across Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão.
 
 Source: https://www.artonbar.com/best-bars-algarve/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

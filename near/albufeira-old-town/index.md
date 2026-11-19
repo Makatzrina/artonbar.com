@@ -3,7 +3,7 @@
 > The best bars near Albufeira Old Town, Albufeira, sorted by distance: By The Sea is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/albufeira-old-town/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Albufeira · Sorted by distance
 
 Albufeira Old Town is the old centre around Praça Miguel Bombarda and the tunnel to the beach. The strip is a 25-minute walk east; the old town has the better drinks. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

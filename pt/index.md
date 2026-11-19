@@ -3,7 +3,7 @@
 > Guia independente de bares do Algarve: Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro e Portimão. Escolhas honestas, escrito por quem cá vive. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -155,7 +155,7 @@ Por ambiente
 [🍷 Bares de vinho (EN)](https://www.artonbar.com/wine-bars/)
 [🌙 Noite tardia (EN)](https://www.artonbar.com/late-night/)
 [🐕 Aceitam cães (EN)](https://www.artonbar.com/dog-friendly/)
-[❄️ Abertos no inverno (EN)](https://www.artonbar.com/open-in-winter/)
+[❄️ Abertos no inverno 2026/27 (EN)](https://www.artonbar.com/open-in-winter/)
 [🎆 Natal e Passagem de Ano (EN)](https://www.artonbar.com/christmas-new-year/)
 
 ## A newsletter: uma vez por mês, e pronto.

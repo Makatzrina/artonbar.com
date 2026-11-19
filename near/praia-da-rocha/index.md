@@ -1,9 +1,9 @@
-# Bars near Praia da Rocha: 3 picks, by distance
+# Bars near Praia da Rocha: 5 picks, by distance
 
-> The best bars near Praia da Rocha, Portimão, sorted by distance: Outro Bar is the closest at 1 min. Prices, ratings and what each one is for.
+> The best bars near Praia da Rocha, Portimão, sorted by distance: Outro Bar is the closest at 0 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/praia-da-rocha/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -11,19 +11,19 @@ Portimão · Sorted by distance
 
 # Bars near Praia da Rocha
 
-Praia da Rocha is Portimão's big beach and the strip above it. The strip is loud; the good bars are at either end of it. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
+Praia da Rocha is Portimão's big beach and the strip above it. The strip is loud; the good bars are at either end of it. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
-## 3 bars near Praia da Rocha
+## 5 bars near Praia da Rocha
 
 [1
 
 Outro Bar
 
-1 min on foot · Portimão · beach, sunset, late-night · seasonal
+0.1 km, about 10 min by taxi · Portimão · beach, sunset, late-night · seasonal
 
 Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
 
@@ -31,34 +31,54 @@ Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setti
 ⭐ 4.2](https://www.artonbar.com/portimao/outro-bar/)
 [2
 
-Absolutely
+Levels Carvoeiro
 
-6 min on foot · Portimão · cocktail, late-night · seasonal
+6.2 km, about 19 min by taxi · Carvoeiro · beach, wine, sunset · open in winter
 
-Reported closed Oct 2026. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.
+Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
 
 €€
-⭐ 4.4](https://www.artonbar.com/portimao/absolutely/)
+⭐ 4.2](https://www.artonbar.com/carvoeiro/levels/)
 [3
 
-Mandala Lounge
+Cocktail Garden
 
-7 min on foot · Portimão · sunset, beach · seasonal
+6.5 km, about 20 min by taxi · Carvoeiro · cocktail · open in winter
 
-Reported closed Oct 2026 (now the hotel's Oriental Terrace). Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.
+Freestyle bartending under palm trees. Tell them what you like, they build it.
+
+€€€
+⭐ 4.4](https://www.artonbar.com/carvoeiro/cocktail-garden/)
+[4
+
+Sky Bar Carvoeiro
+
+7.2 km, about 21 min by taxi · Carvoeiro · rooftop, sunset, beach · seasonal
+
+Tivoli hotel rooftop above the cliffs. Panoramic Atlantic views, premium cocktails. Seasonal.
+
+€€€€
+⭐ 4.5](https://www.artonbar.com/carvoeiro/sky-bar/)
+[5
+
+Alma Lounge Bar
+
+12.0 km, about 36 min by taxi · Lagos · cocktail, late-night · open in winter
+
+Open Friday and Saturday only. Tiny, intimate, custom cocktails. Locals know.
 
 €€
-⭐ 4.3](https://www.artonbar.com/portimao/mandala-lounge/)
+⭐ 4.5](https://www.artonbar.com/lagos/)
 
 ## FAQ
 
 Which bar is closest to Praia da Rocha?
 
-Outro Bar, about 0.1 km away (1 minutes on foot). Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
+Outro Bar, about 0.1 km away (10 minutes by taxi). Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
 
 Can I walk to a bar from Praia da Rocha?
 
-Yes. Outro Bar, Absolutely, Mandala Lounge are all within 0.5 km.
+Not really. The nearest bar we'd recommend is 0.1 km away; take a taxi or a Bolt.
 
 Are these distances exact?
 

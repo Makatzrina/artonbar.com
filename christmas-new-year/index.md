@@ -3,7 +3,7 @@
 > Where to drink in the Algarve over Christmas and New Year 2026: which bars open on the 24th and 25th, the confirmed NYE fireworks (Albufeira, Quarteira, Lagos), and 31 bars open all winter, by town.
 
 Source: https://www.artonbar.com/christmas-new-year/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -46,6 +46,8 @@ These towns all ran free midnight fireworks for 2025/26 and had not published 20
 
 Every bar on this site that trades year-round, sorted by our rating within each town. Winter hours shrink, so check the bar's Instagram the day you go, and assume the 24th evening and the 25th are closed unless the bar says otherwise.
 
+Generated from the bar data on 2026-11-19: 31 of 37 bars open in winter 2026/27, 4 seasonal, 2 reported closed. Winter hours shrink; check the bar's Instagram the day you go.
+
 ### Lagos [town guide →](https://www.artonbar.com/lagos/)
 
 - [Forbidden Door](https://www.artonbar.com/lagos/forbidden-door/) · €€€ · speakeasy, cocktail. The only real speakeasy in the Algarve. No sign, ring the bell, serious cocktails €12–15.
@@ -83,8 +85,6 @@ Every bar on this site that trades year-round, sorted by our rating within each 
 - [Cocktail Garden](https://www.artonbar.com/carvoeiro/cocktail-garden/) · €€€ · cocktail. Freestyle bartending under palm trees. Tell them what you like, they build it.
 - [Levels Carvoeiro](https://www.artonbar.com/carvoeiro/levels/) · €€ · beach, wine, sunset. Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
 
-### Portimão [town guide →](https://www.artonbar.com/portimao/)
-
 ### Quarteira [town guide →](https://www.artonbar.com/quarteira/)
 
 - [Latino Bar](https://www.artonbar.com/quarteira/) · € · sunset, cocktail, beach. Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.
@@ -105,6 +105,15 @@ Every bar on this site that trades year-round, sorted by our rating within each 
 - [Pombo Bar](https://www.artonbar.com/olhao/) · €€ · cocktail, late-night. Waterfront avenue bar with strong mojitos and sparkling sangria. Where Olhão's night ends.
 - [Le Panorama](https://www.artonbar.com/olhao/) · € · wine, sunset. Lagoon-side market terrace: €10 oysters, white sangria, the cheapest golden-hour seat in Olhão. Cash only.
 - [ZONA Cocktail Lounge](https://www.artonbar.com/olhao/) · €€ · cocktail, sunset. Cocktails at €7–9 in the red-brick market hall facing the marina. Olhão's sunset cocktail.
+
+### Closed for winter 2026/27
+
+- ❄️ [Skybar Lagos](https://www.artonbar.com/lagos/), Lagos: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Roca Beach Bar](https://www.artonbar.com/albufeira/), Albufeira: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Sky Bar Carvoeiro](https://www.artonbar.com/carvoeiro/sky-bar/), Carvoeiro: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Outro Bar](https://www.artonbar.com/portimao/outro-bar/), Portimão: closed for winter 2026/27, seasonal, usually back in spring.
+- ⛔ [Mandala Lounge](https://www.artonbar.com/portimao/mandala-lounge/), Portimão: reported closed (winter 2026). Review kept for reference.
+- ⛔ [Absolutely](https://www.artonbar.com/portimao/absolutely/), Portimão: reported closed (winter 2026). Review kept for reference.
 
 ## FAQ
 

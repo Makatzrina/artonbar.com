@@ -3,7 +3,7 @@
 > Honest review of Outro Bar in Praia da Rocha, Portimão. Cliff-top terrace, ocean views, tropical cocktails, no entrance fee. Open until 4am.
 
 Source: https://www.artonbar.com/portimao/outro-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

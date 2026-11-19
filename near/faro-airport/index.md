@@ -3,7 +3,7 @@
 > The best bars near Faro Airport, Faro, sorted by distance: Terrazzo Rooftop is the closest at 6 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/faro-airport/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Faro · Sorted by distance
 
 Faro Airport is the airport, 4 km west of the city as the crow flies and a 10–15 minute taxi around the lagoon. Nothing worth drinking in is walkable from the terminal. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

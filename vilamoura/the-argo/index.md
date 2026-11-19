@@ -3,7 +3,7 @@
 > Honest review of The Argo at Tivoli Marina Vilamoura. Two-star Iberian Peninsula cocktail bar, marina terrace, mythology-inspired cocktails. Open daily 4pm–midnight.
 
 Source: https://www.artonbar.com/vilamoura/the-argo/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

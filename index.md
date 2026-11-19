@@ -3,7 +3,7 @@
 > Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements. Updated 2026.
 
 Source: https://www.artonbar.com/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -155,7 +155,7 @@ Browse by Mood
 [🍷 Wine bars](https://www.artonbar.com/wine-bars/)
 [🌙 Late-night spots](https://www.artonbar.com/late-night/)
 [🐕 Dog-friendly](https://www.artonbar.com/dog-friendly/)
-[❄️ Open in winter](https://www.artonbar.com/open-in-winter/)
+[❄️ Open in winter 2026/27](https://www.artonbar.com/open-in-winter/)
 [🎆 Christmas & New Year's Eve](https://www.artonbar.com/christmas-new-year/)
 
 ## The newsletter — once a month, that's it.

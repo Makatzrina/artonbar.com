@@ -1,9 +1,9 @@
-# Absolutely Cocktail Lounge Portimão: Review 2026
+# Absolutely Portimão (Closed 2026): Cocktail Lounge Review
 
 > Honest review of Absolutely Cocktail Lounge Bar in Praia da Rocha, Portimão. Off-strip craft cocktails from €6, a proper DJ, open until 4am. Best value in Portimão.
 
 Source: https://www.artonbar.com/portimao/absolutely/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

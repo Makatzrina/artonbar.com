@@ -3,7 +3,7 @@
 > Honest review of Cocktail Garden Carvoeiro. Freestyle bartending under palm trees, open-air garden. The most characterful bar in Carvoeiro, Algarve.
 
 Source: https://www.artonbar.com/carvoeiro/cocktail-garden/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

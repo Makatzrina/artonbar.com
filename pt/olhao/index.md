@@ -3,7 +3,7 @@
 > Onde beber em Olhão, Algarve — bares na ribeira junto aos mercados, bares de vinhos nas ruelas e a Ria Formosa à hora dourada. A cidade mais na moda do sotavento. 2026.
 
 Source: https://www.artonbar.com/pt/olhao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

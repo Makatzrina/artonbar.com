@@ -1,0 +1,32 @@
+{%- comment -%}
+  Status banner for a bar page. Front matter:
+    status: closed        (reported closed; review kept for reference)
+    status: seasonal      (shuts for the winter, reopens in spring)
+    status_note: optional one-line detail shown after the headline
+{%- endcomment -%}
+{%- if page.status == "closed" or page.status == "seasonal" -%}
+<div class="status-notice status-notice--{{ page.status }}" role="note">
+  <div class="container status-notice__inner">
+    <span class="status-notice__icon" aria-hidden="true">{% if page.status == "closed" %}⛔{% else %}❄️{% endif %}</span>
+    <div>
+      <div class="status-notice__title">
+        {%- if page.lang == "pt" -%}
+          {%- if page.status == "closed" %}Encerrado (inverno de 2026){% else %}Fechado no inverno 2026/27{% endif -%}
+        {%- else -%}
+          {%- if page.status == "closed" %}Closed (winter 2026){% else %}Closed for winter 2026/27{% endif -%}
+        {%- endif -%}
+      </div>
+      <div class="status-notice__text">
+        {%- if page.status_note %}{{ page.status_note }}{% else -%}
+          {%- if page.lang == "pt" -%}
+            {%- if page.status == "closed" %}Este bar foi reportado como encerrado. Mantemos a crítica para referência e atualizamos se reabrir.{% else %}Este bar fecha na época baixa e costuma reabrir na primavera. Confirme as datas antes de ir.{% endif -%}
+          {%- else -%}
+            {%- if page.status == "closed" %}This bar has been reported closed. We keep the review for reference and will update it if it reopens.{% else %}This bar shuts for the low season and usually reopens in spring. Check dates before you go.{% endif -%}
+          {%- endif -%}
+        {%- endif %}
+        · <a href="/open-in-winter/">{% if page.lang == "pt" %}Bares abertos no inverno 2026/27 →{% else %}Bars open in winter 2026/27 →{% endif %}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endif -%}

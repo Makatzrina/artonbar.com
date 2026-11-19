@@ -3,7 +3,7 @@
 > Sal Rosa Albufeira menu and prices (cocktails €14–17), opening hours (Wed–Mon 4pm–11:30pm), how to book the cliff-edge tables, and an honest review.
 
 Source: https://www.artonbar.com/albufeira/sal-rosa/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

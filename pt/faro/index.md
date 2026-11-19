@@ -3,7 +3,7 @@
 > Cocktails em rooftops, bares de vinho e poisos locais autênticos — os melhores bares e vida noturna em Faro, a cidade mais subestimada do Algarve. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/faro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

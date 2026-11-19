@@ -3,7 +3,7 @@
 > The bars of Sagres, Algarve — surf-town sundowners at the end of the world. Where to drink after the waves, sunset near Cabo de São Vicente, and the winter reality.
 
 Source: https://www.artonbar.com/sagres/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

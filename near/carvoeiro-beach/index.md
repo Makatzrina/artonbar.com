@@ -3,7 +3,7 @@
 > The best bars near Carvoeiro Beach, Carvoeiro, sorted by distance: Levels Carvoeiro is the closest at 3 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/carvoeiro-beach/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Carvoeiro · Sorted by distance
 
 Carvoeiro Beach is the small town beach and the square above it. Everything in Carvoeiro is within ten minutes of the sand. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

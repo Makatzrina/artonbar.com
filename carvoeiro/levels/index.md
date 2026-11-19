@@ -3,7 +3,7 @@
 > Honest review of Levels Carvoeiro. Three floors on the beach square, ocean views, cocktails and a serious wine list. The best bar on Largo da Praia.
 
 Source: https://www.artonbar.com/carvoeiro/levels/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

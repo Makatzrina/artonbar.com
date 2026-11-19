@@ -9,7 +9,7 @@ import json, math, pathlib, html, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = "https://www.artonbar.com"
 today = datetime.date.today().isoformat()
-bars = json.loads((ROOT / "api" / "bars.json").read_text())["bars"]
+bars = [b for b in json.loads((ROOT / "api" / "bars.json").read_text())["bars"] if b.get("status") != "closed"]
 
 LANDMARKS = [
  # slug, name, town, lat, lng, what it is (one line), who searches it

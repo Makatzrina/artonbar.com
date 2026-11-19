@@ -3,7 +3,7 @@
 > Honest review of Sky Bar Carvoeiro at the Tivoli. Panoramic cliff and ocean views, cocktails €13, open to non-hotel guests. The best view in Carvoeiro.
 
 Source: https://www.artonbar.com/carvoeiro/sky-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

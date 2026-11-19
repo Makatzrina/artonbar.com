@@ -1,9 +1,9 @@
-# Mandala Lounge Portimão: Sunset Cocktail Bar Review 2026
+# Mandala Lounge Portimão (Closed 2026): Sunset Bar Review
 
 > Honest review of Mandala Lounge Bar in Praia da Rocha, Portimão. Sunset views, creative cocktails, shisha and a real food menu. The relaxed option on the strip.
 
 Source: https://www.artonbar.com/portimao/mandala-lounge/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

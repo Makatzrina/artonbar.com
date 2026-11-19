@@ -3,7 +3,7 @@
 > Fuja às armadilhas para turistas — os melhores bares de Albufeira, da Strip à Zona Antiga. Cocktails à beira da falésia, bares de praia e segredos bem guardados. 2026.
 
 Source: https://www.artonbar.com/pt/albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -64,7 +64,7 @@ Cocktails à beira da falésia com ingredientes locais, numa cidade que serve so
 
 Roca Beach Bar
 
-Bar de Praia · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt)
+Bar de Praia · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt) · ❄️ Fechado no inverno 2026/27
 
 O bar de praia que não passa vergonha. Cocktails razoáveis, mesmo na areia, e a clientela é suficientemente variada para não sentir que caiu dentro de um pacote de férias.
 

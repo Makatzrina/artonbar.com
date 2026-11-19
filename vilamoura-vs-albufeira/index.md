@@ -3,7 +3,7 @@
 > Vilamoura vs Albufeira for bars and nightlife — marina polish vs Strip party, compared honestly. Prices, crowd, best bars, and which suits your trip. 2026.
 
 Source: https://www.artonbar.com/vilamoura-vs-albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

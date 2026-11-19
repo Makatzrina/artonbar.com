@@ -3,7 +3,7 @@
 > The best bars near Cabo de São Vicente, Sagres, sorted by distance: Chiringuito Last Chance is the closest at 10 min. Prices, ratings and what each one is for
 
 Source: https://www.artonbar.com/near/cabo-sao-vicente/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Sagres · Sorted by distance
 
 Cabo de São Vicente is the lighthouse at the south-western tip of Europe. Watch the sunset here, then drive the ten minutes back into Sagres. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

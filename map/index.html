@@ -112,7 +112,7 @@
     m.bindPopup(
       '<div class="map-popup">'+
       '<div class="map-popup__name">'+b.emoji+' '+b.name+'</div>'+
-      '<div class="map-popup__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · ⭐ '+b.rating.toFixed(1)+(b.winter?' · ❄️ winter':'')+'</div>'+
+      '<div class="map-popup__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · ⭐ '+b.rating.toFixed(1)+(b.status==='closed'?' · ⛔ closed 2026':(b.winter?' · ❄️ open in winter':' · ☀️ summer only'))+'</div>'+
       '<p class="map-popup__desc">'+b.desc+'</p>'+
       '<a class="map-popup__btn" href="'+b.url+'">Read the review →</a>'+
       '</div>'

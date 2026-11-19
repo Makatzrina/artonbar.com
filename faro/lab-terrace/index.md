@@ -3,7 +3,7 @@
 > LAB Terrace Faro menu and prices (wine €5, cocktails €8–12, beer €4–5), hours (daily 3pm–8pm), how to find the rooftop, and why it is the best sunset in Faro.
 
 Source: https://www.artonbar.com/faro/lab-terrace/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

@@ -3,7 +3,7 @@
 > The best bars near Praça da República, Tavira, Tavira, sorted by distance: Arcada Cocktail Club is the closest at 0 min. Prices, ratings and what each one is 
 
 Source: https://www.artonbar.com/near/tavira-square/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Tavira · Sorted by distance
 
 Praça da República, Tavira is Tavira's main square by the Roman bridge. The best cocktail bar in the east is on this square. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

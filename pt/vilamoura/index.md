@@ -3,7 +3,7 @@
 > Cocktails, vistas para os iates e bebidas premiadas — os melhores bares e vida noturna à volta da Marina de Vilamoura, Algarve. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/vilamoura/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

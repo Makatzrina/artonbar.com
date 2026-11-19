@@ -3,7 +3,7 @@
 > Skip the tourist traps — the best bars in Albufeira from the Strip to the Old Town. Cliff-edge cocktails, beach bars and hidden gems. 2026.
 
 Source: https://www.artonbar.com/albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -64,7 +64,7 @@ Cliff-edge cocktails with local ingredients, in a town that mostly serves Sex on
 
 Roca Beach Bar
 
-Beach Bar · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt)
+Beach Bar · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt) · ❄️ Closed for winter 2026/27
 
 The beach bar that doesn't embarrass itself. Decent cocktails, right on the sand, and the crowd is mixed enough that you won't feel like you've stumbled into a package holiday.
 

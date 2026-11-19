@@ -3,7 +3,7 @@
 > The only true speakeasy in the Algarve is in Lagos: Forbidden Door. No sign, ring the bell, serious cocktails. Plus the best craft cocktail bars across the Algarve.
 
 Source: https://www.artonbar.com/speakeasy/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

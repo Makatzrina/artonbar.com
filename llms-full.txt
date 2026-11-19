@@ -1,6 +1,6 @@
 # ArtOnBar.com — full content for AI systems
 
-Generated 2026-11-18. 74 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
+Generated 2026-11-19. 74 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
 
 
 ========================================================================
@@ -12,7 +12,7 @@ https://www.artonbar.com/about/
 > Why ArtOnBar exists, who writes it, how bars get on the site, and how the guide makes money. An independent Algarve bar guide written by a local. No fluff.
 
 Source: https://www.artonbar.com/about/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -67,7 +67,7 @@ https://www.artonbar.com/agent-ready/
 > ArtOnBar's AI accessibility statement. What ChatGPT, Claude, Perplexity and Google's agents can read here, what stays private, and how to use the content. Last reviewed November 2026.
 
 Source: https://www.artonbar.com/agent-ready/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -129,7 +129,7 @@ https://www.artonbar.com/albufeira/
 > Skip the tourist traps — the best bars in Albufeira from the Strip to the Old Town. Cliff-edge cocktails, beach bars and hidden gems. 2026.
 
 Source: https://www.artonbar.com/albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -190,7 +190,7 @@ Cliff-edge cocktails with local ingredients, in a town that mostly serves Sex on
 
 Roca Beach Bar
 
-Beach Bar · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt)
+Beach Bar · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt) · ❄️ Closed for winter 2026/27
 
 The beach bar that doesn't embarrass itself. Decent cocktails, right on the sand, and the crowd is mixed enough that you won't feel like you've stumbled into a package holiday.
 
@@ -246,7 +246,7 @@ https://www.artonbar.com/albufeira/sal-rosa/
 > Sal Rosa Albufeira menu and prices (cocktails €14–17), opening hours (Wed–Mon 4pm–11:30pm), how to book the cliff-edge tables, and an honest review.
 
 Source: https://www.artonbar.com/albufeira/sal-rosa/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -414,7 +414,7 @@ https://www.artonbar.com/bar-finder/
 > Find your bar in the Algarve: filter every bar we've reviewed by town, vibe, price and winter opening. Speakeasies, rooftops, beach bars and more. Updated 2026.
 
 Source: https://www.artonbar.com/bar-finder/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -446,7 +446,7 @@ https://www.artonbar.com/beach-bars/
 > The best beach bars in the Algarve. Cliff-top views, seafront terraces and bars right on the sand. Honest guide updated 2026.
 
 Source: https://www.artonbar.com/beach-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -615,7 +615,7 @@ https://www.artonbar.com/best-bars-algarve/
 > The definitive guide to the best bars in the Algarve 2026. 15+ reviewed bars ranked across Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão.
 
 Source: https://www.artonbar.com/best-bars-algarve/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -804,7 +804,7 @@ https://www.artonbar.com/carvoeiro/cocktail-garden/
 > Honest review of Cocktail Garden Carvoeiro. Freestyle bartending under palm trees, open-air garden. The most characterful bar in Carvoeiro, Algarve.
 
 Source: https://www.artonbar.com/carvoeiro/cocktail-garden/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -907,7 +907,7 @@ https://www.artonbar.com/carvoeiro/
 > Sky Bar cliff views, Cocktail Garden freestyle bartending, and Levels on the beach square — the best bars and nightlife in Carvoeiro, Algarve. 2026.
 
 Source: https://www.artonbar.com/carvoeiro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -957,7 +957,7 @@ Book it →](https://www.artonbar.com/submit-a-bar/)
 
 Sky Bar Carvoeiro
 
-Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Seasonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/)
+Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Seasonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/) · ❄️ Closed for winter 2026/27
 
 The best view in Carvoeiro from the Tivoli rooftop — panoramic cliffs, ocean, and a lounge bar that does justice to the setting. Not cheap, fully worth it. Book for sunset. Open to non-hotel guests.
 
@@ -1024,7 +1024,7 @@ https://www.artonbar.com/carvoeiro/levels/
 > Honest review of Levels Carvoeiro. Three floors on the beach square, ocean views, cocktails and a serious wine list. The best bar on Largo da Praia.
 
 Source: https://www.artonbar.com/carvoeiro/levels/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1127,7 +1127,7 @@ https://www.artonbar.com/carvoeiro/sky-bar/
 > Honest review of Sky Bar Carvoeiro at the Tivoli. Panoramic cliff and ocean views, cocktails €13, open to non-hotel guests. The best view in Carvoeiro.
 
 Source: https://www.artonbar.com/carvoeiro/sky-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1230,7 +1230,7 @@ https://www.artonbar.com/christmas-new-year/
 > Where to drink in the Algarve over Christmas and New Year 2026: which bars open on the 24th and 25th, the confirmed NYE fireworks (Albufeira, Quarteira, Lagos), and 31 bars open all winter, by town.
 
 Source: https://www.artonbar.com/christmas-new-year/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1273,6 +1273,8 @@ These towns all ran free midnight fireworks for 2025/26 and had not published 20
 
 Every bar on this site that trades year-round, sorted by our rating within each town. Winter hours shrink, so check the bar's Instagram the day you go, and assume the 24th evening and the 25th are closed unless the bar says otherwise.
 
+Generated from the bar data on 2026-11-19: 31 of 37 bars open in winter 2026/27, 4 seasonal, 2 reported closed. Winter hours shrink; check the bar's Instagram the day you go.
+
 ### Lagos [town guide →](https://www.artonbar.com/lagos/)
 
 - [Forbidden Door](https://www.artonbar.com/lagos/forbidden-door/) · €€€ · speakeasy, cocktail. The only real speakeasy in the Algarve. No sign, ring the bell, serious cocktails €12–15.
@@ -1310,8 +1312,6 @@ Every bar on this site that trades year-round, sorted by our rating within each 
 - [Cocktail Garden](https://www.artonbar.com/carvoeiro/cocktail-garden/) · €€€ · cocktail. Freestyle bartending under palm trees. Tell them what you like, they build it.
 - [Levels Carvoeiro](https://www.artonbar.com/carvoeiro/levels/) · €€ · beach, wine, sunset. Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
 
-### Portimão [town guide →](https://www.artonbar.com/portimao/)
-
 ### Quarteira [town guide →](https://www.artonbar.com/quarteira/)
 
 - [Latino Bar](https://www.artonbar.com/quarteira/) · € · sunset, cocktail, beach. Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.
@@ -1332,6 +1332,15 @@ Every bar on this site that trades year-round, sorted by our rating within each 
 - [Pombo Bar](https://www.artonbar.com/olhao/) · €€ · cocktail, late-night. Waterfront avenue bar with strong mojitos and sparkling sangria. Where Olhão's night ends.
 - [Le Panorama](https://www.artonbar.com/olhao/) · € · wine, sunset. Lagoon-side market terrace: €10 oysters, white sangria, the cheapest golden-hour seat in Olhão. Cash only.
 - [ZONA Cocktail Lounge](https://www.artonbar.com/olhao/) · €€ · cocktail, sunset. Cocktails at €7–9 in the red-brick market hall facing the marina. Olhão's sunset cocktail.
+
+### Closed for winter 2026/27
+
+- ❄️ [Skybar Lagos](https://www.artonbar.com/lagos/), Lagos: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Roca Beach Bar](https://www.artonbar.com/albufeira/), Albufeira: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Sky Bar Carvoeiro](https://www.artonbar.com/carvoeiro/sky-bar/), Carvoeiro: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Outro Bar](https://www.artonbar.com/portimao/outro-bar/), Portimão: closed for winter 2026/27, seasonal, usually back in spring.
+- ⛔ [Mandala Lounge](https://www.artonbar.com/portimao/mandala-lounge/), Portimão: reported closed (winter 2026). Review kept for reference.
+- ⛔ [Absolutely](https://www.artonbar.com/portimao/absolutely/), Portimão: reported closed (winter 2026). Review kept for reference.
 
 ## FAQ
 
@@ -1371,7 +1380,7 @@ https://www.artonbar.com/contact/
 > Get in touch with ArtOnBar: recommend a bar, correct an opening time, ask about a featured listing, or just say hello. Replies within 48 hours.
 
 Source: https://www.artonbar.com/contact/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1391,7 +1400,7 @@ https://www.artonbar.com/dog-friendly/
 > The best dog-friendly bars in the Algarve. Outdoor terraces, gardens and seafront spots where dogs are welcome. Honest guide updated 2026.
 
 Source: https://www.artonbar.com/dog-friendly/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1526,7 +1535,7 @@ https://www.artonbar.com/faro/cidade-velha-rooftop/
 > Cidade Velha Rooftop reviewed: cocktails above Faro old town with cathedral views, open after the sunset bars close. The Faro rooftop for the rest of the night.
 
 Source: https://www.artonbar.com/faro/cidade-velha-rooftop/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1591,7 +1600,7 @@ https://www.artonbar.com/faro/
 > Rooftop cocktails, wine bars and authentic local haunts — the best bars and nightlife in Faro, Algarve's most underrated city. Updated 2026.
 
 Source: https://www.artonbar.com/faro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1702,7 +1711,7 @@ https://www.artonbar.com/faro/lab-terrace/
 > LAB Terrace Faro menu and prices (wine €5, cocktails €8–12, beer €4–5), hours (daily 3pm–8pm), how to find the rooftop, and why it is the best sunset in Faro.
 
 Source: https://www.artonbar.com/faro/lab-terrace/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1863,7 +1872,7 @@ https://www.artonbar.com/faro/terrazzo/
 > Terrazzo Rooftop Faro reviewed: marina views, a polished cocktail list, and later hours than the sunset rooftops. Faro's late-evening rooftop. Updated 2026.
 
 Source: https://www.artonbar.com/faro/terrazzo/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -1928,7 +1937,7 @@ https://www.artonbar.com/
 > Independent bar guide to the Algarve — Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro and Portimão. Honest picks, no paid placements. Updated 2026.
 
 Source: https://www.artonbar.com/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2080,7 +2089,7 @@ Browse by Mood
 [🍷 Wine bars](https://www.artonbar.com/wine-bars/)
 [🌙 Late-night spots](https://www.artonbar.com/late-night/)
 [🐕 Dog-friendly](https://www.artonbar.com/dog-friendly/)
-[❄️ Open in winter](https://www.artonbar.com/open-in-winter/)
+[❄️ Open in winter 2026/27](https://www.artonbar.com/open-in-winter/)
 [🎆 Christmas & New Year's Eve](https://www.artonbar.com/christmas-new-year/)
 
 ## The newsletter — once a month, that's it.
@@ -2099,7 +2108,7 @@ https://www.artonbar.com/lagos/forbidden-door/
 > Forbidden Door Lagos: how to get in (no sign, ring the bell), cocktail prices (€12–15), opening hours (daily 7pm–1am), what to order, and an honest review.
 
 Source: https://www.artonbar.com/lagos/forbidden-door/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2229,7 +2238,7 @@ https://www.artonbar.com/lagos/
 > From craft speakeasies to late-night terraces — the best bars and nightlife in Lagos, Portugal. Honest, ranked guide updated 2026.
 
 Source: https://www.artonbar.com/lagos/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2333,7 +2342,7 @@ Open Friday and Saturday only. Tiny, intimate, custom cocktails, and the best sh
 
 Skybar
 
-Hotel Rooftop · Largo Marquês de Pombal 1 · Cash only · [Instagram ↗](https://www.instagram.com/skybar.lagos/)
+Hotel Rooftop · Largo Marquês de Pombal 1 · Cash only · [Instagram ↗](https://www.instagram.com/skybar.lagos/) · ❄️ Closed for winter 2026/27
 
 Top of the hotel, small pool, decent cocktails, great views. Cash only, which is annoying. Go for the sunset, not the food.
 
@@ -2402,7 +2411,7 @@ https://www.artonbar.com/lagos-vs-albufeira/
 > Lagos vs Albufeira for nightlife, bars and going out — compared honestly by someone who drinks in both. Prices, crowd, bar quality, and which town fits you.
 
 Source: https://www.artonbar.com/lagos-vs-albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2478,7 +2487,7 @@ https://www.artonbar.com/late-night/
 > The best late night bars in the Algarve. Open until 2am, 3am and 4am — from Portimão cliff-top to Lagos speakeasies and Tavira cocktail clubs. Updated 2026.
 
 Source: https://www.artonbar.com/late-night/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2619,7 +2628,7 @@ https://www.artonbar.com/map/
 > Interactive map of the best bars in the Algarve — speakeasies, rooftops, beach bars and cocktail bars from Lagos to Tavira, every one reviewed.
 
 Source: https://www.artonbar.com/map/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2643,7 +2652,7 @@ https://www.artonbar.com/near/albufeira-old-town/
 > The best bars near Albufeira Old Town, Albufeira, sorted by distance: By The Sea is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/albufeira-old-town/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2653,7 +2662,7 @@ Albufeira · Sorted by distance
 
 Albufeira Old Town is the old centre around Praça Miguel Bombarda and the tunnel to the beach. The strip is a 25-minute walk east; the old town has the better drinks. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -2714,7 +2723,7 @@ https://www.artonbar.com/near/albufeira-strip/
 > The best bars near The Strip (Praia da Oura), Albufeira, Albufeira, sorted by distance: Roca Beach Bar is the closest at 1 min. Prices, ratings and what each 
 
 Source: https://www.artonbar.com/near/albufeira-strip/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2724,7 +2733,7 @@ Albufeira · Sorted by distance
 
 The Strip (Praia da Oura), Albufeira is Avenida Sá Carneiro, the bar strip above Praia da Oura. Plenty of bars; this page is about the ones we'd actually send you to. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -2785,7 +2794,7 @@ https://www.artonbar.com/near/cabo-sao-vicente/
 > The best bars near Cabo de São Vicente, Sagres, sorted by distance: Chiringuito Last Chance is the closest at 10 min. Prices, ratings and what each one is for
 
 Source: https://www.artonbar.com/near/cabo-sao-vicente/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2795,7 +2804,7 @@ Sagres · Sorted by distance
 
 Cabo de São Vicente is the lighthouse at the south-western tip of Europe. Watch the sunset here, then drive the ten minutes back into Sagres. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -2866,7 +2875,7 @@ https://www.artonbar.com/near/carvoeiro-beach/
 > The best bars near Carvoeiro Beach, Carvoeiro, sorted by distance: Levels Carvoeiro is the closest at 3 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/carvoeiro-beach/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2876,7 +2885,7 @@ Carvoeiro · Sorted by distance
 
 Carvoeiro Beach is the small town beach and the square above it. Everything in Carvoeiro is within ten minutes of the sand. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -2937,7 +2946,7 @@ https://www.artonbar.com/near/faro-airport/
 > The best bars near Faro Airport, Faro, sorted by distance: Terrazzo Rooftop is the closest at 6 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/faro-airport/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -2947,7 +2956,7 @@ Faro · Sorted by distance
 
 Faro Airport is the airport, 4 km west of the city as the crow flies and a 10–15 minute taxi around the lagoon. Nothing worth drinking in is walkable from the terminal. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3048,7 +3057,7 @@ https://www.artonbar.com/near/faro-old-town/
 > The best bars near Faro Old Town, Faro, sorted by distance: Cidade Velha Rooftop is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/faro-old-town/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3058,7 +3067,7 @@ Faro · Sorted by distance
 
 Faro Old Town is the walled Cidade Velha and the streets around the marina. Faro's bar scene is small, walkable and cheaper than the coast. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3119,7 +3128,7 @@ https://www.artonbar.com/near/
 > Pick where you are (Praia Dona Ana, Lagos Marina, Vilamoura Marina, Praia da Rocha, Faro Old Town, Faro Airport and more) and get the closest bars we'd actually send you to, with walking times.
 
 Source: https://www.artonbar.com/near/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3210,7 +3219,7 @@ https://www.artonbar.com/near/lagos-marina/
 > The best bars near Lagos Marina, Lagos, sorted by distance: KasBah Bar is the closest at 2 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/lagos-marina/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3220,7 +3229,7 @@ Lagos · Sorted by distance
 
 Lagos Marina is the marina on the east side of the river, where most of the boat trips leave. Cross the footbridge and you're in the old town in five minutes. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3321,7 +3330,7 @@ https://www.artonbar.com/near/meia-praia/
 > The best bars near Meia Praia, Lagos, sorted by distance: Alma Lounge Bar is the closest at 21 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/meia-praia/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3331,7 +3340,7 @@ Lagos · Sorted by distance
 
 Meia Praia is the long beach east of the marina with the big hotels. Everything worth drinking in is back across the marina. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3432,7 +3441,7 @@ https://www.artonbar.com/near/olhao-market/
 > The best bars near Olhão Market Halls, Olhão, sorted by distance: Le Panorama is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/olhao-market/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3442,7 +3451,7 @@ Olhão · Sorted by distance
 
 Olhão Market Halls is the red-brick market halls on the Ria Formosa waterfront. Golden hour on the waterfront is the reason to come. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3508,12 +3517,12 @@ They are straight-line distances from the landmark to the bar, with 25% added fo
 https://www.artonbar.com/near/praia-da-rocha/
 ========================================================================
 
-# Bars near Praia da Rocha: 3 picks, by distance
+# Bars near Praia da Rocha: 5 picks, by distance
 
-> The best bars near Praia da Rocha, Portimão, sorted by distance: Outro Bar is the closest at 1 min. Prices, ratings and what each one is for.
+> The best bars near Praia da Rocha, Portimão, sorted by distance: Outro Bar is the closest at 0 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/praia-da-rocha/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3521,19 +3530,19 @@ Portimão · Sorted by distance
 
 # Bars near Praia da Rocha
 
-Praia da Rocha is Portimão's big beach and the strip above it. The strip is loud; the good bars are at either end of it. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
+Praia da Rocha is Portimão's big beach and the strip above it. The strip is loud; the good bars are at either end of it. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
-## 3 bars near Praia da Rocha
+## 5 bars near Praia da Rocha
 
 [1
 
 Outro Bar
 
-1 min on foot · Portimão · beach, sunset, late-night · seasonal
+0.1 km, about 10 min by taxi · Portimão · beach, sunset, late-night · seasonal
 
 Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
 
@@ -3541,34 +3550,54 @@ Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setti
 ⭐ 4.2](https://www.artonbar.com/portimao/outro-bar/)
 [2
 
-Absolutely
+Levels Carvoeiro
 
-6 min on foot · Portimão · cocktail, late-night · seasonal
+6.2 km, about 19 min by taxi · Carvoeiro · beach, wine, sunset · open in winter
 
-Reported closed Oct 2026. Cocktail lounge in Praia da Rocha with a menu that outperforms the strip around it.
+Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
 
 €€
-⭐ 4.4](https://www.artonbar.com/portimao/absolutely/)
+⭐ 4.2](https://www.artonbar.com/carvoeiro/levels/)
 [3
 
-Mandala Lounge
+Cocktail Garden
 
-7 min on foot · Portimão · sunset, beach · seasonal
+6.5 km, about 20 min by taxi · Carvoeiro · cocktail · open in winter
 
-Reported closed Oct 2026 (now the hotel's Oriental Terrace). Cliff-top sunset lounge at Praia da Rocha — shisha, cocktails, and a real food menu.
+Freestyle bartending under palm trees. Tell them what you like, they build it.
+
+€€€
+⭐ 4.4](https://www.artonbar.com/carvoeiro/cocktail-garden/)
+[4
+
+Sky Bar Carvoeiro
+
+7.2 km, about 21 min by taxi · Carvoeiro · rooftop, sunset, beach · seasonal
+
+Tivoli hotel rooftop above the cliffs. Panoramic Atlantic views, premium cocktails. Seasonal.
+
+€€€€
+⭐ 4.5](https://www.artonbar.com/carvoeiro/sky-bar/)
+[5
+
+Alma Lounge Bar
+
+12.0 km, about 36 min by taxi · Lagos · cocktail, late-night · open in winter
+
+Open Friday and Saturday only. Tiny, intimate, custom cocktails. Locals know.
 
 €€
-⭐ 4.3](https://www.artonbar.com/portimao/mandala-lounge/)
+⭐ 4.5](https://www.artonbar.com/lagos/)
 
 ## FAQ
 
 Which bar is closest to Praia da Rocha?
 
-Outro Bar, about 0.1 km away (1 minutes on foot). Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
+Outro Bar, about 0.1 km away (10 minutes by taxi). Cliff-top above Praia da Rocha, open till 4am. The most dramatic beach-bar setting in the west.
 
 Can I walk to a bar from Praia da Rocha?
 
-Yes. Outro Bar, Absolutely, Mandala Lounge are all within 0.5 km.
+Not really. The nearest bar we'd recommend is 0.1 km away; take a taxi or a Bolt.
 
 Are these distances exact?
 
@@ -3584,7 +3613,7 @@ https://www.artonbar.com/near/praia-dona-ana/
 > The best bars near Praia Dona Ana, Lagos, sorted by distance: Alma Lounge Bar is the closest at 17 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/praia-dona-ana/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3594,7 +3623,7 @@ Lagos · Sorted by distance
 
 Praia Dona Ana is the postcard cliff beach south of Lagos old town. You're on the beach, the sun is going, and the old town is a 15-minute walk uphill. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3695,7 +3724,7 @@ https://www.artonbar.com/near/quarteira-promenade/
 > The best bars near Quarteira Promenade, Quarteira, sorted by distance: Teixeira Wine Bar is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/quarteira-promenade/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3705,7 +3734,7 @@ Quarteira · Sorted by distance
 
 Quarteira Promenade is the calçadão along the seafront. Cheaper than Vilamoura, ten minutes away, and the sunset is the same. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3806,7 +3835,7 @@ https://www.artonbar.com/near/tavira-square/
 > The best bars near Praça da República, Tavira, Tavira, sorted by distance: Arcada Cocktail Club is the closest at 0 min. Prices, ratings and what each one is 
 
 Source: https://www.artonbar.com/near/tavira-square/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3816,7 +3845,7 @@ Tavira · Sorted by distance
 
 Praça da República, Tavira is Tavira's main square by the Roman bridge. The best cocktail bar in the east is on this square. Below: every bar on this site within a short drive, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3877,7 +3906,7 @@ https://www.artonbar.com/near/vilamoura-marina/
 > The best bars near Vilamoura Marina, Vilamoura, sorted by distance: Baracuda Bar is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/vilamoura-marina/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -3887,7 +3916,7 @@ Vilamoura · Sorted by distance
 
 Vilamoura Marina is the marina boardwalk, where almost every bar in Vilamoura is. If you're staying at a marina hotel, you don't need a taxi. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 
@@ -3988,7 +4017,7 @@ https://www.artonbar.com/olhao/
 > Where to drink in Olhão, Algarve — waterfront bars by the markets, backstreet wine spots, and the Ria Formosa at golden hour. The east's trendiest town. 2026.
 
 Source: https://www.artonbar.com/olhao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4148,7 +4177,7 @@ https://www.artonbar.com/open-in-winter/
 > Algarve bars that stay open in winter. Year-round cocktail bars, wine bars and craft spots open October to April. No seasonal closures. Updated 2026.
 
 Source: https://www.artonbar.com/open-in-winter/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4243,6 +4272,79 @@ Tavira is one of the best towns in Portugal to visit in winter — quiet, beauti
 
 [Read review →](https://www.artonbar.com/tavira/arcada/)
 
+## Every bar open in winter 2026/27, by town
+
+The five above are the ones I'd plan a winter trip around. This is the full list: every bar on the site that trades through the low season, with the seasonal and closed ones at the end so nobody drives to a locked door.
+
+Generated from the bar data on 2026-11-19: 31 of 37 bars open in winter 2026/27, 4 seasonal, 2 reported closed. Winter hours shrink; check the bar's Instagram the day you go.
+
+### Lagos [town guide →](https://www.artonbar.com/lagos/)
+
+- [Forbidden Door](https://www.artonbar.com/lagos/forbidden-door/) · €€€ · speakeasy, cocktail. The only real speakeasy in the Algarve. No sign, ring the bell, serious cocktails €12–15.
+- [KasBah Bar](https://www.artonbar.com/lagos/) · €€€ · cocktail, marina. Moroccan décor that should be tacky but isn't. Salt-rimmed espresso martini, marina view free.
+- [Alma Lounge Bar](https://www.artonbar.com/lagos/) · €€ · cocktail, late-night. Open Friday and Saturday only. Tiny, intimate, custom cocktails. Locals know.
+- [Indigo Bar](https://www.artonbar.com/lagos/) · €€ · rooftop, cocktail. Day-to-night rooftop: coffee in the morning, cocktails by 9. Ask for the passionfruit daiquiri.
+- [Pepper's Bar](https://www.artonbar.com/speakeasy/) · €€€ · rooftop, cocktail, sunset. Three floors and a rooftop terrace with sea views over Lagos old town. Sunset party institution.
+- [Zanzibar](https://www.artonbar.com/lagos/) · € · late-night. Rock music, cocktails named after movies, open till 4am. Happy hour 7–10pm.
+
+### Albufeira [town guide →](https://www.artonbar.com/albufeira/)
+
+- [Sal Rosa](https://www.artonbar.com/albufeira/sal-rosa/) · €€€ · cocktail, sunset. Cliff-edge terrace, Algarve botanicals in the glass. Book the front tables for sunset.
+- [By The Sea](https://www.artonbar.com/albufeira/) · €€ · sunset, wine. Old-town terrace bar above the beach. The relaxed alternative to the Strip.
+
+### Vilamoura [town guide →](https://www.artonbar.com/vilamoura/)
+
+- [The Argo](https://www.artonbar.com/vilamoura/the-argo/) · €€€€ · cocktail, marina. Award-winning cocktail bar at the Tivoli Marina — the best cocktail menu in the region.
+- [Baracuda Bar](https://www.artonbar.com/vilamoura/) · €€ · marina, late-night. Marina-front stalwart — the oldest bar on the Vilamoura boardwalk.
+- [Casino Vilamoura Bar](https://www.artonbar.com/vilamoura/) · €€€ · late-night. Late-night drinks till 3am with the casino floor next door.
+
+### Faro [town guide →](https://www.artonbar.com/faro/)
+
+- [LAB Terrace](https://www.artonbar.com/faro/lab-terrace/) · €€ · rooftop, sunset, wine. Faro's best sunset rooftop. €5 wine facing the Ria Formosa. Closes 8pm — sunset only.
+- [Cidade Velha Rooftop](https://www.artonbar.com/faro/cidade-velha-rooftop/) · €€ · rooftop, late-night. Old-town rooftop with cathedral views. The Faro rooftop that stays open after sunset.
+- [Terrazzo Rooftop](https://www.artonbar.com/faro/terrazzo/) · €€ · rooftop, marina, late-night. Marina views and a polished cocktail list. Faro's late-evening rooftop option.
+
+### Tavira [town guide →](https://www.artonbar.com/tavira/)
+
+- [Rooftop Nomad](https://www.artonbar.com/tavira/rooftop-nomad/) · €€ · rooftop, sunset. Rooftop restaurant-bar above Tavira's old town with river and rooftop views.
+- [Arcada Cocktail Club](https://www.artonbar.com/tavira/arcada/) · €€ · cocktail. Terrace on Tavira's main square. The best cocktail bar east of Faro.
+- [Quasi Bar](https://www.artonbar.com/tavira/quasi-bar/) · €€ · beach, late-night. Cabanas de Tavira seafront, Ria Formosa views, DJ weekends. More local than tourist.
+
+### Carvoeiro [town guide →](https://www.artonbar.com/carvoeiro/)
+
+- [Cocktail Garden](https://www.artonbar.com/carvoeiro/cocktail-garden/) · €€€ · cocktail. Freestyle bartending under palm trees. Tell them what you like, they build it.
+- [Levels Carvoeiro](https://www.artonbar.com/carvoeiro/levels/) · €€ · beach, wine, sunset. Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
+
+### Quarteira [town guide →](https://www.artonbar.com/quarteira/)
+
+- [Latino Bar](https://www.artonbar.com/quarteira/) · € · sunset, cocktail, beach. Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.
+- [Baz & Minnie's Irish Bar](https://www.artonbar.com/quarteira/) · € · late-night. Irish pub just off the promenade: Guinness, sport, karaoke, quiz night. Cash only, open till 2am.
+- [Teixeira Wine Bar](https://www.artonbar.com/quarteira/) · €€ · wine, sunset. Seafront wine and tapas bar with oak-barrel tables, long happy hour, live music some nights.
+- [Cadillac Bar](https://www.artonbar.com/quarteira/) · € · late-night. Rock-and-roll local with live music every night and cheap beer. The only Quarteira bar open till 4am.
+
+### Sagres [town guide →](https://www.artonbar.com/sagres/)
+
+- [Dromedário Bar](https://www.artonbar.com/sagres/) · €€ · cocktail, late-night. Sagres institution since 1985. House craft beer, creative cocktails, DJs in summer. Open till 2am, all year.
+- [Água Salgada](https://www.artonbar.com/sagres/) · €€ · cocktail. Seafood tapas and negronis by day, DJ and mirror ball by night. Closed Mondays.
+- [Pau de Pita](https://www.artonbar.com/sagres/) · € · rooftop, sunset, late-night. Rooftop terrace with sea view, caipirinhas and sangria, 80s nights. One of the few open in winter.
+- [Chiringuito Last Chance](https://www.artonbar.com/sagres/) · €€€ · beach, sunset. Palm-parasol deck above Praia da Mareta. The Sagres sunset drink. Cash only, pricey for the town.
+
+### Olhão [town guide →](https://www.artonbar.com/olhao/)
+
+- [Casta Nova](https://www.artonbar.com/olhao/) · €€ · wine. Small-producer and natural Portuguese wines with cheese and bread. Early-evening only, closed weekends.
+- [Pombo Bar](https://www.artonbar.com/olhao/) · €€ · cocktail, late-night. Waterfront avenue bar with strong mojitos and sparkling sangria. Where Olhão's night ends.
+- [Le Panorama](https://www.artonbar.com/olhao/) · € · wine, sunset. Lagoon-side market terrace: €10 oysters, white sangria, the cheapest golden-hour seat in Olhão. Cash only.
+- [ZONA Cocktail Lounge](https://www.artonbar.com/olhao/) · €€ · cocktail, sunset. Cocktails at €7–9 in the red-brick market hall facing the marina. Olhão's sunset cocktail.
+
+### Closed for winter 2026/27
+
+- ❄️ [Skybar Lagos](https://www.artonbar.com/lagos/), Lagos: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Roca Beach Bar](https://www.artonbar.com/albufeira/), Albufeira: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Sky Bar Carvoeiro](https://www.artonbar.com/carvoeiro/sky-bar/), Carvoeiro: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Outro Bar](https://www.artonbar.com/portimao/outro-bar/), Portimão: closed for winter 2026/27, seasonal, usually back in spring.
+- ⛔ [Mandala Lounge](https://www.artonbar.com/portimao/mandala-lounge/), Portimão: reported closed (winter 2026). Review kept for reference.
+- ⛔ [Absolutely](https://www.artonbar.com/portimao/absolutely/), Portimão: reported closed (winter 2026). Review kept for reference.
+
 ## What to avoid in winter
 
 Sky Bar Carvoeiro closes seasonally — don't make a trip for it outside April to October. Most of the Praia da Rocha cliff-top strip on Av. Tomás Cabreira is shut from mid-October to late May (Outro Bar included); the casino bar, the marina bars and Alvor's pubs are the year-round exceptions. Absolutely and Mandala Lounge were reported closed in October 2026. Levels Carvoeiro and Carvoeiro's Cocktail Garden maintain reduced winter hours but are worth checking directly before a visit.
@@ -4282,12 +4384,12 @@ Hiking, birdwatching in the Ria Formosa, golf, and uncrowded coast walks.
 https://www.artonbar.com/portimao/absolutely/
 ========================================================================
 
-# Absolutely Cocktail Lounge Portimão: Review 2026
+# Absolutely Portimão (Closed 2026): Cocktail Lounge Review
 
 > Honest review of Absolutely Cocktail Lounge Bar in Praia da Rocha, Portimão. Off-strip craft cocktails from €6, a proper DJ, open until 4am. Best value in Portimão.
 
 Source: https://www.artonbar.com/portimao/absolutely/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4392,7 +4494,7 @@ https://www.artonbar.com/portimao/
 > Cliff-top cocktails, sunset views and craft cocktails from €6 — the best bars and nightlife in Portimão and Praia da Rocha. Honest guide 2026.
 
 Source: https://www.artonbar.com/portimao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4422,7 +4524,7 @@ Ocean Views
 Late Night
 No Entry Fee
 
-Perched above Praia da Rocha on the cliff-top strip, Outro Bar is the bar most people mean when they say "drinks in Portimão." Open-air terrace, tropical cocktails, open until 4am, no entrance fee. The view from the terrace — the beach below, the Atlantic beyond — is hard to match anywhere on the western Algarve.
+**Closed for winter 2026/27 (seasonal, reopens around May).** Perched above Praia da Rocha on the cliff-top strip, Outro Bar is the bar most people mean when they say "drinks in Portimão." Open-air terrace, tropical cocktails, open until 4am, no entrance fee. The view from the terrace — the beach below, the Atlantic beyond — is hard to match anywhere on the western Algarve.
 
 📍 Rua António Feu, Praia da Rocha
 💶 €€ · No entrance fee
@@ -4507,12 +4609,12 @@ The Benagil caves, boat trips and kayaking are all departing from this stretch o
 https://www.artonbar.com/portimao/mandala-lounge/
 ========================================================================
 
-# Mandala Lounge Portimão: Sunset Cocktail Bar Review 2026
+# Mandala Lounge Portimão (Closed 2026): Sunset Bar Review
 
 > Honest review of Mandala Lounge Bar in Praia da Rocha, Portimão. Sunset views, creative cocktails, shisha and a real food menu. The relaxed option on the strip.
 
 Source: https://www.artonbar.com/portimao/mandala-lounge/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4618,7 +4720,7 @@ https://www.artonbar.com/portimao/outro-bar/
 > Honest review of Outro Bar in Praia da Rocha, Portimão. Cliff-top terrace, ocean views, tropical cocktails, no entrance fee. Open until 4am.
 
 Source: https://www.artonbar.com/portimao/outro-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4721,7 +4823,7 @@ https://www.artonbar.com/pt/albufeira/
 > Fuja às armadilhas para turistas — os melhores bares de Albufeira, da Strip à Zona Antiga. Cocktails à beira da falésia, bares de praia e segredos bem guardados. 2026.
 
 Source: https://www.artonbar.com/pt/albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -4782,7 +4884,7 @@ Cocktails à beira da falésia com ingredientes locais, numa cidade que serve so
 
 Roca Beach Bar
 
-Bar de Praia · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt)
+Bar de Praia · Praia da Oura · [rocabeachrestaurant.pt ↗](https://rocabeachrestaurant.pt) · ❄️ Fechado no inverno 2026/27
 
 O bar de praia que não passa vergonha. Cocktails razoáveis, mesmo na areia, e a clientela é suficientemente variada para não sentir que caiu dentro de um pacote de férias.
 
@@ -4838,7 +4940,7 @@ https://www.artonbar.com/pt/albufeira/sal-rosa/
 > Menu e preços do Sal Rosa Albufeira (cocktails €14–17), horário (qua–seg 16h–23h30), como reservar as mesas à beira da falésia e uma crítica honesta.
 
 Source: https://www.artonbar.com/pt/albufeira/sal-rosa/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5006,7 +5108,7 @@ https://www.artonbar.com/pt/best-bars-algarve/
 > O guia definitivo dos melhores bares do Algarve em 2026. Mais de 15 bares avaliados e ordenados em Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro e Portimão.
 
 Source: https://www.artonbar.com/pt/best-bars-algarve/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5195,7 +5297,7 @@ https://www.artonbar.com/pt/carvoeiro/
 > Vistas de falésia no Sky Bar, bartending freestyle no Cocktail Garden e o Levels no largo da praia — os melhores bares e vida noturna de Carvoeiro, Algarve. 2026.
 
 Source: https://www.artonbar.com/pt/carvoeiro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5245,7 +5347,7 @@ Reservar →](https://www.artonbar.com/submit-a-bar/)
 
 Sky Bar Carvoeiro
 
-Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Sazonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/)
+Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Sazonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/) · ❄️ Fechado no inverno 2026/27
 
 A melhor vista de Carvoeiro, a partir do rooftop do Tivoli — falésias panorâmicas, oceano e um lounge bar à altura do cenário. Não é barato, vale totalmente a pena. Reserve para o pôr do sol. Aberto a quem não é hóspede do hotel.
 
@@ -5312,7 +5414,7 @@ https://www.artonbar.com/pt/faro/
 > Cocktails em rooftops, bares de vinho e poisos locais autênticos — os melhores bares e vida noturna em Faro, a cidade mais subestimada do Algarve. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/faro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5423,7 +5525,7 @@ https://www.artonbar.com/pt/faro/lab-terrace/
 > Menu e preços do LAB Terrace Faro (vinho €5, cocktails €8–12, cerveja €4–5), horário (todos os dias 15h–20h), como encontrar o rooftop e porque é o melhor pôr do sol de Faro.
 
 Source: https://www.artonbar.com/pt/faro/lab-terrace/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5584,7 +5686,7 @@ https://www.artonbar.com/pt/
 > Guia independente de bares do Algarve: Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro e Portimão. Escolhas honestas, escrito por quem cá vive. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5736,7 +5838,7 @@ Por ambiente
 [🍷 Bares de vinho (EN)](https://www.artonbar.com/wine-bars/)
 [🌙 Noite tardia (EN)](https://www.artonbar.com/late-night/)
 [🐕 Aceitam cães (EN)](https://www.artonbar.com/dog-friendly/)
-[❄️ Abertos no inverno (EN)](https://www.artonbar.com/open-in-winter/)
+[❄️ Abertos no inverno 2026/27 (EN)](https://www.artonbar.com/open-in-winter/)
 [🎆 Natal e Passagem de Ano (EN)](https://www.artonbar.com/christmas-new-year/)
 
 ## A newsletter: uma vez por mês, e pronto.
@@ -5755,7 +5857,7 @@ https://www.artonbar.com/pt/lagos/forbidden-door/
 > Forbidden Door Lagos: como entrar (sem letreiro, toque à campainha), preços dos cocktails (€12–15), horário (todos os dias 19h–1h), o que pedir e uma crítica honesta.
 
 Source: https://www.artonbar.com/pt/lagos/forbidden-door/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5885,7 +5987,7 @@ https://www.artonbar.com/pt/lagos/
 > De speakeasies artesanais a esplanadas até tarde — os melhores bares e vida noturna em Lagos, Portugal. Guia honesto e ordenado, atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/lagos/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -5989,7 +6091,7 @@ Aberto só à sexta e ao sábado. Minúsculo, intimista, cocktails à medida e a
 
 Skybar
 
-Rooftop de Hotel · Largo Marquês de Pombal 1 · Só dinheiro · [Instagram ↗](https://www.instagram.com/skybar.lagos/)
+Rooftop de Hotel · Largo Marquês de Pombal 1 · Só dinheiro · [Instagram ↗](https://www.instagram.com/skybar.lagos/) · ❄️ Fechado no inverno 2026/27
 
 No topo do hotel, piscina pequena, cocktails razoáveis, vistas ótimas. Só dinheiro, o que é chato. Vá pelo pôr do sol, não pela comida.
 
@@ -6058,7 +6160,7 @@ https://www.artonbar.com/pt/olhao/
 > Onde beber em Olhão, Algarve — bares na ribeira junto aos mercados, bares de vinhos nas ruelas e a Ria Formosa à hora dourada. A cidade mais na moda do sotavento. 2026.
 
 Source: https://www.artonbar.com/pt/olhao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6218,7 +6320,7 @@ https://www.artonbar.com/pt/portimao/
 > Cocktails no topo da falésia, vistas de pôr do sol e cocktails de autor desde €6 — os melhores bares e vida noturna de Portimão e Praia da Rocha. Guia honesto 2026.
 
 Source: https://www.artonbar.com/pt/portimao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6248,7 +6350,7 @@ Vistas de Mar
 Até Tarde
 Sem Entrada Paga
 
-Empoleirado por cima da Praia da Rocha, na zona do topo da falésia, o Outro Bar é o bar em que a maioria das pessoas pensa quando diz "copos em Portimão". Esplanada ao ar livre, cocktails tropicais, aberto até às 4h, sem entrada paga. A vista da esplanada — a praia em baixo, o Atlântico ao fundo — é difícil de igualar em qualquer ponto do Algarve ocidental.
+**Fechado no inverno 2026/27 (sazonal, reabre por volta de maio).** Empoleirado por cima da Praia da Rocha, na zona do topo da falésia, o Outro Bar é o bar em que a maioria das pessoas pensa quando diz "copos em Portimão". Esplanada ao ar livre, cocktails tropicais, aberto até às 4h, sem entrada paga. A vista da esplanada — a praia em baixo, o Atlântico ao fundo — é difícil de igualar em qualquer ponto do Algarve ocidental.
 
 📍 Rua António Feu, Praia da Rocha
 💶 €€ · Sem entrada paga
@@ -6338,7 +6440,7 @@ https://www.artonbar.com/pt/quarteira/
 > Os melhores bares de Quarteira, Algarve — bares no calçadão à beira-mar, tascas locais e preços honestos, a dez minutos de Vilamoura por metade do preço. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/quarteira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6502,7 +6604,7 @@ https://www.artonbar.com/pt/sagres/
 > Os bares de Sagres, Algarve — copos ao fim do dia na vila do surf, no fim do mundo. Onde beber depois das ondas, o pôr do sol junto ao Cabo de São Vicente e a realidade do inverno.
 
 Source: https://www.artonbar.com/pt/sagres/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6660,7 +6762,7 @@ https://www.artonbar.com/pt/tavira/
 > Clubes de cocktails na praça mais bonita de Portugal, vistas de rooftop e um bar com vista para a Ria Formosa — os melhores bares e vida noturna de Tavira. 2026.
 
 Source: https://www.artonbar.com/pt/tavira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6777,7 +6879,7 @@ https://www.artonbar.com/pt/vilamoura/
 > Cocktails, vistas para os iates e bebidas premiadas — os melhores bares e vida noturna à volta da Marina de Vilamoura, Algarve. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/vilamoura/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -6896,7 +6998,7 @@ https://www.artonbar.com/quarteira/
 > The best bars in Quarteira, Algarve — beachfront promenade bars, local haunts and honest prices, ten minutes from Vilamoura at half the cost. Updated 2026.
 
 Source: https://www.artonbar.com/quarteira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7060,7 +7162,7 @@ https://www.artonbar.com/rooftop-bars/
 > The best rooftop bars in Faro and the Algarve — LAB Terrace, Cidade Velha, Terrazzo, The Argo Vilamoura and more. Honest picks with real ratings. Updated 2026.
 
 Source: https://www.artonbar.com/rooftop-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7212,7 +7314,7 @@ https://www.artonbar.com/sagres/
 > The bars of Sagres, Algarve — surf-town sundowners at the end of the world. Where to drink after the waves, sunset near Cabo de São Vicente, and the winter reality.
 
 Source: https://www.artonbar.com/sagres/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7370,7 +7472,7 @@ https://www.artonbar.com/speakeasy/
 > The only true speakeasy in the Algarve is in Lagos: Forbidden Door. No sign, ring the bell, serious cocktails. Plus the best craft cocktail bars across the Algarve.
 
 Source: https://www.artonbar.com/speakeasy/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7553,7 +7655,7 @@ https://www.artonbar.com/submit-a-bar/
 > Put your Algarve bar in front of 57,000 monthly readers: featured spots on town pages and the homepage, sponsored posts and a header banner. Prices and booking here.
 
 Source: https://www.artonbar.com/submit-a-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7669,7 +7771,7 @@ https://www.artonbar.com/sunset-bars/
 > The best sunset bars in the Algarve — cliff terraces, lagoon views, marina drinks. Sal Rosa, LAB Terrace, The Argo, and more. Updated 2026.
 
 Source: https://www.artonbar.com/sunset-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7794,7 +7896,7 @@ https://www.artonbar.com/tavira/arcada/
 > Honest review of Arcada Cocktail Club, Tavira. Terrace on Praça da República, proper cocktails, half the crowd is local. Best bar in east Algarve.
 
 Source: https://www.artonbar.com/tavira/arcada/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -7901,7 +8003,7 @@ https://www.artonbar.com/tavira/
 > Cocktail clubs on Portugal's most beautiful square, rooftop views and a Ria Formosa sea-view bar — the best bars and nightlife in Tavira. 2026.
 
 Source: https://www.artonbar.com/tavira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8018,7 +8120,7 @@ https://www.artonbar.com/tavira/quasi-bar/
 > Honest review of Quasi Bar in Cabanas de Tavira. Rooftop with Ria Formosa sea views, DJ nights Friday and Saturday. The reason to spend an evening in Cabanas.
 
 Source: https://www.artonbar.com/tavira/quasi-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8125,7 +8227,7 @@ https://www.artonbar.com/tavira/rooftop-nomad/
 > Honest review of Rooftop Nomad, Tavira. Industrial-contemporary rooftop with Tavira city views, fine dining cocktails and live music in season. 2026.
 
 Source: https://www.artonbar.com/tavira/rooftop-nomad/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8228,7 +8330,7 @@ https://www.artonbar.com/vilamoura/
 > Cocktails, yacht views and award-winning drinks — the best bars and nightlife around Vilamoura Marina, Algarve. Updated 2026.
 
 Source: https://www.artonbar.com/vilamoura/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8347,7 +8449,7 @@ https://www.artonbar.com/vilamoura/the-argo/
 > Honest review of The Argo at Tivoli Marina Vilamoura. Two-star Iberian Peninsula cocktail bar, marina terrace, mythology-inspired cocktails. Open daily 4pm–midnight.
 
 Source: https://www.artonbar.com/vilamoura/the-argo/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8452,7 +8554,7 @@ https://www.artonbar.com/vilamoura-vs-albufeira/
 > Vilamoura vs Albufeira for bars and nightlife — marina polish vs Strip party, compared honestly. Prices, crowd, best bars, and which suits your trip. 2026.
 
 Source: https://www.artonbar.com/vilamoura-vs-albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -8527,7 +8629,7 @@ https://www.artonbar.com/wine-bars/
 > The best wine bars in the Algarve with serious Portuguese wine lists. Regional Algarve producers, natural wine and bottles worth ordering. Updated 2026.
 
 Source: https://www.artonbar.com/wine-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

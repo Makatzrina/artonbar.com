@@ -3,7 +3,7 @@
 > The best dog-friendly bars in the Algarve. Outdoor terraces, gardens and seafront spots where dogs are welcome. Honest guide updated 2026.
 
 Source: https://www.artonbar.com/dog-friendly/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
