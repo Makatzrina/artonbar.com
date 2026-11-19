@@ -3,7 +3,7 @@
 > Why ArtOnBar exists, who writes it, how bars get on the site, and how the guide makes money. An independent Algarve bar guide written by a local. No fluff.
 
 Source: https://www.artonbar.com/about/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

@@ -3,7 +3,7 @@
 > Algarve bars that stay open in winter. Year-round cocktail bars, wine bars and craft spots open October to April. No seasonal closures. Updated 2026.
 
 Source: https://www.artonbar.com/open-in-winter/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -97,6 +97,79 @@ Tavira is one of the best towns in Portugal to visit in winter — quiet, beauti
 ⭐ 4.4 / 5
 
 [Read review →](https://www.artonbar.com/tavira/arcada/)
+
+## Every bar open in winter 2026/27, by town
+
+The five above are the ones I'd plan a winter trip around. This is the full list: every bar on the site that trades through the low season, with the seasonal and closed ones at the end so nobody drives to a locked door.
+
+Generated from the bar data on 2026-11-19: 31 of 37 bars open in winter 2026/27, 4 seasonal, 2 reported closed. Winter hours shrink; check the bar's Instagram the day you go.
+
+### Lagos [town guide →](https://www.artonbar.com/lagos/)
+
+- [Forbidden Door](https://www.artonbar.com/lagos/forbidden-door/) · €€€ · speakeasy, cocktail. The only real speakeasy in the Algarve. No sign, ring the bell, serious cocktails €12–15.
+- [KasBah Bar](https://www.artonbar.com/lagos/) · €€€ · cocktail, marina. Moroccan décor that should be tacky but isn't. Salt-rimmed espresso martini, marina view free.
+- [Alma Lounge Bar](https://www.artonbar.com/lagos/) · €€ · cocktail, late-night. Open Friday and Saturday only. Tiny, intimate, custom cocktails. Locals know.
+- [Indigo Bar](https://www.artonbar.com/lagos/) · €€ · rooftop, cocktail. Day-to-night rooftop: coffee in the morning, cocktails by 9. Ask for the passionfruit daiquiri.
+- [Pepper's Bar](https://www.artonbar.com/speakeasy/) · €€€ · rooftop, cocktail, sunset. Three floors and a rooftop terrace with sea views over Lagos old town. Sunset party institution.
+- [Zanzibar](https://www.artonbar.com/lagos/) · € · late-night. Rock music, cocktails named after movies, open till 4am. Happy hour 7–10pm.
+
+### Albufeira [town guide →](https://www.artonbar.com/albufeira/)
+
+- [Sal Rosa](https://www.artonbar.com/albufeira/sal-rosa/) · €€€ · cocktail, sunset. Cliff-edge terrace, Algarve botanicals in the glass. Book the front tables for sunset.
+- [By The Sea](https://www.artonbar.com/albufeira/) · €€ · sunset, wine. Old-town terrace bar above the beach. The relaxed alternative to the Strip.
+
+### Vilamoura [town guide →](https://www.artonbar.com/vilamoura/)
+
+- [The Argo](https://www.artonbar.com/vilamoura/the-argo/) · €€€€ · cocktail, marina. Award-winning cocktail bar at the Tivoli Marina — the best cocktail menu in the region.
+- [Baracuda Bar](https://www.artonbar.com/vilamoura/) · €€ · marina, late-night. Marina-front stalwart — the oldest bar on the Vilamoura boardwalk.
+- [Casino Vilamoura Bar](https://www.artonbar.com/vilamoura/) · €€€ · late-night. Late-night drinks till 3am with the casino floor next door.
+
+### Faro [town guide →](https://www.artonbar.com/faro/)
+
+- [LAB Terrace](https://www.artonbar.com/faro/lab-terrace/) · €€ · rooftop, sunset, wine. Faro's best sunset rooftop. €5 wine facing the Ria Formosa. Closes 8pm — sunset only.
+- [Cidade Velha Rooftop](https://www.artonbar.com/faro/cidade-velha-rooftop/) · €€ · rooftop, late-night. Old-town rooftop with cathedral views. The Faro rooftop that stays open after sunset.
+- [Terrazzo Rooftop](https://www.artonbar.com/faro/terrazzo/) · €€ · rooftop, marina, late-night. Marina views and a polished cocktail list. Faro's late-evening rooftop option.
+
+### Tavira [town guide →](https://www.artonbar.com/tavira/)
+
+- [Rooftop Nomad](https://www.artonbar.com/tavira/rooftop-nomad/) · €€ · rooftop, sunset. Rooftop restaurant-bar above Tavira's old town with river and rooftop views.
+- [Arcada Cocktail Club](https://www.artonbar.com/tavira/arcada/) · €€ · cocktail. Terrace on Tavira's main square. The best cocktail bar east of Faro.
+- [Quasi Bar](https://www.artonbar.com/tavira/quasi-bar/) · €€ · beach, late-night. Cabanas de Tavira seafront, Ria Formosa views, DJ weekends. More local than tourist.
+
+### Carvoeiro [town guide →](https://www.artonbar.com/carvoeiro/)
+
+- [Cocktail Garden](https://www.artonbar.com/carvoeiro/cocktail-garden/) · €€€ · cocktail. Freestyle bartending under palm trees. Tell them what you like, they build it.
+- [Levels Carvoeiro](https://www.artonbar.com/carvoeiro/levels/) · €€ · beach, wine, sunset. Three floors on the beach square, 90 seconds from the sand. Serious Portuguese wine list.
+
+### Quarteira [town guide →](https://www.artonbar.com/quarteira/)
+
+- [Latino Bar](https://www.artonbar.com/quarteira/) · € · sunset, cocktail, beach. Beachfront promenade terrace, cocktails around €7, the Quarteira sunset spot.
+- [Baz & Minnie's Irish Bar](https://www.artonbar.com/quarteira/) · € · late-night. Irish pub just off the promenade: Guinness, sport, karaoke, quiz night. Cash only, open till 2am.
+- [Teixeira Wine Bar](https://www.artonbar.com/quarteira/) · €€ · wine, sunset. Seafront wine and tapas bar with oak-barrel tables, long happy hour, live music some nights.
+- [Cadillac Bar](https://www.artonbar.com/quarteira/) · € · late-night. Rock-and-roll local with live music every night and cheap beer. The only Quarteira bar open till 4am.
+
+### Sagres [town guide →](https://www.artonbar.com/sagres/)
+
+- [Dromedário Bar](https://www.artonbar.com/sagres/) · €€ · cocktail, late-night. Sagres institution since 1985. House craft beer, creative cocktails, DJs in summer. Open till 2am, all year.
+- [Água Salgada](https://www.artonbar.com/sagres/) · €€ · cocktail. Seafood tapas and negronis by day, DJ and mirror ball by night. Closed Mondays.
+- [Pau de Pita](https://www.artonbar.com/sagres/) · € · rooftop, sunset, late-night. Rooftop terrace with sea view, caipirinhas and sangria, 80s nights. One of the few open in winter.
+- [Chiringuito Last Chance](https://www.artonbar.com/sagres/) · €€€ · beach, sunset. Palm-parasol deck above Praia da Mareta. The Sagres sunset drink. Cash only, pricey for the town.
+
+### Olhão [town guide →](https://www.artonbar.com/olhao/)
+
+- [Casta Nova](https://www.artonbar.com/olhao/) · €€ · wine. Small-producer and natural Portuguese wines with cheese and bread. Early-evening only, closed weekends.
+- [Pombo Bar](https://www.artonbar.com/olhao/) · €€ · cocktail, late-night. Waterfront avenue bar with strong mojitos and sparkling sangria. Where Olhão's night ends.
+- [Le Panorama](https://www.artonbar.com/olhao/) · € · wine, sunset. Lagoon-side market terrace: €10 oysters, white sangria, the cheapest golden-hour seat in Olhão. Cash only.
+- [ZONA Cocktail Lounge](https://www.artonbar.com/olhao/) · €€ · cocktail, sunset. Cocktails at €7–9 in the red-brick market hall facing the marina. Olhão's sunset cocktail.
+
+### Closed for winter 2026/27
+
+- ❄️ [Skybar Lagos](https://www.artonbar.com/lagos/), Lagos: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Roca Beach Bar](https://www.artonbar.com/albufeira/), Albufeira: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Sky Bar Carvoeiro](https://www.artonbar.com/carvoeiro/sky-bar/), Carvoeiro: closed for winter 2026/27, seasonal, usually back in spring.
+- ❄️ [Outro Bar](https://www.artonbar.com/portimao/outro-bar/), Portimão: closed for winter 2026/27, seasonal, usually back in spring.
+- ⛔ [Mandala Lounge](https://www.artonbar.com/portimao/mandala-lounge/), Portimão: reported closed (winter 2026). Review kept for reference.
+- ⛔ [Absolutely](https://www.artonbar.com/portimao/absolutely/), Portimão: reported closed (winter 2026). Review kept for reference.
 
 ## What to avoid in winter
 

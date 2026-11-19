@@ -3,7 +3,7 @@
 > Os bares de Sagres, Algarve — copos ao fim do dia na vila do surf, no fim do mundo. Onde beber depois das ondas, o pôr do sol junto ao Cabo de São Vicente e a realidade do inverno.
 
 Source: https://www.artonbar.com/pt/sagres/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

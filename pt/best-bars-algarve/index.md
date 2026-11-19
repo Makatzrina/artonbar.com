@@ -3,7 +3,7 @@
 > O guia definitivo dos melhores bares do Algarve em 2026. Mais de 15 bares avaliados e ordenados em Lagos, Albufeira, Vilamoura, Faro, Tavira, Carvoeiro e Portimão.
 
 Source: https://www.artonbar.com/pt/best-bars-algarve/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

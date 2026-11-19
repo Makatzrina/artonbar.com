@@ -202,6 +202,18 @@ em { font-style: normal; }
   .mb__url { display: none; }
 }
 
+/* ── STATUS NOTICE (closed / seasonal bars) ── */
+.status-notice { border-bottom: 1px solid var(--border); background: var(--ink-card); padding: .9rem 0; }
+.status-notice--closed { background: linear-gradient(90deg, rgba(255,61,138,.14), var(--ink-card) 60%); border-bottom-color: rgba(255,61,138,.4); }
+.status-notice--seasonal { background: linear-gradient(90deg, rgba(94,240,255,.10), var(--ink-card) 60%); border-bottom-color: rgba(94,240,255,.35); }
+.status-notice__inner { display: flex; gap: .9rem; align-items: flex-start; }
+.status-notice__icon { font-size: 1.4rem; line-height: 1.2; }
+.status-notice__title { font-family: var(--font-display); font-size: 1.25rem; letter-spacing: .04em; color: var(--cream); text-transform: uppercase; }
+.status-notice__text { font-size: .9rem; color: var(--cream-dim); }
+.status-notice__text a { color: var(--cyan); }
+.tag--closed { border-color: var(--pink); color: var(--pink); }
+.tag--seasonal { border-color: var(--cyan); color: var(--cyan); }
+
 /* ── TICKER STRIP ── */
 .ticker {
   border-top: 1px solid var(--border);

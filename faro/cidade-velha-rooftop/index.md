@@ -3,7 +3,7 @@
 > Cidade Velha Rooftop reviewed: cocktails above Faro old town with cathedral views, open after the sunset bars close. The Faro rooftop for the rest of the night.
 
 Source: https://www.artonbar.com/faro/cidade-velha-rooftop/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

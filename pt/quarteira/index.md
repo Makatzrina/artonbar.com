@@ -3,7 +3,7 @@
 > Os melhores bares de Quarteira, Algarve — bares no calçadão à beira-mar, tascas locais e preços honestos, a dez minutos de Vilamoura por metade do preço. Atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/quarteira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

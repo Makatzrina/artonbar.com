@@ -3,7 +3,7 @@
 > Vistas de falésia no Sky Bar, bartending freestyle no Cocktail Garden e o Levels no largo da praia — os melhores bares e vida noturna de Carvoeiro, Algarve. 2026.
 
 Source: https://www.artonbar.com/pt/carvoeiro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -53,7 +53,7 @@ Reservar →](https://www.artonbar.com/submit-a-bar/)
 
 Sky Bar Carvoeiro
 
-Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Sazonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/)
+Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Sazonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/) · ❄️ Fechado no inverno 2026/27
 
 A melhor vista de Carvoeiro, a partir do rooftop do Tivoli — falésias panorâmicas, oceano e um lounge bar à altura do cenário. Não é barato, vale totalmente a pena. Reserve para o pôr do sol. Aberto a quem não é hóspede do hotel.
 

@@ -3,7 +3,7 @@
 > Cliff-top cocktails, sunset views and craft cocktails from €6 — the best bars and nightlife in Portimão and Praia da Rocha. Honest guide 2026.
 
 Source: https://www.artonbar.com/portimao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -33,7 +33,7 @@ Ocean Views
 Late Night
 No Entry Fee
 
-Perched above Praia da Rocha on the cliff-top strip, Outro Bar is the bar most people mean when they say "drinks in Portimão." Open-air terrace, tropical cocktails, open until 4am, no entrance fee. The view from the terrace — the beach below, the Atlantic beyond — is hard to match anywhere on the western Algarve.
+**Closed for winter 2026/27 (seasonal, reopens around May).** Perched above Praia da Rocha on the cliff-top strip, Outro Bar is the bar most people mean when they say "drinks in Portimão." Open-air terrace, tropical cocktails, open until 4am, no entrance fee. The view from the terrace — the beach below, the Atlantic beyond — is hard to match anywhere on the western Algarve.
 
 📍 Rua António Feu, Praia da Rocha
 💶 €€ · No entrance fee

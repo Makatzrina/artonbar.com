@@ -3,7 +3,7 @@
 > The best beach bars in the Algarve. Cliff-top views, seafront terraces and bars right on the sand. Honest guide updated 2026.
 
 Source: https://www.artonbar.com/beach-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

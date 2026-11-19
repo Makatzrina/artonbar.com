@@ -3,7 +3,7 @@
 > The best bars near Vilamoura Marina, Vilamoura, sorted by distance: Baracuda Bar is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/vilamoura-marina/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Vilamoura · Sorted by distance
 
 Vilamoura Marina is the marina boardwalk, where almost every bar in Vilamoura is. If you're staying at a marina hotel, you don't need a taxi. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

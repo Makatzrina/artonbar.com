@@ -3,7 +3,7 @@
 > The best sunset bars in the Algarve — cliff terraces, lagoon views, marina drinks. Sal Rosa, LAB Terrace, The Argo, and more. Updated 2026.
 
 Source: https://www.artonbar.com/sunset-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

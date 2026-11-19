@@ -3,7 +3,7 @@
 > Honest review of Quasi Bar in Cabanas de Tavira. Rooftop with Ria Formosa sea views, DJ nights Friday and Saturday. The reason to spend an evening in Cabanas.
 
 Source: https://www.artonbar.com/tavira/quasi-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

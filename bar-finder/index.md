@@ -3,7 +3,7 @@
 > Find your bar in the Algarve: filter every bar we've reviewed by town, vibe, price and winter opening. Speakeasies, rooftops, beach bars and more. Updated 2026.
 
 Source: https://www.artonbar.com/bar-finder/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

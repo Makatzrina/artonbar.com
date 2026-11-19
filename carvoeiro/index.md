@@ -3,7 +3,7 @@
 > Sky Bar cliff views, Cocktail Garden freestyle bartending, and Levels on the beach square — the best bars and nightlife in Carvoeiro, Algarve. 2026.
 
 Source: https://www.artonbar.com/carvoeiro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -53,7 +53,7 @@ Book it →](https://www.artonbar.com/submit-a-bar/)
 
 Sky Bar Carvoeiro
 
-Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Seasonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/)
+Rooftop Bar · Tivoli Carvoeiro, Estrada do Farol 5 · Seasonal · [@skybarcarvoeiro ↗](https://www.instagram.com/skybarcarvoeiro/) · ❄️ Closed for winter 2026/27
 
 The best view in Carvoeiro from the Tivoli rooftop — panoramic cliffs, ocean, and a lounge bar that does justice to the setting. Not cheap, fully worth it. Book for sunset. Open to non-hotel guests.
 

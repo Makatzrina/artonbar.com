@@ -3,7 +3,7 @@
 > Put your Algarve bar in front of 57,000 monthly readers: featured spots on town pages and the homepage, sponsored posts and a header banner. Prices and booking here.
 
 Source: https://www.artonbar.com/submit-a-bar/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

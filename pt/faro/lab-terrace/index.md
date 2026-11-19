@@ -3,7 +3,7 @@
 > Menu e preços do LAB Terrace Faro (vinho €5, cocktails €8–12, cerveja €4–5), horário (todos os dias 15h–20h), como encontrar o rooftop e porque é o melhor pôr do sol de Faro.
 
 Source: https://www.artonbar.com/pt/faro/lab-terrace/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

@@ -3,7 +3,7 @@
 > Lagos vs Albufeira for nightlife, bars and going out — compared honestly by someone who drinks in both. Prices, crowd, bar quality, and which town fits you.
 
 Source: https://www.artonbar.com/lagos-vs-albufeira/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

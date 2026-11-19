@@ -3,7 +3,7 @@
 > From craft speakeasies to late-night terraces — the best bars and nightlife in Lagos, Portugal. Honest, ranked guide updated 2026.
 
 Source: https://www.artonbar.com/lagos/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -107,7 +107,7 @@ Open Friday and Saturday only. Tiny, intimate, custom cocktails, and the best sh
 
 Skybar
 
-Hotel Rooftop · Largo Marquês de Pombal 1 · Cash only · [Instagram ↗](https://www.instagram.com/skybar.lagos/)
+Hotel Rooftop · Largo Marquês de Pombal 1 · Cash only · [Instagram ↗](https://www.instagram.com/skybar.lagos/) · ❄️ Closed for winter 2026/27
 
 Top of the hotel, small pool, decent cocktails, great views. Cash only, which is annoying. Go for the sunset, not the food.
 

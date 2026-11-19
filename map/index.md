@@ -3,7 +3,7 @@
 > Interactive map of the best bars in the Algarve — speakeasies, rooftops, beach bars and cocktail bars from Lagos to Tavira, every one reviewed.
 
 Source: https://www.artonbar.com/map/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

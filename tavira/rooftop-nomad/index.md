@@ -3,7 +3,7 @@
 > Honest review of Rooftop Nomad, Tavira. Industrial-contemporary rooftop with Tavira city views, fine dining cocktails and live music in season. 2026.
 
 Source: https://www.artonbar.com/tavira/rooftop-nomad/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

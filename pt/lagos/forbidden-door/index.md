@@ -3,7 +3,7 @@
 > Forbidden Door Lagos: como entrar (sem letreiro, toque à campainha), preços dos cocktails (€12–15), horário (todos os dias 19h–1h), o que pedir e uma crítica honesta.
 
 Source: https://www.artonbar.com/pt/lagos/forbidden-door/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

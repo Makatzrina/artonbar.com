@@ -3,7 +3,7 @@
 > Terrazzo Rooftop Faro reviewed: marina views, a polished cocktail list, and later hours than the sunset rooftops. Faro's late-evening rooftop. Updated 2026.
 
 Source: https://www.artonbar.com/faro/terrazzo/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

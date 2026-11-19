@@ -3,7 +3,7 @@
 > Rooftop cocktails, wine bars and authentic local haunts — the best bars and nightlife in Faro, Algarve's most underrated city. Updated 2026.
 
 Source: https://www.artonbar.com/faro/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

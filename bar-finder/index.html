@@ -167,7 +167,7 @@
       if(state.price && b.price!==state.price) return false;
       if(state.winter && !b.winter) return false;
       return true;
-    }).sort(function(a,b){ return b.rating-a.rating; });
+    }).sort(function(a,b){ if((a.status==='closed')!==(b.status==='closed')) return a.status==='closed'?1:-1; return b.rating-a.rating; });
 
     document.getElementById('f-count').textContent = out.length + ' bar' + (out.length===1?'':'s') + ' found, sorted by rating';
     var res = document.getElementById('f-results'); res.innerHTML='';
@@ -180,7 +180,7 @@
       a.className='finder-card'; a.href=b.url;
       a.innerHTML = '<div class="finder-card__emoji">'+b.emoji+'</div>'+
         '<div><div class="finder-card__name">'+b.name+'</div>'+
-        '<div class="finder-card__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · '+(b.winter?'❄️ open in winter':'☀️ seasonal')+'</div>'+
+        '<div class="finder-card__meta">📍 '+b.town+' · '+'€'.repeat(b.price)+' · '+(b.status==='closed'?'⛔ closed (winter 2026)':(b.winter?'❄️ open in winter 2026/27':'☀️ seasonal · closed for winter 2026/27'))+'</div>'+
         '<p class="finder-card__desc">'+b.desc+'</p></div>'+
         '<div class="finder-card__badges">⭐ '+b.rating.toFixed(1)+'</div>';
       res.appendChild(a);

@@ -3,7 +3,7 @@
 > The best bars near Quarteira Promenade, Quarteira, sorted by distance: Teixeira Wine Bar is the closest at 1 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/quarteira-promenade/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Quarteira · Sorted by distance
 
 Quarteira Promenade is the calçadão along the seafront. Cheaper than Vilamoura, ten minutes away, and the sunset is the same. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

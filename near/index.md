@@ -3,7 +3,7 @@
 > Pick where you are (Praia Dona Ana, Lagos Marina, Vilamoura Marina, Praia da Rocha, Faro Old Town, Faro Airport and more) and get the closest bars we'd actually send you to, with walking times.
 
 Source: https://www.artonbar.com/near/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

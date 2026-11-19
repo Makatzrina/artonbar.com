@@ -3,7 +3,7 @@
 > Honest review of Arcada Cocktail Club, Tavira. Terrace on Praça da República, proper cocktails, half the crowd is local. Best bar in east Algarve.
 
 Source: https://www.artonbar.com/tavira/arcada/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

@@ -3,7 +3,7 @@
 > Cocktails no topo da falésia, vistas de pôr do sol e cocktails de autor desde €6 — os melhores bares e vida noturna de Portimão e Praia da Rocha. Guia honesto 2026.
 
 Source: https://www.artonbar.com/pt/portimao/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -33,7 +33,7 @@ Vistas de Mar
 Até Tarde
 Sem Entrada Paga
 
-Empoleirado por cima da Praia da Rocha, na zona do topo da falésia, o Outro Bar é o bar em que a maioria das pessoas pensa quando diz "copos em Portimão". Esplanada ao ar livre, cocktails tropicais, aberto até às 4h, sem entrada paga. A vista da esplanada — a praia em baixo, o Atlântico ao fundo — é difícil de igualar em qualquer ponto do Algarve ocidental.
+**Fechado no inverno 2026/27 (sazonal, reabre por volta de maio).** Empoleirado por cima da Praia da Rocha, na zona do topo da falésia, o Outro Bar é o bar em que a maioria das pessoas pensa quando diz "copos em Portimão". Esplanada ao ar livre, cocktails tropicais, aberto até às 4h, sem entrada paga. A vista da esplanada — a praia em baixo, o Atlântico ao fundo — é difícil de igualar em qualquer ponto do Algarve ocidental.
 
 📍 Rua António Feu, Praia da Rocha
 💶 €€ · Sem entrada paga

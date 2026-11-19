@@ -3,7 +3,7 @@
 > The best rooftop bars in Faro and the Algarve — LAB Terrace, Cidade Velha, Terrazzo, The Argo Vilamoura and more. Honest picks with real ratings. Updated 2026.
 
 Source: https://www.artonbar.com/rooftop-bars/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

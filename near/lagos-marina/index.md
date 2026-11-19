@@ -3,7 +3,7 @@
 > The best bars near Lagos Marina, Lagos, sorted by distance: KasBah Bar is the closest at 2 min. Prices, ratings and what each one is for.
 
 Source: https://www.artonbar.com/near/lagos-marina/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -13,7 +13,7 @@ Lagos · Sorted by distance
 
 Lagos Marina is the marina on the east side of the river, where most of the boat trips leave. Cross the footbridge and you're in the old town in five minutes. Below: every bar on this site within 3 km, closest first, with how long it takes to get there.
 
-Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-18.
+Distances are straight-line from the landmark, with 25% added for streets. Generated from the bar coordinates on 2026-11-19.
 
 Closest first
 

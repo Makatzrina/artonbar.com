@@ -3,7 +3,7 @@
 > Menu e preços do Sal Rosa Albufeira (cocktails €14–17), horário (qua–seg 16h–23h30), como reservar as mesas à beira da falésia e uma crítica honesta.
 
 Source: https://www.artonbar.com/pt/albufeira/sal-rosa/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 

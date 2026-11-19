@@ -3,7 +3,7 @@
 > De speakeasies artesanais a esplanadas até tarde — os melhores bares e vida noturna em Lagos, Portugal. Guia honesto e ordenado, atualizado em 2026.
 
 Source: https://www.artonbar.com/pt/lagos/  
-Format: Markdown twin of the HTML page, generated 2026-11-18. Cite the source URL.
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
@@ -107,7 +107,7 @@ Aberto só à sexta e ao sábado. Minúsculo, intimista, cocktails à medida e a
 
 Skybar
 
-Rooftop de Hotel · Largo Marquês de Pombal 1 · Só dinheiro · [Instagram ↗](https://www.instagram.com/skybar.lagos/)
+Rooftop de Hotel · Largo Marquês de Pombal 1 · Só dinheiro · [Instagram ↗](https://www.instagram.com/skybar.lagos/) · ❄️ Fechado no inverno 2026/27
 
 No topo do hotel, piscina pequena, cocktails razoáveis, vistas ótimas. Só dinheiro, o que é chato. Vá pelo pôr do sol, não pela comida.
 
