@@ -12,18 +12,39 @@ today = datetime.date.today().isoformat()
 js = (ROOT / "js" / "cafes-data.js").read_text()
 cafes = json.loads(subprocess.check_output(["node", "-e", "global.window={};" + js + ";process.stdout.write(JSON.stringify(window.ARTONBAR_CAFES))"]))
 
-BARS_LINK = {"faro": ("/faro/", "Bars in Faro"), "olhao": ("/olhao/", "Bars in Olhão"), "tavira": ("/tavira/", "Bars in Tavira"), "loule": ("/quarteira/", "Bars in Quarteira & Vilamoura, the nearest"), "lagos": ("/lagos/", "Bars in Lagos"), "portimao": ("/portimao/", "Bars in Portimão")}
+BARS_LINK = {"faro": ("/faro/", "Bars in Faro"), "olhao": ("/olhao/", "Bars in Olhão"), "tavira": ("/tavira/", "Bars in Tavira"), "loule": ("/quarteira/", "Bars in Quarteira & Vilamoura, the nearest"), "almancil": ("/vilamoura/", "Bars in Vilamoura, the nearest"), "lagos": ("/lagos/", "Bars in Lagos"), "portimao": ("/portimao/", "Bars in Portimão")}
 TOWNS = {
  "faro":    ("Faro", "Faro", "Faro has the most serious coffee in the east: two specialty bars, one of them roasting its own beans, plus the pastelarias where the city has breakfast standing at the counter."),
  "olhao":   ("Olhão", "Olhão", "Olhão has exactly one specialty coffee bar, and it's a good one. The rest is traditional, and some of that is excellent too, so the list is short and honest."),
  "tavira":  ("Tavira", "Tavira", "Tavira is the one town in the eastern Algarve where you can reliably get a properly made flat white. Three specialty bars, none of them open before nine, two of them only part of the week. Plan around the day."),
- "loule":   ("Loulé & Almancil", "Loulé", "In Loulé there are only two places with proper coffee: bean17 inside the market, open until about one in the afternoon, and Mellow, which has good coffee, good cakes, a nice room and cocktails later on. Everywhere else the coffee tastes burnt. In Almancil, The Showroom."),
+ "loule":   ("Loulé", "Loulé", "I live near Loulé, and good coffee is the hobby I keep feeding. The honest news: there are only two places in town where the coffee is made properly. bean17, inside the municipal market, which roasts its own beans and is open only until about one in the afternoon. And Mellow, which has good coffee, good cakes, a nice room to sit in, and cocktails later in the day. Everywhere else in Loulé the coffee tastes burnt."),
+ "almancil":("Almancil", "Almancil", "Almancil has one proper coffee shop, The Showroom, and one all-day counter down towards Quinta do Lago. For a town that feeds the Golden Triangle, that's thin, and it means both get busy."),
  "lagos":   ("Lagos", "Lagos", "Lagos is the Algarve's coffee capital by a distance: roasters, laptop-friendly rooms, brunch queues. The problem isn't finding a flat white, it's choosing."),
  "portimao":("Portimão & Alvor", "Portimão", "Portimão's coffee lives in Praia da Rocha and Alvor rather than the city centre. Short list, but a real roaster is in it."),
 }
 INTRO = ("Good coffee is one of my hobbies, the kind I like to nurture, and I'm always glad to find a place that does a “proper” cup. "
          "In the eastern Algarve that's a bit of a gap, but here's what I found. Where a town has one real specialty bar, I say so, and I list the best traditional pastelarias as the honest alternative rather than padding the page. "
          "Hours are checked against the café's own listing on the date shown; winter hours shrink, so look at their Instagram before you drive.")
+
+EXTRA = {
+ "loule": '''
+        <div class="article" style="margin-top:2rem;">
+          <h2>How to do coffee in Loulé</h2>
+          <p>Loulé is a market town, and the market is where the coffee is. <strong>bean17</strong> is a counter inside the Mercado Municipal, Wednesday to Saturday mornings, with Ilona roasting her own beans behind it: single-origin espresso, a pour-over if you ask, a flat white that would hold its own in Lisbon, and a Dutch apple pie that is the reason half the regulars come. It's cash only, it's tiny, and when the market closes at one, so does the coffee. Go on a Saturday when it opens at eight and the market is at its best.</p>
+          <p><strong>Mellow</strong> is the afternoon answer: a small room with a vintage look and mismatched china on Rua Dom Paio Peres Correia, a few minutes' walk from the square, with coffee made with care, homemade cakes by the slice, and cocktails once the day turns. Tuesday to Saturday, until half past three. If you want to sit for an hour with a book, this is the one.</p>
+          <p>Everything else in Loulé serves the Portuguese standard: a bica from a machine that hasn't been cleaned since the Euro, milk boiled rather than steamed. <strong>Café Calcinha</strong> on the square is the exception that proves it: the 1929 art-deco room is worth a visit on its own terms, the coffee is fine, and it's open every day until eleven at night, which neither of the two above can say. On Sunday, when both bean17 and Mellow are closed, Calcinha is your coffee.</p>
+          <h2>Loulé coffee, the quick answers</h2>
+          <ul>
+            <li><strong>Best coffee in Loulé:</strong> bean17 (roasted on site) in the morning, Mellow in the afternoon.</li>
+            <li><strong>Coffee in Loulé market:</strong> bean17, loja 11, Wed–Fri 09:00–13:00, Sat 08:00–14:00.</li>
+            <li><strong>Sunday:</strong> Café Calcinha, 08:00–23:00. The specialty places are closed.</li>
+            <li><strong>Laptop:</strong> bean17 has Wi-Fi but it's a counter, not an office. Keep it short.</li>
+            <li><strong>Beans to take home:</strong> bean17 sells its own roast.</li>
+            <li><strong>Near Loulé:</strong> The Showroom in <a href="/coffee/almancil/">Almancil</a>, ten minutes down the road, weekdays only.</li>
+          </ul>
+        </div>
+''',
+}
 
 def feats(c):
     f = []
@@ -56,7 +77,7 @@ def card(i, c):
           </div>'''
 
 HEAD = '''---
----
+{fm}---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,8 +125,10 @@ FOOT = '''
 </body>
 </html>
 '''
-def head(title, desc, url, ld):
-    return HEAD.replace("{title}", html.escape(title)).replace("{desc}", html.escape(desc)).replace("{SITE}", SITE).replace("{url}", url).replace("{ld}", json.dumps(ld, ensure_ascii=False, indent=2))
+def head(title, desc, url, ld, fm="", lang="en"):
+    h = HEAD.replace("{fm}", fm).replace('<html lang="en">', f'<html lang="{lang}">')
+    if fm: h = h.replace('  <link rel="canonical" href="{SITE}{url}">\n', '  <link rel="canonical" href="{SITE}{url}">\n  {% include hreflang.html %}\n')
+    return h.replace("{title}", html.escape(title)).replace("{desc}", html.escape(desc)).replace("{SITE}", SITE).replace("{url}", url).replace("{ld}", json.dumps(ld, ensure_ascii=False, indent=2))
 
 # ---------- town pages ----------
 for slug, (label, main_town, intro) in TOWNS.items():
@@ -114,8 +137,11 @@ for slug, (label, main_town, intro) in TOWNS.items():
     trad = sorted([c for c in cs if c["type"] == "traditional"], key=lambda c: -(c.get("rating") or 0))
     url = f"/coffee/{slug}/"
     title = f"Specialty Coffee in {label}: Where the Flat White Is Real"
-    if len(title) > 60: title = f"Best Coffee in {label}: Specialty Cafés &amp; Honest Picks".replace("&amp;", "&")
+    if len(title) > 60: title = f"Best Coffee in {label}: Specialty Cafés & Honest Picks"
     desc = (f"The specialty coffee in {label}, Algarve: {len(spec)} place{'s' if len(spec)!=1 else ''} that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as the honest alternative.")[:158]
+    if slug == "loule":
+        title = "Good Coffee in Loulé: Specialty Cafés Worth It (2026)"
+        desc = "Where to get good coffee in Loulé: the only two specialty cafés in town, bean17 in the market (roasts its own beans) and Mellow, hours, prices, Sunday options, and why the rest tastes burnt."
     laptop = [c for c in spec if c.get("laptop")]; sunday = [c for c in spec if c.get("sunday")]
     early = sorted([c for c in spec if c.get("opens")], key=lambda c: c["opens"])
     faq = [
@@ -136,7 +162,7 @@ for slug, (label, main_town, intro) in TOWNS.items():
       <a href="/">ArtOnBar</a><span class="breadcrumb__sep">›</span><a href="/coffee/">Coffee</a><span class="breadcrumb__sep">›</span><span>{html.escape(label)}</span>
     </nav>
     <div class="page-hero__label">☕ Coffee · {html.escape(label)}</div>
-    <h1>Specialty coffee in {html.escape(label)}</h1>
+    <h1>{"Good coffee in Loulé: the two places that do it properly" if slug == "loule" else "Specialty coffee in " + html.escape(label)}</h1>
     <p class="page-hero__sub">{html.escape(intro)}</p>
     <p style="font-size:.8rem;color:var(--muted-2);margin-top:1rem;">Hours checked {today}. <span class="visited-tag">Visited</span> means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.</p>
   </div>
@@ -167,6 +193,7 @@ for slug, (label, main_town, intro) in TOWNS.items():
         </div>
 '''
     body += f'''
+{EXTRA.get(slug, "")}
         <div class="article" style="margin-top:2rem;">
           <h2>FAQ</h2>
           <div class="faq">
@@ -188,6 +215,7 @@ for slug, (label, main_town, intro) in TOWNS.items():
             <a href="{BARS_LINK[slug][0]}" class="affiliate-link"><span>🍸 {html.escape(BARS_LINK[slug][1])}</span><span class="affiliate-link__label">Guide</span></a>
             <a href="/coffee/finder/?town={html.escape(main_town)}" class="affiliate-link"><span>🔍 Filter these cafés</span><span class="affiliate-link__label">Coffee Finder</span></a>
             <a href="/map/#coffee" class="affiliate-link"><span>🗺️ On the map</span><span class="affiliate-link__label">Map</span></a>
+            <a href="/open-in-winter/" class="affiliate-link"><span>❄️ Bars open in winter 2026/27</span><span class="affiliate-link__label">Guide</span></a>
           </div>
         </div>
       </aside>
@@ -196,7 +224,8 @@ for slug, (label, main_town, intro) in TOWNS.items():
 </section>
 '''
     out = ROOT / "coffee" / slug / "index.html"; out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(head(title, desc, url, ld) + body + FOOT)
+    fm = "translation: /pt/coffee/loule/\n" if slug == "loule" else ""
+    out.write_text(head(title, desc, url, ld, fm) + body + FOOT)
 
 # ---------- hub ----------
 spec_all = [c for c in cafes if c["type"] != "traditional"]
@@ -241,7 +270,7 @@ hub = head("Specialty Coffee in the Algarve: Town by Town, Honestly", "Where the
     <div class="how-strip">
       <div class="how-strip__item"><h3>Proper means proper.</h3><p>Fresh beans, a machine someone cleans, milk that's steamed rather than boiled. If a town has one place like that, the page says one.</p></div>
       <div class="how-strip__item"><h3>Hours matter more than hype.</h3><p>Half the good cafés in the east open at nine and close by two, or trade three days a week. Every listing shows when, and when it was checked.</p></div>
-      <div class="how-strip__item"><h3>Winter is coffee season.</h3><p>The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny.</p></div>
+      <div class="how-strip__item"><h3>Winter is coffee season.</h3><p>The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny. For the evenings, <a href="/open-in-winter/" style="color:var(--cyan);">the bars open in winter 2026/27</a>.</p></div>
     </div>
   </div>
 </section>
@@ -325,3 +354,129 @@ finder = head("Coffee Finder: Specialty Cafés in the Algarve, Filtered", "Filte
 (ROOT / "coffee" / "finder").mkdir(parents=True, exist_ok=True)
 (ROOT / "coffee" / "finder" / "index.html").write_text(finder)
 print("coffee pages:", len(TOWNS), "towns + hub + finder;", len(cafes), "cafés in data")
+
+# ---------- Portuguese twin: /pt/coffee/loule/ (locals search "bom café em Loulé") ----------
+PT_DESC = {
+ "Mellow Café": "Um dos únicos dois sítios em Loulé onde o café é feito como deve ser. Uma sala pequena com ar vintage e loiça desirmanada, bons bolos caseiros à fatia, e cocktails ao fim do dia. Ocupa o antigo espaço da padaria Cinnaroma.",
+ "bean17 coffee and more": "O balcão de café dentro do Mercado Municipal de Loulé, com torra própria: a outra chávena a sério da cidade, com espresso de origem única, pour-over, tarte de maçã holandesa e pão de banana. Só de manhã, só dinheiro, minúsculo. Um plano para a manhã.",
+ "Café Calcinha": "O grande café art déco de 1929 na praça, restaurado e municipal, com o Folhado de Loulé. Vem-se pela sala e pelo horário longo; o café é razoável, não notável, e o serviço distrai-se.",
+}
+spec = sorted([c for c in cafes if c["slug"] == "loule" and c["type"] != "traditional"], key=lambda c: (not c.get("visited"), -(c.get("rating") or 0)))
+trad = [c for c in cafes if c["slug"] == "loule" and c["type"] == "traditional"]
+def card_pt(i, c):
+    rating = f"⭐ {c['rating']:.1f}" if c.get("rating") else ("✔ visitado" if c.get("visited") else "")
+    f = []
+    if c.get("laptop"): f.append("💻 portátil ok")
+    if c.get("sunday"): f.append("abre ao domingo")
+    if c.get("opens") and c["opens"] <= "08:00": f.append(f"abre às {c['opens']}")
+    if c.get("roaster") or c.get("type") == "roaster": f.append("torra própria")
+    if c.get("oat"): f.append("leite de aveia")
+    if c.get("dog"): f.append("aceita cães")
+    tags = " ".join(f'<span class="on">{html.escape(x)}</span>' for x in f)
+    vis = '<span class="visited-tag">Visitado</span> ' if c.get("visited") else ""
+    hours = c.get("hours","").replace("Tue–Sat","ter–sáb").replace("Wed–Fri","qua–sex").replace("Sat","sáb").replace("Sun–Mon","dom–seg").replace("Sun–Tue","dom–ter").replace("Daily","Todos os dias").replace("closed","fechado")
+    sub = " · ".join(x for x in [c.get("address") or "", hours, ("€" + str(c["price"]) if c.get("price") else "")] if x)
+    link = c.get("website") or (f"https://www.instagram.com/{c['instagram'].lstrip('@')}/" if c.get("instagram") else "")
+    name = f'<a href="{html.escape(link)}" target="_blank" rel="noopener" style="color:inherit;">{html.escape(c["name"])} ↗</a>' if link else html.escape(c["name"])
+    return f'''          <div class="bar-list-item">
+            <div class="bar-list-item__rank">{i}</div>
+            <div>
+              <div class="bar-list-item__name">{vis}{name}</div>
+              <div class="bar-list-item__sub">{html.escape(sub)}</div>
+              <p class="bar-list-item__desc">{html.escape(PT_DESC.get(c["name"], c["desc"]))}</p>
+              <div class="cafe-feats">{tags}</div>
+            </div>
+            <div class="bar-list-item__meta"><span class="rating-badge">{rating}</span></div>
+          </div>'''
+faq_pt = [
+ ("Onde se bebe bom café em Loulé?", "Em dois sítios: o bean17, dentro do Mercado Municipal, que torra o próprio café e abre só de manhã, e o Mellow, na Rua Dom Paio Peres Correia, com bons bolos e uma sala agradável. No resto da cidade o café sabe a queimado."),
+ ("Há café de especialidade em Loulé?", "Sim, mas pouco: o bean17 (torra própria, quarta a sexta das 9h às 13h, sábado das 8h às 14h) e o Mellow (terça a sábado, das 9h30 às 15h30)."),
+ ("Que café está aberto ao domingo em Loulé?", "O Café Calcinha, na Praça da República, das 8h às 23h. O bean17 e o Mellow estão fechados ao domingo."),
+ ("Há café bom no mercado de Loulé?", "Há: o bean17, loja 11. Espresso de origem única, pour-over, flat white, tarte de maçã. Só dinheiro, e fecha quando o mercado fecha, à uma."),
+]
+ld_pt = {"@context": "https://schema.org", "@graph": [
+  {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ArtOnBar", "item": f"{SITE}/pt/"}, {"@type": "ListItem", "position": 2, "name": "Café", "item": f"{SITE}/coffee/"}, {"@type": "ListItem", "position": 3, "name": "Loulé", "item": f"{SITE}/pt/coffee/loule/"}]},
+  {"@type": "ItemList", "name": "Café de especialidade em Loulé", "numberOfItems": len(spec), "itemListElement": [{"@type": "ListItem", "position": i, "item": {"@type": "CafeOrCoffeeShop", "name": c["name"], "address": {"@type": "PostalAddress", "streetAddress": c.get("address") or "", "addressLocality": "Loulé", "addressCountry": "PT"}, "geo": {"@type": "GeoCoordinates", "latitude": c["lat"], "longitude": c["lng"]}}} for i, c in enumerate(spec, 1)]},
+  {"@type": "FAQPage", "inLanguage": "pt-PT", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq_pt]},
+]}
+pt_head = head("Bom Café em Loulé: Os Únicos Dois Sítios a Sério (2026)", "Onde beber bom café em Loulé: os dois únicos cafés de especialidade da cidade, o bean17 no mercado (torra própria) e o Mellow, com horários, domingo, e porque é que o resto sabe a queimado.", "/pt/coffee/loule/", ld_pt, fm="lang: pt\ntranslation: /coffee/loule/\n", lang="pt")
+pt_head = pt_head.replace('<meta property="og:site_name" content="ArtOnBar">', '<meta property="og:site_name" content="ArtOnBar">\n  <meta property="og:locale" content="pt_PT">').replace('href="/pt/coffee/loule/index.md"', 'href="/pt/coffee/loule/index.md"')
+pt_body = f'''
+<section class="page-hero">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/pt/">ArtOnBar</a><span class="breadcrumb__sep">›</span><a href="/coffee/">Café</a><span class="breadcrumb__sep">›</span><span>Loulé</span>
+    </nav>
+    <div class="page-hero__label">☕ Café · Loulé</div>
+    <h1>Bom café em Loulé: os dois sítios que o fazem a sério</h1>
+    <p class="page-hero__sub">Vivo perto de Loulé e o bom café é o hobby que vou alimentando. A notícia honesta: só há dois sítios na cidade onde o café é feito como deve ser. O bean17, dentro do Mercado Municipal, que torra o próprio café e só abre até à uma da tarde. E o Mellow, com bom café, bons bolos, uma sala agradável e cocktails ao fim do dia. No resto de Loulé o café sabe a queimado.</p>
+    <p style="font-size:.8rem;color:var(--muted-2);margin-top:1rem;">Horários verificados a {today}. <span class="visited-tag">Visitado</span> quer dizer que bebemos lá o café; as classificações mostradas são do Google.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="layout-sidebar">
+      <div>
+        {{% include featured-slot.html town="Loulé" kind="cafe" %}}
+        <div class="section-header">
+          <div class="section-header__label">A sério</div>
+          <h2>{len(spec)} sítios que fazem café como deve ser</h2>
+        </div>
+        <div class="bar-list">
+{chr(10).join(card_pt(i, c) for i, c in enumerate(spec, 1))}
+        </div>
+        <div class="section-header" style="margin-top:3rem;">
+          <div class="section-header__label">A alternativa honesta</div>
+          <h2>Tradicional, e bom nisso</h2>
+          <p>Não é café de especialidade, nem finge ser. Abre cedo, serve uma bica decente e os doces que a cidade come de facto.</p>
+        </div>
+        <div class="bar-list">
+{chr(10).join(card_pt(i, c) for i, c in enumerate(trad, 1))}
+        </div>
+        <div class="article" style="margin-top:2rem;">
+          <h2>Como se bebe café em Loulé</h2>
+          <p>Loulé é uma cidade de mercado, e é no mercado que está o café. O <strong>bean17</strong> é um balcão dentro do Mercado Municipal, de quarta a sábado de manhã, com a Ilona a torrar o próprio café ali atrás: espresso de origem única, um pour-over se pedir, um flat white que não ficaria mal em Lisboa, e uma tarte de maçã holandesa que é a razão de metade dos habituais. Só aceita dinheiro, é minúsculo, e quando o mercado fecha à uma, o café fecha também. Vá ao sábado, quando abre às oito e o mercado está no seu melhor.</p>
+          <p>O <strong>Mellow</strong> é a resposta da tarde: uma sala pequena com ar vintage e loiça desirmanada na Rua Dom Paio Peres Correia, a poucos minutos a pé da praça, com café feito com cuidado, bolos caseiros à fatia, e cocktails quando o dia vira. De terça a sábado, até às três e meia. Se quer sentar-se uma hora com um livro, é este.</p>
+          <p>Tudo o resto em Loulé serve o padrão português: uma bica de uma máquina que não é limpa desde o euro, leite fervido em vez de vaporizado. O <strong>Café Calcinha</strong>, na praça, é a exceção que confirma a regra: a sala art déco de 1929 vale a visita por si, o café é razoável, e está aberto todos os dias até às onze da noite, o que nenhum dos dois acima pode dizer. Ao domingo, com o bean17 e o Mellow fechados, o Calcinha é o seu café.</p>
+          <h2>Café em Loulé, respostas rápidas</h2>
+          <ul>
+            <li><strong>Melhor café em Loulé:</strong> bean17 (torrado no local) de manhã, Mellow à tarde.</li>
+            <li><strong>Café no mercado de Loulé:</strong> bean17, loja 11, qua–sex 9h–13h, sáb 8h–14h.</li>
+            <li><strong>Domingo:</strong> Café Calcinha, 8h–23h. Os de especialidade estão fechados.</li>
+            <li><strong>Portátil:</strong> o bean17 tem Wi-Fi, mas é um balcão, não um escritório.</li>
+            <li><strong>Café para levar para casa:</strong> o bean17 vende a própria torra.</li>
+            <li><strong>Perto de Loulé:</strong> The Showroom, em <a href="/coffee/almancil/">Almancil</a> (EN), a dez minutos, só em dias úteis.</li>
+          </ul>
+        </div>
+        <div class="article" style="margin-top:2rem;">
+          <h2>Perguntas frequentes</h2>
+          <div class="faq">
+{chr(10).join(f'            <div class="faq__item"><div class="faq__q">{html.escape(q)}</div><div class="faq__a">{html.escape(a)}</div></div>' for q, a in faq_pt)}
+          </div>
+        </div>
+      </div>
+      <aside class="layout-sidebar__sidebar">
+        <div class="info-box" style="margin-bottom:1.5rem;">
+          <h3>Café em Loulé, em resumo</h3>
+          <div class="info-box__row"><span class="info-box__label">Especialidade</span><span class="info-box__val">{len(spec)}</span></div>
+          <div class="info-box__row"><span class="info-box__label">Mais cedo</span><span class="info-box__val">08:00 · bean17 (sáb)</span></div>
+          <div class="info-box__row"><span class="info-box__label">Domingo</span><span class="info-box__val">Café Calcinha</span></div>
+          <div class="info-box__row"><span class="info-box__label">Portátil</span><span class="info-box__val">bean17, pouco tempo</span></div>
+        </div>
+        <div class="info-box">
+          <h3>E à noite</h3>
+          <div class="affiliate-links">
+            <a href="/pt/quarteira/" class="affiliate-link"><span>🍸 Bares em Quarteira e Vilamoura</span><span class="affiliate-link__label">Guia</span></a>
+            <a href="/coffee/finder/?town=Loulé" class="affiliate-link"><span>🔍 Filtrar estes cafés (EN)</span><span class="affiliate-link__label">Coffee Finder</span></a>
+            <a href="/open-in-winter/" class="affiliate-link"><span>❄️ Bares abertos no inverno (EN)</span><span class="affiliate-link__label">Guia</span></a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+'''
+(ROOT / "pt" / "coffee" / "loule").mkdir(parents=True, exist_ok=True)
+(ROOT / "pt" / "coffee" / "loule" / "index.html").write_text(pt_head + pt_body + FOOT)
+print("pt/coffee/loule written")

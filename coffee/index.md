@@ -37,9 +37,14 @@ Tavira
 4 specialty · 2 traditional](https://www.artonbar.com/coffee/tavira/)
 [☕
 
-Loulé & Almancil
+Loulé
 
-4 specialty · 1 traditional](https://www.artonbar.com/coffee/loule/)
+2 specialty · 1 traditional](https://www.artonbar.com/coffee/loule/)
+[☕
+
+Almancil
+
+2 specialty · 0 traditional](https://www.artonbar.com/coffee/almancil/)
 [☕
 
 Lagos
@@ -61,4 +66,4 @@ Half the good cafés in the east open at nine and close by two, or trade three d
 
 ### Winter is coffee season.
 
-The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny.
+The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny. For the evenings, [the bars open in winter 2026/27](https://www.artonbar.com/open-in-winter/).

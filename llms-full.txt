@@ -1,6 +1,6 @@
 # ArtOnBar.com — full content for AI systems
 
-Generated 2026-11-19. 82 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
+Generated 2026-11-19. 84 pages. Each section starts with its canonical URL. Please cite the URL when you use a page.
 
 
 ========================================================================
@@ -1372,6 +1372,85 @@ Sources for the event details: the councils of Albufeira, Loulé, Lagos, Faro, T
 
 
 ========================================================================
+https://www.artonbar.com/coffee/almancil/
+========================================================================
+
+# Specialty Coffee in Almancil: Where the Flat White Is Real
+
+> The specialty coffee in Almancil, Algarve: 2 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastelarias as 
+
+Source: https://www.artonbar.com/coffee/almancil/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Coffee · Almancil
+
+# Specialty coffee in Almancil
+
+Almancil has one proper coffee shop, The Showroom, and one all-day counter down towards Quinta do Lago. For a town that feeds the Golden Triangle, that's thin, and it means both get busy.
+
+Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Almancil coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Almancil read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Book it →](https://www.artonbar.com/submit-a-bar/)
+
+The real thing
+
+## 2 places that make coffee properly
+
+1
+
+Visited [The Showroom Coffeehouse ↗](https://www.instagram.com/showroom.coffeehouse/)
+
+Av. 5 de Outubro 382 · Mon–Fri 08:30–15:00, closed Sat–Sun · €4
+
+Almancil's proper coffee, Australian-style, in a design showroom: flat whites on Amsterdam-roasted beans, matcha, cinnamon buns, Wi-Fi and dogs welcome. Weekdays only, few seats outside.
+
+💻 laptop ok oat milk dogs ok
+
+⭐ 4.9
+
+2
+
+[Lahana ↗](https://www.instagram.com/___lahana___/)
+
+Buganvilia Plaza 10 (towards Quinta do Lago) · Daily 08:00–15:30 · €2.9
+
+Espresso, batch brew and açaí bowls at a small counter in an outdoor plaza near Quinta do Lago, under the bougainvillea. Open every day from eight, which nothing else around here is; recent complaints about brusque service and paper cups.
+
+sun open opens 08:00 oat milk
+
+⭐ 4.6
+
+## FAQ
+
+Is there specialty coffee in Almancil?
+
+Yes: The Showroom Coffeehouse, Lahana.
+
+Which café in Almancil is good for working on a laptop?
+
+The Showroom Coffeehouse.
+
+Which cafés in Almancil are open on Sunday?
+
+Lahana.
+
+What time do the specialty cafés in Almancil open?
+
+The earliest is Lahana at 08:00. Most open at nine or later.
+
+
+========================================================================
 https://www.artonbar.com/coffee/faro/
 ========================================================================
 
@@ -1575,9 +1654,14 @@ Tavira
 4 specialty · 2 traditional](https://www.artonbar.com/coffee/tavira/)
 [☕
 
-Loulé & Almancil
+Loulé
 
-4 specialty · 1 traditional](https://www.artonbar.com/coffee/loule/)
+2 specialty · 1 traditional](https://www.artonbar.com/coffee/loule/)
+[☕
+
+Almancil
+
+2 specialty · 0 traditional](https://www.artonbar.com/coffee/almancil/)
 [☕
 
 Lagos
@@ -1599,7 +1683,7 @@ Half the good cafés in the east open at nine and close by two, or trade three d
 
 ### Winter is coffee season.
 
-The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny.
+The bars go quiet from November, the cafés don't. This section is for the people who live here, work here, or ride here when it's 17 degrees and sunny. For the evenings, [the bars open in winter 2026/27](https://www.artonbar.com/open-in-winter/).
 
 
 ========================================================================
@@ -1823,20 +1907,20 @@ The earliest is The Studio (old town) at 07:00. Most open at nine or later.
 https://www.artonbar.com/coffee/loule/
 ========================================================================
 
-# Best Coffee in Loulé &amp; Almancil: Specialty Cafés &amp; Honest Picks
+# Good Coffee in Loulé: Specialty Cafés Worth It (2026)
 
-> The specialty coffee in Loulé &amp; Almancil, Algarve: 4 places that do a proper flat white, with hours, laptop and Sunday notes, and the best traditional pastela
+> Where to get good coffee in Loulé: the only two specialty cafés in town, bean17 in the market (roasts its own beans) and Mellow, hours, prices, Sunday options, and why the rest tastes burnt.
 
 Source: https://www.artonbar.com/coffee/loule/  
 Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
 
 ---
 
-☕ Coffee · Loulé & Almancil
+☕ Coffee · Loulé
 
-# Specialty coffee in Loulé & Almancil
+# Good coffee in Loulé: the two places that do it properly
 
-In Loulé there are only two places with proper coffee: bean17 inside the market, open until about one in the afternoon, and Mellow, which has good coffee, good cakes, a nice room and cocktails later on. Everywhere else the coffee tastes burnt. In Almancil, The Showroom.
+I live near Loulé, and good coffee is the hobby I keep feeding. The honest news: there are only two places in town where the coffee is made properly. bean17, inside the municipal market, which roasts its own beans and is open only until about one in the afternoon. And Mellow, which has good coffee, good cakes, a nice room to sit in, and cocktails later in the day. Everywhere else in Loulé the coffee tastes burnt.
 
 Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest is from the cafés' own listings and recent reviews, with Google ratings where shown.
 
@@ -1844,30 +1928,18 @@ Hours checked 2026-11-19. Visited means we've had the coffee ourselves; the rest
 
 Featured spot Available now · €29/month
 
-Your café, first on the Loulé & Almancil coffee page
+Your café, first on the Loulé coffee page
 
-Residents, remote workers and cyclists looking for a proper coffee in Loulé & Almancil read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+Residents, remote workers and cyclists looking for a proper coffee in Loulé read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
 
 €29
 Book it →](https://www.artonbar.com/submit-a-bar/)
 
 The real thing
 
-## 4 places that make coffee properly
+## 2 places that make coffee properly
 
 1
-
-Visited [The Showroom Coffeehouse ↗](https://www.instagram.com/showroom.coffeehouse/)
-
-Av. 5 de Outubro 382 · Mon–Fri 08:30–15:00, closed Sat–Sun · €4
-
-Almancil's proper coffee, Australian-style, in a design showroom: flat whites on Amsterdam-roasted beans, matcha, cinnamon buns, Wi-Fi and dogs welcome. Weekdays only, few seats outside.
-
-💻 laptop ok oat milk dogs ok
-
-⭐ 4.9
-
-2
 
 Visited [bean17 coffee and more ↗](https://www.instagram.com/bean17coffeeandmore/)
 
@@ -1879,7 +1951,7 @@ The coffee counter inside Loulé's market, roasting its own beans: the other pro
 
 ⭐ 4.7
 
-3
+2
 
 Visited Mellow Café
 
@@ -1888,18 +1960,6 @@ Rua Dom Paio Peres Correia 18 · Tue–Sat 09:30–15:30, closed Sun–Mon
 One of only two places in Loulé where the coffee is made properly. A small, vintage-looking room with mismatched china, good homemade cakes by the slice, and cocktails later in the day. Took over the old Cinnaroma bakery premises.
 
 ✔ visited
-
-4
-
-[Lahana ↗](https://www.instagram.com/___lahana___/)
-
-Buganvilia Plaza 10 (towards Quinta do Lago) · Daily 08:00–15:30 · €2.9
-
-Espresso, batch brew and açaí bowls at a small counter in an outdoor plaza near Quinta do Lago, under the bougainvillea. Open every day from eight, which nothing else around here is; recent complaints about brusque service and paper cups.
-
-sun open opens 08:00 oat milk
-
-⭐ 4.6
 
 The honest alternative
 
@@ -1919,23 +1979,40 @@ sun open opens 08:00
 
 ⭐ 4.4
 
+## How to do coffee in Loulé
+
+Loulé is a market town, and the market is where the coffee is. **bean17** is a counter inside the Mercado Municipal, Wednesday to Saturday mornings, with Ilona roasting her own beans behind it: single-origin espresso, a pour-over if you ask, a flat white that would hold its own in Lisbon, and a Dutch apple pie that is the reason half the regulars come. It's cash only, it's tiny, and when the market closes at one, so does the coffee. Go on a Saturday when it opens at eight and the market is at its best.
+
+**Mellow** is the afternoon answer: a small room with a vintage look and mismatched china on Rua Dom Paio Peres Correia, a few minutes' walk from the square, with coffee made with care, homemade cakes by the slice, and cocktails once the day turns. Tuesday to Saturday, until half past three. If you want to sit for an hour with a book, this is the one.
+
+Everything else in Loulé serves the Portuguese standard: a bica from a machine that hasn't been cleaned since the Euro, milk boiled rather than steamed. **Café Calcinha** on the square is the exception that proves it: the 1929 art-deco room is worth a visit on its own terms, the coffee is fine, and it's open every day until eleven at night, which neither of the two above can say. On Sunday, when both bean17 and Mellow are closed, Calcinha is your coffee.
+
+## Loulé coffee, the quick answers
+
+- **Best coffee in Loulé:** bean17 (roasted on site) in the morning, Mellow in the afternoon.
+- **Coffee in Loulé market:** bean17, loja 11, Wed–Fri 09:00–13:00, Sat 08:00–14:00.
+- **Sunday:** Café Calcinha, 08:00–23:00. The specialty places are closed.
+- **Laptop:** bean17 has Wi-Fi but it's a counter, not an office. Keep it short.
+- **Beans to take home:** bean17 sells its own roast.
+- **Near Loulé:** The Showroom in [Almancil](https://www.artonbar.com/coffee/almancil/), ten minutes down the road, weekdays only.
+
 ## FAQ
 
-Is there specialty coffee in Loulé & Almancil?
+Is there specialty coffee in Loulé?
 
-Yes: The Showroom Coffeehouse, bean17 coffee and more, Mellow Café, Lahana.
+Yes: bean17 coffee and more, Mellow Café.
 
-Which café in Loulé & Almancil is good for working on a laptop?
+Which café in Loulé is good for working on a laptop?
 
-The Showroom Coffeehouse, bean17 coffee and more.
+bean17 coffee and more.
 
-Which cafés in Loulé & Almancil are open on Sunday?
+Which cafés in Loulé are open on Sunday?
 
-Lahana.
+The specialty bars we list are closed or unconfirmed on Sunday; the market and the pastelarias are your Sunday coffee.
 
-What time do the specialty cafés in Loulé & Almancil open?
+What time do the specialty cafés in Loulé open?
 
-The earliest is Lahana at 08:00. Most open at nine or later.
+The earliest is bean17 coffee and more at 09:00. Most open at nine or later.
 
 
 ========================================================================
@@ -6380,6 +6457,118 @@ Cerca de 30 minutos de carro. Fácil de chegar a partir da maior parte do Algarv
 ## O que fazer em Carvoeiro
 
 Passeios de barco à gruta de Benagil, caiaque pelas grutas marinhas, tours de snorkeling — Carvoeiro é o ponto de partida para a melhor costa do Algarve.
+
+
+========================================================================
+https://www.artonbar.com/pt/coffee/loule/
+========================================================================
+
+# Bom Café em Loulé: Os Únicos Dois Sítios a Sério (2026)
+
+> Onde beber bom café em Loulé: os dois únicos cafés de especialidade da cidade, o bean17 no mercado (torra própria) e o Mellow, com horários, domingo, e porque é que o resto sabe a queimado.
+
+Source: https://www.artonbar.com/pt/coffee/loule/  
+Format: Markdown twin of the HTML page, generated 2026-11-19. Cite the source URL.
+
+---
+
+☕ Café · Loulé
+
+# Bom café em Loulé: os dois sítios que o fazem a sério
+
+Vivo perto de Loulé e o bom café é o hobby que vou alimentando. A notícia honesta: só há dois sítios na cidade onde o café é feito como deve ser. O bean17, dentro do Mercado Municipal, que torra o próprio café e só abre até à uma da tarde. E o Mellow, com bom café, bons bolos, uma sala agradável e cocktails ao fim do dia. No resto de Loulé o café sabe a queimado.
+
+Horários verificados a 2026-11-19. Visitado quer dizer que bebemos lá o café; as classificações mostradas são do Google.
+
+[★
+
+Featured spot Available now · €29/month
+
+Your café, first on the Loulé coffee page
+
+Residents, remote workers and cyclists looking for a proper coffee in Loulé read this page. The featured slot puts your café at the top, labelled as paid. The verdict underneath stays ours.
+
+€29
+Reservar →](https://www.artonbar.com/submit-a-bar/)
+
+A sério
+
+## 2 sítios que fazem café como deve ser
+
+1
+
+Visitado [bean17 coffee and more ↗](https://www.instagram.com/bean17coffeeandmore/)
+
+Mercado Municipal de Loulé, loja 11, Rua Ataíde de Oliveira · qua–sex 09:00–13:00, sáb 08:00–14:00, fechado dom–ter · €3
+
+O balcão de café dentro do Mercado Municipal de Loulé, com torra própria: a outra chávena a sério da cidade, com espresso de origem única, pour-over, tarte de maçã holandesa e pão de banana. Só de manhã, só dinheiro, minúsculo. Um plano para a manhã.
+
+💻 portátil ok torra própria leite de aveia aceita cães
+
+⭐ 4.7
+
+2
+
+Visitado Mellow Café
+
+Rua Dom Paio Peres Correia 18 · ter–sáb 09:30–15:30, fechado dom–seg
+
+Um dos únicos dois sítios em Loulé onde o café é feito como deve ser. Uma sala pequena com ar vintage e loiça desirmanada, bons bolos caseiros à fatia, e cocktails ao fim do dia. Ocupa o antigo espaço da padaria Cinnaroma.
+
+✔ visitado
+
+A alternativa honesta
+
+## Tradicional, e bom nisso
+
+Não é café de especialidade, nem finge ser. Abre cedo, serve uma bica decente e os doces que a cidade come de facto.
+
+1
+
+[Café Calcinha ↗](http://cafecalcinha.com)
+
+Praça da República 67 · Todos os dias 08:00–23:00
+
+O grande café art déco de 1929 na praça, restaurado e municipal, com o Folhado de Loulé. Vem-se pela sala e pelo horário longo; o café é razoável, não notável, e o serviço distrai-se.
+
+abre ao domingo abre às 08:00
+
+⭐ 4.4
+
+## Como se bebe café em Loulé
+
+Loulé é uma cidade de mercado, e é no mercado que está o café. O **bean17** é um balcão dentro do Mercado Municipal, de quarta a sábado de manhã, com a Ilona a torrar o próprio café ali atrás: espresso de origem única, um pour-over se pedir, um flat white que não ficaria mal em Lisboa, e uma tarte de maçã holandesa que é a razão de metade dos habituais. Só aceita dinheiro, é minúsculo, e quando o mercado fecha à uma, o café fecha também. Vá ao sábado, quando abre às oito e o mercado está no seu melhor.
+
+O **Mellow** é a resposta da tarde: uma sala pequena com ar vintage e loiça desirmanada na Rua Dom Paio Peres Correia, a poucos minutos a pé da praça, com café feito com cuidado, bolos caseiros à fatia, e cocktails quando o dia vira. De terça a sábado, até às três e meia. Se quer sentar-se uma hora com um livro, é este.
+
+Tudo o resto em Loulé serve o padrão português: uma bica de uma máquina que não é limpa desde o euro, leite fervido em vez de vaporizado. O **Café Calcinha**, na praça, é a exceção que confirma a regra: a sala art déco de 1929 vale a visita por si, o café é razoável, e está aberto todos os dias até às onze da noite, o que nenhum dos dois acima pode dizer. Ao domingo, com o bean17 e o Mellow fechados, o Calcinha é o seu café.
+
+## Café em Loulé, respostas rápidas
+
+- **Melhor café em Loulé:** bean17 (torrado no local) de manhã, Mellow à tarde.
+- **Café no mercado de Loulé:** bean17, loja 11, qua–sex 9h–13h, sáb 8h–14h.
+- **Domingo:** Café Calcinha, 8h–23h. Os de especialidade estão fechados.
+- **Portátil:** o bean17 tem Wi-Fi, mas é um balcão, não um escritório.
+- **Café para levar para casa:** o bean17 vende a própria torra.
+- **Perto de Loulé:** The Showroom, em [Almancil](https://www.artonbar.com/coffee/almancil/) (EN), a dez minutos, só em dias úteis.
+
+## Perguntas frequentes
+
+Onde se bebe bom café em Loulé?
+
+Em dois sítios: o bean17, dentro do Mercado Municipal, que torra o próprio café e abre só de manhã, e o Mellow, na Rua Dom Paio Peres Correia, com bons bolos e uma sala agradável. No resto da cidade o café sabe a queimado.
+
+Há café de especialidade em Loulé?
+
+Sim, mas pouco: o bean17 (torra própria, quarta a sexta das 9h às 13h, sábado das 8h às 14h) e o Mellow (terça a sábado, das 9h30 às 15h30).
+
+Que café está aberto ao domingo em Loulé?
+
+O Café Calcinha, na Praça da República, das 8h às 23h. O bean17 e o Mellow estão fechados ao domingo.
+
+Há café bom no mercado de Loulé?
+
+Há: o bean17, loja 11. Espresso de origem única, pour-over, flat white, tarte de maçã. Só dinheiro, e fecha quando o mercado fecha, à uma.
 
 
 ========================================================================
